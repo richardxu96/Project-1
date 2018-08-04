@@ -24,4 +24,4 @@ Excel, Pandas, Matplotlab, Numpy
 -	Accuracy and participation of self-reported data
 -	Lack of standardization and verification for information
 
-[Link to Repository for xlsx file](https://github.com/richardxu96/Project-1)
+[Link to xlsx file](https://github.com/richardxu96/Project-1/blob/master/IL%20Shelter%20Data%202010%20to%202015.xlsx)
