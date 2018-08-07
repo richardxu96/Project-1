@@ -1,0 +1,12 @@
+Null Hypothesi(?)
+  1. Should be no difference in rates for different types of pet
+  2. Should have no difference in rates between different locations
+  3. Should have no difference in rates over time
+  4. Should have no difference in rates between email and no email
+
+T-Test is difference between 2 means
+  - use p-value, the odds of getting the result if the null hypothesis is true, to tell the signficance
+  - smaller the p-value (<.05), then less likely to get results, so then the null hypothesis is not true
+ 
+  
+  
