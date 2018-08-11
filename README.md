@@ -16,8 +16,9 @@ Shelter Animals Count Data
      - Pie Graphs for percentages
 2)   The effect of location on volume of adoption, euthanasia, and return to owner rates.  
      - Bubble chart
-3)   Illinois trends for intake, adoption, return to owner, and euthanasia over time.
-     - Line chart
+3)   Illinois trends for intake, adoption, return to owner, and euthanasia of pets
+     - Line chart for beginv to endinv
+     - dogs, cats, others in 1 chart, color coded
 
 **Techniques & tools:**
 
