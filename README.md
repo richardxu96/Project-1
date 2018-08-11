@@ -17,9 +17,7 @@ Shelter Animals Count Data
 2)     The effect of location on volume of adoption, euthanasia, and return to owner rates.  Which counties have the highest/lower amount, does this have correlation to population size or income levels?
      - Bubble chart
 3)    Illinois trends for intake, adoption, return to owner, and euthanasia over time.
-     - Line graph 
-4)    Does listing a business email have any effects of rates?
-     - see if there is a correlation
+     - Line chart
 
 **Techniques & tools:**
 
