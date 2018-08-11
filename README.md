@@ -3,30 +3,30 @@ Team Members:  Jim Cloud, Heather Mueller, Richard Xu
 ## Project Title:  Animal Welfare Outcomes
 
 **Description:**  
-Analyze shelter animal statistics for trends in adoption, euthanasia, and return to owner
+Analyze shelter animal statistics for trends in species, age, and time of year.
 
 **Data:**	
-Illinois Department of Agriculture Animal Shelter license renewal sheets
-Shelter Animals Count Data
+Austin Animal Shelter Data
 
 **3-5 Initial research questions:**
 
-1)	 Differences between adoption, euthanasia, and return to owner rates between different kinds of pets.
+1)   Differences between intake rates in types of pets? (dogs, cats, other)
      - Bar Graphs for volume
-     - Pie Graphs for percentages
-2)	 The effect of location on volume of adoption, euthanasia, and return to owner rates.  Which counties have the highest/lower amount, does this have correlation to population size or income levels?
+2)   What type of animals are owners surrendering? (dogs, cats, other)
+     - Bar Graphs for volume
+     - Pie Chart for percentages
+3)   The effect of time of year on animal intake?
      - Bubble chart
-3)	Illinois trends for intake, adoption, return to owner, and euthanasia over time.
-     - Line graph 
-4)	Does listing a business email have any effects of rates?
-     - see if there is a correlation
+4)   Trends in animal age for adoption intake
+     -Scatter Plot
+5)   Trends over time
+     -line chart 
 
 **Techniques & tools:**
 
 Excel, Pandas, Matplotlab, Numpy
 
 **Data Shortcomings:**
--	Accuracy and participation of self-reported data
--	Lack of standardization and verification for information
+- Dataset has a limited amount of information recorded
 
-[Link to xlsx file](https://github.com/richardxu96/Project-1/blob/master/IL%20Shelter%20Data%202010%20to%202015.xlsx)
+[Link to xlsx file](https://catalog.data.gov/dataset/austin-animal-center-intakes)
