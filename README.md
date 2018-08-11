@@ -14,7 +14,7 @@ Shelter Animals Count Data
 1)   Differences between adoption, euthanasia, and return to owner rates between different kinds of pets.
      - Bar Graphs for volume
      - Pie Graphs for percentages
-2)   The effect of location on volume of adoption, euthanasia, and return to owner rates.  Which counties have the highest/lower amount, does this have correlation to population size or income levels?
+2)   The effect of location on volume of adoption, euthanasia, and return to owner rates.  
      - Bubble chart
 3)   Illinois trends for intake, adoption, return to owner, and euthanasia over time.
      - Line chart
