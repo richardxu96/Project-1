@@ -17,8 +17,12 @@ Shelter Animals Count Data
 2)   The effect of location on volume of adoption, euthanasia, and return to owner rates.  
      - Bubble chart
 3)   Illinois trends for intake, adoption, return to owner, and euthanasia of pets
-     - Line chart for beginv to endinv
-     - dogs, cats, others in 1 chart, color coded
+     - adoption, return to owner, and euthanasia rates
+     - dogs, cats, others in own charts, color coded, dashed
+4)   Census Api to test
+     - maybe try doing poverty rates?
+5)   Regression analysis
+     - std dev or var of adoption rates?
 
 **Techniques & tools:**
 
