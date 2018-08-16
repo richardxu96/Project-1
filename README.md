@@ -14,19 +14,19 @@ Shelter Animals Count Data
 1)   Differences between adoption, euthanasia, and return to owner rates between different kinds of pets.
      - Bar Graphs for volume
      - Pie Graphs for percentages
-2)   Illinois trends for intake, adoption, return to owner, and euthanasia of pets
-     - Line chart for adoption, return, and euth
-     - 3 charts (dogs, cats, others) color code and dashed/bold lines
-3)   The effect of location on volume of adoption, euthanasia, and return to owner rates.  
-     - Bubble chart (review homework)
-4)   Census API stuff
+2)   The effect of location on volume of adoption, euthanasia, and return to owner rates.  
+     - Bubble chart
+3)   Illinois trends for intake, adoption, return to owner, and euthanasia of pets
+     - Line chart for beginv to endinv
+     - dogs, cats, others in 1 chart, color coded
 
 **Techniques & tools:**
 
-Excel, Pandas, Matplotlab, Numpy, API
+Excel, Pandas, Matplotlab, Numpy
 
 **Data Shortcomings:**
 -    Accuracy and participation of self-reported data
 -    Lack of standardization and verification for information
 
 [Link to xlsx file](https://github.com/richardxu96/Project-1/blob/master/IL%20Shelter%20Data%202010%20to%202015.xlsx)
+
