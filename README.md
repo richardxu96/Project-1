@@ -15,7 +15,8 @@ Shelter Animals Count Data
      - Bar Graphs for volume
      - Pie Graphs for percentages
 2)   The effect of location on volume of adoption, euthanasia, and return to owner rates.  
-     - Bubble chart
+     - Bubble chart (x = population, y = income level, z = volume of ARE)
+     - Pyber homework (week 5)
 3)   Illinois trends for intake, adoption, return to owner, and euthanasia of pets
      - adoption, return to owner, and euthanasia rates
      - dogs, cats, others in own charts, color coded, dashed
