@@ -1,0 +1,1156 @@
+﻿index,County,Year,ShelterID,BusName,City,Zip,License Type,DogSold,PupSold,CatSold,KitSold,ExoticSold,BegInvDog,DogRec,DogAdopt,DogReclaim,DogEuth,EndInvDogs,BegInvCat,CatRec,CatsAdopt,CatsReclaim,CatEuth,EndInvCats,BegInvOther,OtherRec,OtherAdopt,OtherReclaim,OtherEuth,EndInvOther,AllRec,AllAdopt,AllReclaim,AllEuth
+1,Carroll,2010,15,Carroll County Animal Pound,Mt. Carroll,61053,Animal Control,0,0,0,0,0,0,111,61,41,3,0,0,0,0,0,0,0,0,0,0,0,0,0,111,61,41,3
+2,Champaign,2010,22,Rantoul Dog Pound,Rantoul,61866,Animal Control,0,0,0,0,0,0,10,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,13,0,0,0
+3,Christian,2010,29,Christian County Animal Control,Taylorville,62568,Animal Control,0,0,0,0,0,0,221,144,51,26,0,0,50,36,5,9,0,0,0,0,0,0,0,271,180,56,35
+4,Clark,2010,31,City of Casey,Casey,62420,Animal Control,0,0,0,0,0,0,63,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,0,23,0
+5,Edgar,2010,169,Edgar County Animal Control,Paris,61944-0381,Animal Control,1,0,0,0,0,0,214,1,202,11,0,0,15,15,0,0,0,0,0,0,0,0,0,229,16,202,11
+6,Effingham,2010,171,Effingham County Animal Control,Effingham,62401,Animal Control,0,0,0,0,0,0,364,110,73,181,0,0,143,7,4,132,0,0,0,0,0,0,0,507,117,77,313
+7,Fulton,2010,189,Fulton County Animal Control,Canton,61520,Animal Shelter,0,0,0,0,0,0,574,432,137,0,0,0,458,447,14,33,0,0,0,0,0,0,0,1032,879,151,33
+8,Jackson,2010,204,Humane Society of Southern Illinois,Carbondale,62903,Animal Shelter,0,0,0,0,0,0,1159,126,189,550,0,0,1418,99,22,1029,0,0,150,15,0,85,0,2727,240,211,1664
+9,Kane,2010,226,Anderson Animal Shelter,South Elgin,60177,Animal Shelter,0,0,0,0,0,0,297,224,48,30,0,0,520,414,8,33,0,0,0,1,0,0,0,817,639,56,63
+10,Madison,2010,299,Madison County Rabies Control,Edwardsville,62025,Animal Control,0,0,0,0,0,0,1698,352,332,971,0,0,2432,243,36,2122,0,0,0,0,0,0,0,4130,595,368,3093
+11,Marion,2010,310,City of Centralia,Centralia,62801,None,0,0,0,0,0,0,766,24,168,163,0,0,228,7,9,32,0,0,0,0,0,0,0,994,31,177,195
+12,Massac,2010,320,City of Metropolis,Metropolis,62960,Animal Control,0,0,0,0,0,0,270,190,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,270,190,40,40
+13,Morgan,2010,325,Morgan County Animal Control,Jacksonville,62650,Animal Control,0,0,0,0,0,0,534,112,0,31,0,0,427,28,0,64,0,0,0,0,0,0,0,961,140,0,95
+14,Randolph,2010,352,Sparta Animal Control,Sparta,62286,Animal Control,0,0,0,0,0,0,256,106,100,50,0,0,125,0,0,125,0,0,56,0,0,56,0,437,106,100,231
+15,Richland,2010,356,Richland County Animal Control Center,Olney,62450,Animal Control,0,0,0,0,0,0,418,10,49,94,0,0,259,1,1,46,0,0,0,0,0,0,0,677,11,50,140
+16,Schuyler,2010,396,Schuyler County Dog Pound,Rushville,62681,Animal Control,0,0,0,0,0,0,198,174,13,11,0,0,4,0,2,2,0,0,42,0,30,12,0,244,174,45,25
+17,Stephenson,2010,399,Freeport Animal Hospital Inc.,Freeport,61032,Animal Control,18,21,22,41,0,0,108,50,46,12,0,0,45,0,0,45,0,0,0,0,0,0,0,153,50,46,57
+18,Stephenson,2010,400,Freeport City Pound,Freeport,61032,Animal Control,0,0,0,0,0,0,243,0,117,54,0,0,86,0,0,58,0,0,0,0,0,0,0,329,0,117,112
+19,Tazewell,2010,408,Tazewell Animal Protective Society,Pekin,61554,Animal Shelter,0,0,0,0,0,0,530,469,1,3,0,0,415,293,0,7,0,0,0,0,0,0,0,945,762,1,10
+20,Vermilion,2010,415,Humane Society Of Danville,Danville,61832,Animal Shelter,0,0,0,0,0,0,824,194,301,329,0,0,716,93,30,570,0,0,11,5,0,6,0,1551,292,331,905
+21,Wabash,2010,418,Wabash County Animal Control,Mt. Carmel,62863,None,0,0,0,0,0,0,354,77,37,2,0,0,244,93,3,4,0,0,0,0,0,0,0,598,170,40,6
+22,Kendall,2010,478,Kendall County Animal Control,Yorkville,60560,Animal Control,198,1,44,39,0,0,363,199,80,28,0,0,134,83,1,0,0,0,0,0,0,0,0,497,282,81,28
+23,Will,2010,486,TLC Animal Shelter & Humane Society,Homer Glen,60491,Animal Shelter,0,0,0,0,0,0,1026,951,35,40,0,0,497,396,14,87,0,0,107,82,0,25, ,1630,1429,49,152
+24,Dewitt,2010,1395,Dewitt County Animal Control,Clinton,61727,Animal Control,0,0,0,0,0,0,142,66,63,8,0,0,155,45,0,20,0,0,0,0,0,0,0,297,111,63,28
+25,Hancock,2010,1520,Hancock County Dog Pound,Basco,62313,Animal Control,0,0,0,0,0,0,349,222,57,70,0,0,0,0,0,0,0,0,0,0,0,0,0,349,222,57,70
+26,Madison,2010,1909,Granite City Humane Shelter,Granite City,62040,Animal Control,0,0,0,0,0,0,623,20,150,458,0,0,559,5,10,544,0,0,0,0,0,0,0,1182,25,160,1002
+27,Williamson,2010,2354,City of Marion,Marion,62959,Animal Control,0,0,0,0,0,0,450,115,80,2,0,0,200,30,5,50,0,0,0,0,0,0, ,650,145,85,52
+28,Marshall,2010,2440,Marshall County Dog Pound,Lacon,61540,Animal Control,0,0,0,0,0,0,240,30,190,20,0,0,0,0,0,0,0,0,0,0,0,0,0,240,30,190,20
+29,Warren,2010,2945,Warren County Dog Pound,Monmouth,61462,Animal Control,0,0,0,0,0,0,241,83,127,11,0,0,225,180,2,41,0,0,0,0,0,0,0,466,263,129,52
+30,Sangamon,2010,3257,Sangamon County Animal Countrol CTR.,Springfield,62703,Animal Control,0,0,0,0,0,0,2553,818,511,776,0,0,1977,595,31,1065,0,0,580,16,10,373,0,5110,1429,552,2214
+31,Douglas,2010,3259,Douglas County Animal Control,Tuscola,61953-0320,Animal Control,0,0,0,0,0,0,56,12,18,1,0,0,24,8,10,0,0,0,0,0,0,0,0,80,20,28,1
+32,Dekalb,2010,3343,Dekalb County Animal Shelter,Genoa,60135-7612,Animal Shelter,0,0,0,0,0,0,246,222,38,5,0,0,160,159,15,13,0,0,2,2,0,0,0,408,383,53,18
+33,Boone,2010,3508,Boone County Animal Control,Belvidere,61008,Animal Control,0,0,0,0,0,0,416,40,286,90,0,0,39,0,0,39,0,0,12,2,0,10,0,467,42,286,139
+34,Clinton,2010,3586,Clinton County Animal Control,Carlyle,62231,Animal Control,0,0,0,0,0,0,652,166,235,251,0,0,575,33,15,527,0,0,0,0,0,0,0,1227,199,250,778
+35,Will,2010,3595,Village of Romeoville ,Romeoville,60446,Animal Control,0,0,0,0,0,0,253,48,205,0,0,0,54,48,5,1,0,0,0,0,0,0, ,307,96,210,1
+36,Kane,2010,3626,Aurora Animal Control & Care,Aurora,60506,Animal Control,0,0,0,0,0,0,1359,175,433,459,0,0,1693,111,33,828,0,0,1129,0,2,288,0,4181,286,468,1575
+37,Grundy,2010,3700,Grundy County Animal Control,Morris,60450,Animal Control,0,0,0,0,0,0,299,87,130,70,0,0,359,15,8,267,0,0,0,0,0,0,0,658,102,138,337
+38,White,2010,3791,Carmi City Dog Pound,Carmi,62821,Animal Control,0,0,0,0,0,0,304,100,84,120,0,0,0,0,0,0,0,0,0,0,0,0, ,304,100,84,120
+39,Washington,2010,3796,Washington County Animal Control,Nashville,62263,Animal Control,0,0,0,0,0,0,283,201,75,7,0,0,212,208,1,3,0,0,0,0,0,0, ,495,409,76,10
+40,Jersey,2010,3850,Jerseyville Animal Control,Jerseyville,62052,Animal Control,0,0,0,0,0,0,111,0,22,89,0,0,65,0,4,61,0,0,0,0,0,0,0,176,0,26,150
+41,Will,2010,3874,Will County Humane Society,Shorewood,60404,Animal Shelter,0,0,0,0,0,0,128,127,0,1,0,0,93,125,2,0,0,0,3,3,0,0, ,224,255,2,1
+42,Madison,2010,3923,Warren Billhartz Animal Shelter,Collinsville,62234,None,0,0,0,0,0,0,304,19,122,59,0,0,365,9,16,161,0,0,146,0,3,42,0,815,28,141,262
+43,Kankakee,2010,3970,Kankakee County Animal Control Center,Kankakee,60901,Animal Control,0,0,0,0,0,0,1065,413,257,395,0,0,385,160,7,418,0,0,81,41,7,33,0,1531,614,271,846
+44,Tazewell,2010,4246,Tazewell County Animal Control,Tremont,61568,Animal Control,57,23,53,20,0,0,934,80,344,318,0,0,1172,73,17,917,0,0,89,0,0,32,22,2195,153,361,1267
+45,Bond,2010,4351,Bond County/City of Greenville,Greenville,62246,Animal Control,0,0,0,0,0,0,189,0,66,108,0,0,40,0,1,39,0,0,0,0,0,0,0,229,0,67,147
+46,Will,2010,4363,Frankfort TWP. Animal Control,Frankfort,60423,Animal Control,0,0,0,0,0,0,190,20,170,0,0,0,45,27,8,10,0,0,15,0,0,15,0,250,47,178,25
+47,Woodford,2010,4437,City of Minonk,Minonk,61760,Animal Control,0,0,0,0,0,0,13,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,10,0
+48,Saline,2010,4465,Saline County Animal Control,Harrisburg,62946,Animal Control,0,0,0,0,0,0,642,5,61,319,0,0,371,0,0,344,0,0,0,0,0,0,0,1013,5,61,663
+49,Franklin,2010,4486,Franklin County Dog Pound,Benton,62812,Animal Control,0,0,0,0,0,0,1253,517,72,664,0,0,1265,380,16,869,0,0,4,0,0,4,0,2522,897,88,1537
+50,Will,2010,4530,Bolingbrook Animal Control & Care,Bolingbrook,60440,Animal Control,0,0,0,0,0,0,410,70,305,11,0,0,221,123,11,22,0,0,12,12,0,0, ,643,205,316,33
+51,Henderson,2010,4651,Henderson County Dog Pound,Oquawka,61469,Animal Control,0,0,0,0,0,0,88,42,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,42,46,0
+52,Will,2010,4714,Joliet TWP Animal Control Center,Joliet,60436,Animal Control,0,0,0,0,0,0,963,333,350,280,0,0,876,264,16,596,0,0,9,7,0,2, ,1848,604,366,878
+53,Macon,2010,4811,Macon County Animal Control & Care Ctr,Decatur,62526,Animal Control,0,0,0,0,0,0,1396,332,324,723,0,0,1640,233,26,1195,0,0,384,5,1,368,0,3420,570,351,2286
+54,Kankakee,2010,4822,Kanakakee County Humane Society Inc.,Kankakee,60901,Animal Shelter,0,0,0,0,0,0,228,230,1,1,0,0,84,97,0,1,0,0,0,0,0,0,0,312,327,1,2
+55,Perry,2010,4839,Perry County Animal Control,Pinckneyville,62274,Animal Control,0,0,0,0,0,0,326,217,80,27,0,0,227,108,0,112,0,0,1,1,0,0,0,554,326,80,139
+56,Macoupin,2010,4869,Macoupin County Animal Control,Carlinville,62626,Animal Control,0,0,0,0,0,0,782,239,287,256,0,0,462,132,110,220,0,0,15,15,0,0,0,1259,386,397,476
+57,Rock Island,2010,4875,City of Silvis,Silvis,61282,Animal Control,0,0,0,0,0,0,63,0,41,0,0,0,20,1,2,0,0,0,1,0,0,0,0,84,1,43,0
+58,Jodaviess,2010,4982,Village of Warren,Warren,61087,None,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0
+59,Shelby,2010,4991,Shelby County Animal Control,Shelbyville,62565,Animal Control,0,0,0,0,0,0,563,180,21,251,0,0,14,6,1,7,0,0,0,0,0,0,0,577,186,22,258
+60,Henry,2010,5008,Henry County Animal Shelter,Cambridge,61238,Animal Control,0,0,0,0,0,0,119,45,70,4,0,0,23,19,0,4,0,0,0,0,0,11,0,142,64,70,19
+61,Jefferson,2010,5064,Jefferson Co. Animal Control,Mt. Vernon,62864,Animal Control,0,0,0,0,0,0,1211,163,524,524,0,0,919,40,11,869,0,0,0,0,0,0,0,2130,203,535,1393
+62,Winnebago,2010,5140,Winnebago County Animal Services,Rockford,61103,Animal Control,0,0,0,0,0,0,3621,759,1014,1433,0,0,4674,660,77,3513,0,0,2012,59,20,987,0,10307,1478,1111,5933
+63,Henry,2010,5196,Geneseo Police Department,Geneseo,61254,Animal Control,0,0,0,0,0,0,36,6,30,0,0,0,26,21,5,0,0,0,0,0,0,0,0,62,27,35,0
+64,Woodford,2010,5200,Steffen Dr. J. R. ,Goodfield,61742,Animal Control,0,0,0,0,0,0,140,60,70,10,0,0,10,2,3,5,0,0,0,0,0,0,0,150,62,73,15
+65,Vermilion,2010,5202,Vermilion County Animal Shelter,Danville,61834,Animal Control,0,0,0,0,0,0,1198,629,203,294,0,0,1235,517,22,632,0,0,88,10,1,12,0,2521,1156,226,938
+66,Coles,2010,5242,Coles County Animal Shelter,Charleston,61920,Animal Control,0,0,0,0,0,0,1002,326,266,381,0,0,900,174,9,524,0,0,113,11,80,22,0,2015,511,355,927
+67,Putnam,2010,5252,Putnam County Animal Control,McNabb,61335,Animal Control,0,0,0,0,0,0,29,11,13,5,0,0,28,5,0,23,0,0,0,0,0,0,0,57,16,13,28
+68,Lawrence,2010,5422,Lawrence County Animal Control,Lawrenceville,62439,Animal Control,0,0,0,0,0,0,175,16,37,6,0,0,142,3,4,33,0,0,0,0,0,0,0,317,19,41,39
+69,Iroquois,2010,5477,Village of Onarga,Onarga,60955,Animal Control,0,0,0,0,0,0,5,0,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,7
+70,Lee,2010,5490,Sauk Valley Humane Soc Inc,Mendota,61342,Animal Shelter,2,0,3,1,0,0,8,2,6,0,0,0,11,3,1,5,0,0,0,0,0,0,0,19,5,7,5
+71,Adams,2010,5531,Adams County Animal Shelter,Quincy,62305,Animal Control,0,0,0,0,0,0,295,223,65,7,0,0,26,26,0,0,0,0,10,4,1,5,0,331,253,66,12
+72,Mason,2010,5567,Village of Manito,Manito,61546,Animal Control,0,0,0,0,0,0,25,20,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,20,5,0
+73,Williamson,2010,5619,Williamson County Animal Control,Marion,62959,Animal Control,0,0,0,0,0,0,642,332,117,193,0,0,18,0,0,18,0,0,2,0,1,1, ,662,332,118,212
+74,Adams,2010,5700,Quincy Humane Society,Quincy,62305,Animal Shelter,0,0,0,0,0,0,593,253,4,4,0,0,347,321,0,27,0,0,26,25,0,1,0,966,599,4,32
+75,Madison,2010,5747,Alton Animal Control Center,Alton,62002,Animal Control,0,0,0,0,0,0,401,45,78,278,0,0,389,14,3,372,0,0,242,4,0,238,0,1032,63,81,888
+76,Mason,2010,5760,City of Havana,Havana,62644,Animal Control,0,0,0,0,0,0,53,2,28,23,0,0,81,0,60,21,0,0,0,0,0,0,0,134,2,88,44
+77,Hamilton,2010,5801,City of Mcleansboro,Mcleansboro,62859,Animal Control,0,0,0,0,0,0,45,32,13,0,0,0,14,14,0,0,0,0,0,0,0,0,0,59,46,13,0
+78,Monroe,2010,6034,Monroe County Animal Pound,Waterloo,62298,Animal Control,0,0,0,0,0,0,196,99,65,32,0,0,220,40,9,171,0,0,6,6,0,0,0,422,145,74,203
+79,Lee,2010,6062,Granny Rose Animal Shelter,Dixon,61021,Animal Shelter,0,0,0,0,0,0,75,73,0,0,0,0,66,78,2,1,0,0,0,0,0,0,0,141,151,2,1
+80,Macoupin,2010,6098,Macoupin County Adopt-A-Pet,Benld,62009,Animal Shelter,0,0,0,0,0,0,327,358,7,1,0,0,195,189,0,0,0,0,0,0,0,0,0,522,547,7,1
+81,St. Clair,2010,6311,Marissa Animal Control,Marissa,62257,Animal Control,0,0,0,0,0,0,112,0,33,0,0,0,128,0,11,0,0,0,0,0,0,0,0,240,0,44,0
+82,Henry,2010,6355,Henry CO Humane Society Kewanee Chapter,Kewanee,61443,Animal Shelter,0,0,0,0,0,0,90,115,0,5,0,0,61,90,0,15,0,0,0,0,0,0,0,151,205,0,20
+83,Rock Island,2010,6357,Animal Aid Humane Society Inc.,Moline,61265,Animal Shelter,0,0,0,0,0,0,33,40,1,0,0,0,307,314,1,0,0,0,0,0,0,0,0,340,354,2,0
+84,Madison,2010,6418,Highland Animal Shelter,Highland,62249,Animal Shelter,0,0,0,0,0,0,170,65,66,0,0,0,246,207,7,0,0,0,0,0,0,0,0,416,272,73,0
+85,Macon,2010,6479,Humane Society of Decator/Macon Co,Decatur,62526,Animal Shelter,0,0,0,0,0,0,72,52,3,1,16,0,104,49,0,2,51,0,0,0,0,0,0,176,101,3,3
+86,Stephenson,2010,6480,Friends Forever Humane Society,Freeport,61032,Animal Shelter,149,63,35,120,0,0,212,212,4,3,0,0,106,185,1,20,0,0,0,0,0,0,0,318,397,5,23
+87,Cumberland,2010,6512,Cumberland County Pound,Toledo,62468,Animal Shelter,0,0,0,0,0,0,67,60,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,67,60,10,7
+88,Clark,2010,6577,Bender's Townhouse Kennels,West Union,62477,Animal Control,0,0,0,0,0,0,168,89,21,46,0,0,0,0,0,0,0,0,0,0,0,0,0,168,89,21,46
+89,Madison,2010,6613,Metro East Humane Society,Edwardsville,62025,Animal Shelter,0,0,0,0,0,0,602,516,0,63,0,0,487,368,0,86,0,0,0,0,0,0,0,1089,884,0,149
+90,Randolph,2010,6713,Chester City Pound,Chester,62233,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,Pope,2010,6793,Pope County Animal Pound,Golconda,62938,Animal Control,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,Pulaski,2010,6935,Mound City Animal Pound,Mound City,62963,Animal Control,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+93,Randolph,2010,6969,Randolph County Animal Control,Sparta,62286,Animal Control,0,0,0,0,0,0,145,71,26,48,0,0,36,12,2,22,0,0,0,0,0,0,0,181,83,28,70
+94,White,2010,7123,Grayville City Dog Pound,Grayville,62844,Animal Control,0,0,0,0,0,0,32,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0, ,32,0,32,0
+95,Boone,2010,7126,Roscoe Animal Retreat,Roscoe,61073,Animal Shelter,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+96,Pulaski,2010,7146,City of Mounds,Mounds,62964,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,Shelby,2010,7147,Village of Tower Hill,Tower Hill,62571,Animal Control,0,0,0,0,0,0,3,0,3,0,0,0,1,0,1,0,0,0,0,0,0,0,0,4,0,4,0
+98,Randolph,2010,7376,Evansville Dog Pound,Evansville,62242,Animal Control,0,0,0,0,0,0,7,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,2,1
+99,Wayne,2010,7575,Wayne County Humane Society,Fairfield,62837,Animal Shelter,0,0,0,0,0,0,564,121,65,80,0,0,512,45,1,466,0,0,0,0,0,0, ,1076,166,66,546
+100,Whiteside,2010,7583,Whiteside County Pound,Rock Falls,61071,Animal Control,0,0,0,0,0,0,518,32,244,206,0,0,252,9,5,198,0,0,0,0,0,0,0,770,41,249,404
+101,Randolph,2010,7619,Tilden Animal Control,Tilden,62292,Animal Control,0,0,0,0,0,0,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,6,0
+102,Union,2010,7641,Union County Animal Control,Cobden,62920,Animal Control,0,0,0,0,0,0,302,40,62,79,0,0,104,1,3,62,0,0,7,70,7,0,0,413,111,72,141
+103,Randolph,2010,7682,Steelville Animal Control,Steeleville,62288,Animal Control,0,0,0,0,0,0,6,0,6,0,0,0,9,0,0,9,0,0,30,0,0,30,0,45,0,6,39
+104,Grundy,2010,7683,Gundy County Humane Society,Coal City,60416,Animal Shelter,0,0,0,0,0,0,63,57,1,0,0,0,19,12,0,4,0,0,0,0,0,0,0,82,69,1,4
+105,Edwards,2010,7794,Albion Animal Pound,Albion,62806-1016,Animal Control,0,0,0,0,0,0,37,0,23,14,0,0,42,0,4,38,0,0,120,0,0,0,0,199,0,27,52
+106,Knox,2010,7871,Knox County Humane Society,Galesburg,61401-9770,Animal Shelter,433,71,246,63,0,0,769,504,202,37,0,0,517,309,6,121,0,0,0,0,0,0,0,1286,813,208,158
+107,Shelby,2010,7889,City of Windsor,Windsor,61957,Animal Control,0,0,0,0,0,0,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,6
+108,Macon,2010,7909,Prairieland Animal Welfare,Decator ,62521,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,6,6,0,0
+109,Clark,2010,7961,Baird's Pound,Martinsville,62442,Animal Control,0,0,0,0,0,0,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,3,0
+110,Lasalle,2010,8073,Pet Project Inc.,Marseilles,61341,Animal Shelter,0,0,0,0,0,0,178,171,0,0,0,0,73,45,0,1,0,0,0,0,0,0,0,251,216,0,1
+111,Bureau,2010,8180,Friends Of Strays Inc.,Princeton,61356,Animal Shelter,0,0,0,0,0,0,117,111,0,0,0,0,252,227,0,14,0,0,7,7,0,0,0,376,345,0,14
+112,Christian,2010,8278,City of Assumption,Assumption,62510,Animal Control,0,0,0,0,0,0,10,0,10,0,0,0,5,0,5,0,0,0,0,0,0,0,0,15,0,15,0
+113,Williamson,2010,8392,Herrin Animal Control,Herrin,62948,Animal Control,0,0,0,0,0,0,78,0,19,36,0,0,101,0,16,59,0,0,0,0,0,0,0,179,0,35,95
+114,Greene,2010,8432,White Hall Animal Control,White Hall,62092,Animal Control,0,0,0,0,0,0,19,1,12,6,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,12,6
+115,Cumberland,2010,8443,Neoga Animal Shelter,Neoga,62447,Animal Control,0,0,0,0,0,0,5,0,1,0,0,0,13,0,0,13,0,0,0,0,0,0,0,18,0,1,13
+116,Knox,2010,8448,Knoxville Animal Control,Knoxville,61448,Animal Control,0,0,0,0,0,0,26,2,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,24,0
+117,Grundy,2010,8514,Just Animals Placement Service,Mazon,60444,Animal Shelter,85,47,142,161,0,0,99,132,3,3,0,0,212,303,2,7,0,0,0,0,0,0,0,311,435,5,10
+118,Hardin,2010,8564,City of Rosiclare,Rosiclare,62982,None,0,0,0,0,0,0,19,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,19,0
+119,Lee,2010,8565,City of Amboy,Amboy,61310,Animal Control,0,0,0,0,0,0,13,1,12,0,0,0,15,0,1,14,0,0,0,0,0,0,0,28,1,13,14
+120,Moultrie,2010,8566,Village of Arthur,Arthur,61911,Animal Control,0,0,0,0,0,0,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,0
+121,Will,2010,8568,Homes For Huskies,Lockport,60441,Animal Shelter,12,0,0,0,0,0,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0, ,12,12,0,0
+122,Lawrence,2010,8603,Lawrence County Humane Society (CATS),Lawrenceville,62439,Animal Shelter,55,15,13,10,0,0,271,55,18,12,0,0,179,23,5,15,0,0,0,0,0,0,0,450,78,23,27
+123,Richland,2010,8645,Humane Society of Olney Area,Olney,62450,Animal Shelter,0,0,0,0,0,0,58,39,18,1,0,0,44,29,11,4,0,0,3,3,0,0,0,105,71,29,5
+124,Greene,2010,8675,The Dog P.E.N.,Roodhouse,62082,Animal Shelter,139,12,43,29,0,0,161,153,0,0,0,0,81,72,0,0,0,0,0,0,0,0,0,242,225,0,0
+125,Madison,2010,8699,East Alton Animal Control,East Alton,62024,Animal Control,0,0,0,0,0,0,70,0,40,30,0,0,134,0,14,120,0,0,0,0,0,0,1,204,0,54,150
+126,Coles,2010,8779,Kieffer's K-9 Country Club,Mattoon,61938,Animal Shelter,0,0,0,0,0,0,4,3,0,0,75,56,5,1,0,0,0,0,1,0,0,0,0,10,4,0,0
+127,Brown,2010,8899,City of Mt. Sterling,Mt. Sterling,62353,Kennel Operator,0,0,0,0,0,0,14,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0, ,14,0,14,0
+128,Moultrie,2010,8900,Moultrie County Animal Control,Sullivan,61951,Animal Control,0,0,0,0,0,0,125,44,38,43,0,0,43,5,0,38,0,0,0,0,0,0,0,168,49,38,81
+129,Crawford,2010,8940,Crawford County Humane Society,Robinson,62454-3356,Animal Shelter,0,0,0,0,0,0,723,75,123,62,0,0,738,24,4,224,0,0,0,0,0,0,0,1461,99,127,286
+130,Putnam,2010,8979,Village of Granville,Granville,61326,Animal Control,0,0,0,0,0,0,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,12,0
+131,Pike,2010,8996,Pike County Animal Control,Pittsfield,62363,Animal Control,0,0,0,0,0,0,487,237,141,102,0,0,122,70,20,25,0,0,0,0,0,3,0,609,307,161,130
+132,Douglas,2010,9011,City of Arcola,Arcola,61910-0215,Animal Control,0,0,0,0,0,0,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,10,0
+133,Will,2010,9040,Humane Haven Animal Shelter,Bolingbrook,60440,Animal Shelter,0,0,0,0,0,0,42,24,0,3,0,0,99,127,0,2,0,0,0,0,0,0,0,141,151,0,5
+134,Livingston,2010,9427,Livingston County Humane Society,Pontiac,61764,Animal Shelter,0,0,0,0,0,0,201,142,0,14,0,0,187,102,0,9,0,0,0,0,0,0,0,388,244,0,23
+135,Jodaviess,2010,9465,Safe Haven Humane Society,Elizabeth,61028,Animal Shelter,0,0,0,0,0,0,99,91,7,1,0,0,60,53,1,2,0,0,0,0,0,0,0,159,144,8,3
+136,Kendall,2010,9577,Recycled Rotts Inc.,Oswego,60543,Animal Shelter,0,0,0,0,0,0,111,97,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,111,97,0,12
+137,Fulton,2010,9650,Humane Society of Fulton County,Canton,61520,Animal Shelter,0,0,0,0,0,0,574,432,137,24,0,0,458,447,14,33,0,0,0,0,0,0,0,1032,879,151,57
+138,Will,2010,9742,Shih Tzu Rescue,Homer Glen,60491,Animal Shelter,0,0,0,0,0,0,18,27,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18,27,0,1
+139,Fayette,2010,9936,Fayette County Animal Control,Vandalia,62471,Animal Control,0,0,0,0,0,0,916,72,63,781,0,0,314,1,3,310,0,0,0,0,0,0,0,1230,73,66,1091
+140,Dekalb,2010,9944,Recycling Animals In Need (R.A.I.N.),Hinckley,60520-0810,Animal Shelter,0,0,0,0,0,0,18,17,0,0,0,0,26,20,0,0,0,0,0,0,0,0,0,44,37,0,0
+141,Bureau,2010,9990,Bureau County Animal Control,Princeton,61356,Animal Control,0,0,0,0,0,0,105,53,30,22,0,0,0,0,0,0,0,0,0,0,0,0,0,105,53,30,22
+142,Warren,2010,10075,Western Illinois Animal Rescue Inc.,Monmouth,61462,Animal Shelter,0,0,0,0,0,0,60,40,0,5,0,0,75,30,0,15,0,0,0,0,0,0, ,135,70,0,20
+143,Whiteside,2010,10093,Village of Tampico,Tampico,61283,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,Massac,2010,10102,Village of Joppa,Joppa,62953,Animal Control,0,0,0,0,0,0,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,0
+145,Brown,2010,10161,Village of Versailles,Versailles,62378,Animal Control,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+146,Marshall,2010,10171,"Animal Recycling Kennel H.S., LTD",Lacon,61540,Animal Shelter,140,71,14,49,2,0,215,211,4,11,0,0,63,63,0,24,0,0,2,2,0,0,0,280,276,4,35
+147,Macon,2010,10185,Homeward Bound Pet Shelter Inc.,Decatur,62526,Animal Shelter,0,0,0,0,0,0,366,337,3,2,0,0,94,69,0,1,0,0,0,0,0,0,0,460,406,3,3
+148,Lasalle,2010,10281,Illinois Valley Animal Rescue,Lasalle,61301,Animal Shelter,0,0,0,0,0,0,275,225,35,15,0,0,600,100,15,485,0,0,2,0,2,0,0,877,325,52,500
+149,Livingston,2010,10364,Guardian Angel Basset Rescue Inc.,Dwight,60420,Animal Shelter,0,0,0,0,0,0,220,200,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,220,200,5,5
+150,Will,2010,10409,C.O.P.E.,Joliet,60431,Animal Shelter,0,0,0,0,0,0,2,2,0,0,0,0,82,75,2,1,0,0,0,0,0,0, ,84,77,2,1
+151,Woodford,2010,10437,City of El Paso,El Paso,61738,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, ,0,0,0,0
+152,Randolph,2010,10487,Randolph County Humane Society,Sparta,62286,Animal Shelter,0,0,0,0,0,0,190,49,4,10,0,0,51,18,14,4,0,0,0,0,0,0,0,241,67,18,14
+153,Dekalb,2010,10584,Tails Humane Society,Dekalb,60115,Animal Shelter,0,0,0,0,0,0,1004,867,34,68,0,0,1068,881,36,167,0,0,188,126,1,9,0,2260,1874,71,244
+154,Hancock,2010,10626,Hearts of Hancock Humane Society,Carthage,62321,Animal Shelter,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+155,Johnson,2010,10693,Goines Kennels,Vienna,62995,Animal Control,0,0,0,0,0,0,431,0,72,359,0,0,28,0,0,28,0,0,0,0,0,0,0,459,0,72,387
+156,Perry,2010,10838,Perry County Humane Society,Duquoin,62832,Animal Shelter,0,0,0,0,0,0,137,55,2,1,0,0,55,12,0,0,0,0,0,0,0,0,0,192,67,2,1
+157,Scott,2010,10871,Scott County Dog Rescue,Winchester,62694,Animal Shelter,0,0,0,0,0,0,183,173,0,0,0,0,20,18,0,0,0,0,0,0,0,0,0,203,191,0,0
+158,Sangamon,2010,10913,Illinois Humane,Springfield,62704,Animal Shelter,0,0,0,0,0,0,11,12,0,0,0,0,3,3,0,1,0,0,0,0,0,0,0,14,15,0,1
+159,Kendall,2010,10937,Western Irish Setter Club Inc.,Minooka,60447,Animal Shelter,0,0,0,0,0,0,15,15,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,16,16,0,0
+160,Champaign,2010,10984,Prairieland Anti-Cruelty Program,Champaign,61822,Animal Shelter,0,0,0,0,0,0,9,7,0,7,0,0,304,122,0,90,0,0,0,0,0,0,0,313,129,0,97
+161,Madison,2010,10989,Partners For Pets Humane Society,St. Jacob,62281,Animal Shelter,0,0,0,0,0,0,736,661,0,10,0,0,316,441,0,10,0,0,0,0,0,0,0,1052,1102,0,20
+162,Peoria,2010,11004,Pets For Seniors,Brimfield,61517,Animal Shelter,0,0,0,0,0,0,56,55,0,1,0,0,53,49,0,1,0,0,0,0,0,0,0,109,104,0,2
+163,Jasper,2010,11194,Jasper County Animal Control,Newton,62448,Animal Control,0,0,0,0,0,0,151,1,64,86,0,0,0,0,0,0,0,0,0,0,0,0,0,151,1,64,86
+164,Will,2010,11247,Greater Chicago Caged Bird Club,Lockport,60441,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133,117,0,3, ,133,117,0,3
+165,Fayette,2010,11249,Second Chance Animal Rescue,Vandalia,62471,Animal Shelter,50,120,0,0,0,0,170,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,170,170,0,0
+166,Coles,2010,11250,Genesis Animal Rescue,Mattoon,61938,Animal Shelter,0,0,0,0,0,0,87,75,1,1,0,0,45,25,14,0,0,0,0,0,0,0,0,132,100,15,1
+167,Champaign,2010,11459,Wing of Wonder Avian Rescue,Mahomet,61853,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,32,0,2,0,64,32,0,2
+168,Monroe,2010,11527,Humane Society of Monroe County,Red Bud,62278,Animal Shelter,0,0,0,0,0,0,223,186,0,3,0,0,146,112,0,2,0,0,2,2,0,0,0,371,300,0,5
+169,Champaign,2010,11647,Champaign County Animal Services,Urbana,61820,Animal Control,0,0,0,0,0,0,1172,200,507,465,0,0,884,421,49,414,0,0,17,10,1,6,0,2073,631,557,885
+170,Mason,2010,11651,Pets Without Parents,Easton,62633,Animal Shelter,0,0,0,0,0,0,189,89,37,43,0,0,179,53,8,95,0,0,0,0,0,0,0,368,142,45,138
+171,Kankakee,2010,11653,New Beginnings For Cats,Bourbonnais,60914,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,168,280,0,36,0,0,0,0,0,0,0,168,280,0,36
+172,Champaign,2010,11702,Catsnap,Champaign,61820,Animal Shelter,0,0,0,0,0,0,17,14,1,0,0,315,264,3,7,0,0,0,0,0,0,0,0,281,17,8,0
+173,Jefferson,2010,11881,Australian Cattle Dog Rescue Of IL,Texico,62889,Dog Dealer,0,0,0,0,0,0,354,309,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,354,309,0,11
+174,Carroll,2010,11883,Heartland Pet Welfare Inc.,Savanna,61074,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,120,105,1,5,0,0,0,0,0,0,0,120,105,1,5
+175,Kendall,2010,11945,Greater Chicago Cavalier Rescue,Yorkville,60560,Animal Shelter,0,0,0,0,0,0,68,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,56,0,0
+176,Rock Island,2010,12028,Rock Island County Animal Care & Control,Moline,61265,Animal Control,0,0,0,0,0,0,2307,1782,876,528,0,0,1894,902,39,868,0,0,74,25,4,39,0,4275,2709,919,1435
+177,Jackson,2010,12038,St. Francis Care,Murphysboro,62966,Animal Shelter,0,0,0,0,0,0,413,340,4,10,0,0,79,67,0,1,0,0,0,0,0,0,0,492,407,4,11
+178,Will,2010,12078,Bernese Mountain Dog Club of NI Rescue,Shorewood,60431,Animal Shelter,6,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0
+179,Henry,2010,12142,Henry CO Humane Society Geneseo Chapter,Genoseo,61254,Animal Shelter,0,0,0,0,0,0,45,44,0,1,0,0,286,304,0,8,0,0,0,0,0,0,0,331,348,0,9
+180,Boone,2010,12181,Fresh Start Animal Rescue Inc.,Belvidere,61008,Animal Shelter,0,0,0,0,0,0,476,422,0,2,0,0,133,129,0,3,0,0,0,0,0,0,0,609,551,0,5
+181,Greene,2010,12195,Ghrist Vet Clinic--Carrollton Branch,Carrollton,62016,Animal Control,0,0,0,0,0,0,200,48,23,129,0,0,98,2,1,95,0,0,0,0,0,0,0,298,50,24,224
+182,Clinton,2010,12630,Centralia Humane Society,Centralia,62801,Animal Shelter,0,0,0,0,0,0,130,122,12,0,0,0,117,57,10,0,0,0,0,0,0,0,0,247,179,22,0
+183,Macon,2010,12676,Pet Tracks,Decatur,62526,Animal Shelter,0,0,4,0,0,0,0,0,0,0,0,0,6,4,0,1,0,0,0,0,0,0,0,6,4,0,1
+184,Randolph,2010,12697,Gunner's Run Rescue,Ruma,62278,Animal Shelter,0,0,0,0,0,0,43,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,43,0,0
+185,Stephenson,2010,12772,Critter Camp,German Valley,61039,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,232,36,0,0,0,232,36,0,0
+186,St. Clair,2010,12774,Midwest Schipperke Rescue Inc.,O'Fallon,62269,Animal Shelter,0,0,0,0,0,0,12,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12,11,0,1
+187,Logan,2010,12805,Humane Society of Logan County,Lincoln,62656,Animal Shelter,0,0,0,0,0,0,19,19,0,0,0,0,15,13,0,0,0,0,0,0,0,0,0,34,32,0,0
+188,Bond,2010,12864,Bond County Humane Society,Greenville,62246,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,61,52,0,4,0,0,0,0,0,0,0,61,52,0,4
+189,Will,2010,13180,H.A.P.P.E Parrots Rescue Inc.,Bolingbrook,60440,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,11,2,1, ,21,11,2,1
+190,Montgomery,2010,13249,Montgomery Co Animal Control and Shelter,Hillsboro,62049,Animal Control,0,0,0,0,0,0,481,346,121,14,0,0,138,113,1,24,0,0,0,0,0,0,0,619,459,122,38
+191,Dewitt,2010,13301,"Second Chance Pet Adoptions, Inc.",Clinton,61727,Animal Shelter,0,0,0,0,0,0,0,72,0,2,0,0,0,41,0,0,0,0,0,0,0,0,0,0,113,0,2
+192,Adams,2010,13357,City of Quincy Animal Shelter,Quincy,62301,Animal Control,0,0,0,0,0,0,531,266,265,141,0,0,757,85,24,648,0,0,29,27,0,2,0,1317,378,289,791
+193,Lasalle,2010,13358,City of Streator Animal Control,Streator,61364,Animal Control,0,0,0,0,0,0,90,0,80,10,0,0,75,0,0,75,0,0,0,0,0,0,0,165,0,80,85
+194,Sangamon,2010,13501,Canine Solutions Rescue,Rochester,62563,Animal Shelter,30,11,0,0,0,0,41,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,43,0,0
+195,Will,2010,13512,Making A Difference Rescue,Channahon,60410,Animal Shelter,0,0,0,0,0,0,59,48,0,0,0,0,10,5,0,0,0,0,0,0,0,0, ,69,53,0,0
+196,Winnebago,2010,13587,Robinson Parrot Rescue,Rockford,61103,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0, ,0,7,0,0
+197,Will,2010,13632,English Springer Rescue America Inc.,New Lenox,60451,Animal Shelter,0,0,0,0,0,0,88,83,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,88,83,0,1
+198,Will,2010,13646,Hope 4 Paws Rescue,Plainfield,60586,Animal Shelter,79,39,0,3,0,0,120,118,0,2,3,3,0,0,0,0,0,0,0,0,0,0,0,120,118,0,2
+199,Will,2010,13677,Aloha (A Love Of Homeless Animals),Bolingbrook,60490,Animal Shelter,0,0,0,0,0,0,18,18,0,0,0,0,20,20,0,0,0,0,0,0,0,0,0,38,38,0,0
+200,Will,2010,13679,Critter Corral Guinea Pig Rescue,Crete,60417,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,175,0,5, ,200,175,0,5
+201,Peoria,2010,13702,Paws Giving Independence NFP,Peoria,61614,Animal Shelter,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0
+202,Madison,2010,13730,Dachshund Rescue of St. Louis,Highland,62249,Animal Shelter,0,0,0,0,0,0,35,35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,35,35,0,1
+203,Livingston,2010,13734,Livco Animal Control Inc.,Fairbury,61739,Animal Control,0,0,0,0,0,0,189,99,73,17,0,0,27,0,16,11,0,0,12,12,0,0,0,228,111,89,28
+204,Knox,2010,13761,Guardian Angels Humane Society,Galesburg,61401,Animal Shelter,0,0,0,0,0,0,13,13,0,0,0,0,102,78,0,0,0,0,5,7,0,0,0,120,98,0,0
+205,Macon,2010,13788,Illinois English Bulldog Rescue,Decatur,62526,Animal Shelter,0,0,0,0,0,0,90,80,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,90,80,0,2
+206,Kendall,2010,13789,Eye On The Sparrow,Plano,60545,None,0,0,0,0,0,0,253,250,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,253,250,1,2
+207,Iroquois,2010,13793,Iroquois County Animal Rescue NFP,Iroquois,60945,Animal Shelter,0,0,176,40,0,0,0,0,0,0,0,0,304,216,2,4,0,0,0,0,0,0,0,304,216,2,4
+208,Piatt,2010,13808,Village of Mansfield ,Mansfield ,61854,Animal Shelter,0,0,0,0,0,0,14,0,14,0,0,0,1,0,1,0,0,0,0,0,0,0,0,15,0,15,0
+209,LaSalle,2010,13822,Illinois Valley Cat Taxi,Mendota,61342,Animal Shelter,0,0,0,0,0,0,3,3,0,0,0,0,238,230,0,0,0,0,0,0,0,0,0,241,233,0,0
+210,Kankakee,2010,13825,Village of Manteno Animal Control,Manteno,60950,Animal Control,0,0,0,0,0,0,20,1,14,5,0,0,8,2,2,4,0,0,0,0,0,0,0,28,3,16,9
+211,Will,2010,13826,Angels On Wheels Animal Rescue NFP,Naperville,60564,None,11,58,3,62,0,0,74,69,0,0,0,0,66,65,0,0,0,0,0,0,0,0,0,140,134,0,0
+212,Macoupin,2010,13833,Feathered Nest,Brighton,62012,Animal Shelter,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,40,0,0,0
+213,Jackson,2010,13839,Midwest Animal Rescue Service,Murphysboro,62966,Animal Shelter,2,57,0,3,0,0,59,59,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,62,62,0,0
+214,Will,2010,13841,Wire Fox Terrier Rescue Midwest,Mokena,60448,Animal Shelter,0,0,0,0,0,0,33,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,33,0,0
+215,Union,2010,13872,Cache Creek Animal Rescue,Anna,62906,Animal Shelter,0,0,0,0,0,0,673,513,18,34,0,0,199,168,0,27,0,0,1,1,0,0,0,873,682,18,61
+216,Edgar,2010,13885,Save a Mutt Shelter & Rescue,Chrisman,61924,Animal Shelter,0,0,0,0,0,0,162,112,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,162,112,2,0
+217,Effingham,2010,13912,E.A.R.S.,Effingham,62401,Animal Shelter,0,0,0,0,0,0,183,179,1,2,0,0,60,35,0,4,0,0,1,0,0,0,0,244,214,1,6
+218,Peoria,2010,13920,Peoria County Animal Welfare Shelter,Peoria,61603,Animal Control,0,0,0,0,0,0,2564,632,566,1161,0,0,2837,476,36,2269,0,0,156,57,3,70,0,5557,1165,605,3500
+219,Knox,2010,13922,River King Newfoundland Club Rescue,Brighton,62012,Animal Shelter,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0
+220,Hancock,2010,13923,West Hancock Canine Rescue,Nauvoo,62354,Animal Shelter,0,0,0,0,0,0,191,4,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,197,4,1,0
+221,Madison,2010,13934,Come Bye Border Collie Rescue,Highland  ,62249,Animal Shelter,0,0,0,0,0,0,22,19,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,22,19,0,3
+222,Tazewell,2010,13939,New Spirit Laussie Rescue,Washington,61571,Animal Shelter,0,0,0,0,0,0,111,77,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,111,77,0,3
+223,Shelby,2010,13942,Village of Herrick,Herrick,62431,Animal Control,0,0,0,0,0,0,17,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,2,0
+224,Vermilion,2010,13949,Citizens For Animal Rescue And Adoption,Tilton,61833,Animal Shelter,49,56,86,66,0,0,105,105,0,0,0,0,294,152,4,0,0,0,0,0,0,0,0,399,257,4,0
+225,Kendall,2010,13987,Jellystone Bark's Rescue Rangers,Oswego,60543,Animal Shelter,20,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+226,Crawford,2010,14047,Crawford County Spay & Neuter Foundation,Robinson,62454,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,76,31,0,9,0,0,0,0,0,0,0,76,31,0,9
+227,Calhoun,2010,14049,Andrea's Adoptive Puppies,Hardin,62047,Animal Shelter,0,0,0,0,0,0,150,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,150,0,0
+228,Montgomery,2010,14054,Paws Care Inc.,Taylor Springs,62017,Animal Shelter,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+229,Winnebago,2010,14064,"Good Shepherd Animal Sanctuary, INC.",Rockford,61103,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,Will,2010,14074,Kings Promise All Breed Rescue,Frankfort,60423,Animal Shelter,13,21,0,0,0,0,37,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0, ,37,34,0,0
+231,Adams,2010,14089,Quincy K-9 Connection,Quincy,62305,Animal Shelter,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0
+232,Carroll,2011,15,Carroll County Animal Pound,Mt. Carroll,61053,Animal Control,0,0,0,0,0,6,99,43,45,16,1,0,0,0,0,0,0,0,0,0,0,0,0,99,43,45,16
+233,Champaign,2011,22,Rantoul Dog Pound,Rantoul,61866,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,Christian,2011,29,Christian County Animal Control,Taylorville,62568,Animal Control,0,0,0,0,0,0,0,102,70,27,0,0,32,31,1,1,0,0,0,0,0,0,0,32,133,71,28
+235,Clark,2011,31,City of Casey,Casey,62420,Animal Control,0,0,0,0,0,0,40,0,25,0,2,0,0,0,0,0,0,0,1,0,1,0,0,41,0,26,0
+236,Edgar,2011,169,Edgar County Animal Control,Paris,61944-0381,Animal Control,0,0,0,0,0,10,356,182,152,24,7,0,0,0,0,0,0,0,0,0,0,0,0,356,182,152,24
+237,Effingham,2011,171,Effingham County Animal Control,Effingham,62401,Animal Control,50,73,7,16,0,9,340,123,66,151,5,3,169,23,0,146,0,0,0,0,0,0,0,509,146,66,297
+238,Fulton,2011,189,Fulton County Animal Control,Canton,61520,Animal Control,0,0,0,0,0,0,526,433,89,8,0,0,372,443,3,5,0,0,0,0,0,0,0,898,876,92,13
+239,Jackson,2011,204,Humane Society of Southern Illinois,Carbondale,62903,Animal Shelter,0,0,0,0,0,1001,1001,307,199,465,11,1713,1713,315,38,1312,25,137,137,15,1,102,0,2851,637,238,1879
+240,McDonough,2011,266,McDonough County Animal Shelter,Macomb,61455, Animal Control,0,0,0,0,0,10,620,275,97,12,19,34,772,225,11,156,21,0,0,0,0,0,0,1392,500,108,168
+241,Madison,2011,299,Madison County Rabies Control,Edwardsville,62025,Animal Control,0,0,0,0,0,0,1604,340,308,917,0,0,2085,161,27,1864,0,0,0,0,0,0,0,3689,501,335,2781
+242,Marion,2011,310,City of Centralia,Centralia,62801,0,0,0,0,0,0,0,768,35,148,103,0,0,253,12,6,18,0,0,0,0,0,0,0,1021,47,154,121
+243,Massac,2011,320,Metropolis Animal Control,Metropolis,62960,Animal Control,0,0,0,0,0,256,256,183,31,42,0,0,0,0,0,0,0,0,0,0,0,0,0,256,183,31,42
+244,Morgan,2011,325,Morgan County Animal Control,Jacksonville,62650,Animal Control,0,0,0,0,0,0,423,128,0,13,0,0,484,43,0,20,0,0,0,0,0,0,0,907,171,0,33
+245,Randolph,2011,352,Sparta Animal Control,Sparta,62286,Animal Control,0,0,0,0,0,0,98,10,0,42,0,0,72,0,0,72,0,0,0,0,0,0,0,170,10,0,114
+246,Richland,2011,356,Richland County Animal Control Center,Olney,62450,Animal Control,0,0,0,0,0,12,391,9,62,63,12,7,370,3,1,225,7,0,1,1,0,0,0,762,13,63,288
+247,Schuyler,2011,396,Schuyler County Dog Pound,Rushville,62681,Animal Control,0,0,0,0,0,0,132,108,17,7,0,0,8,5,0,3,0,0,1,1,0,0,0,141,114,17,10
+248,Stephenson,2011,399,Freeport Animal Hospital Inc.,Freeport,61032,Animal Control,20,12,33,40,0,6,123,67,38,22,2,6,79,28,4,42,11,0,0,0,0,0,0,202,95,42,64
+249,Stephenson,2011,400,Freeport City Pound,Freeport,61032,Animal Control,0,0,0,0,0,0,283,0,122,0,0,0,0,0,0,0,0,0,133,0,0,133,0,416,0,122,133
+250,Tazewell,2011,408,Tazewell Animal Protective Society,Pekin,61554,Animal Shelter,0,0,0,0,0,75,361,362,4,2,68,146,130,112,1,3,90,0,0,0,0,0,0,491,474,5,5
+251,Vermilion,2011,415,Humane Society Of Danville,Danville,61832,Animal Shelter,0,0,0,0,0,37,942,235,0,363,34,32,783,108,0,530,14,0,15,11,1,0,0,1740,354,1,893
+252,Wabash,2011,418,Wabash County Animal Control,Mt. Carmel,62863,0,0,0,0,0,0,18,481,86,32,9,16,22,232,116,2,4,17,0,0,0,0,0,0,713,202,34,13
+253,Kendall,2011,478,Kendall County Animal Control,Yorkville,60560,Animal Control,102,10,51,11,0,10,278,166,95,18,9,4,122,110,3,6,7,0,0,0,0,0,0,400,276,98,24
+254,Will,2011,486,TLC Animal Shelter & Humane Society,Homer Glen,60491,Animal Shelter,0,0,0,0,0,13,998,936,4,62,14,6,368,329,1,38,10,2,30,24,0,6,2,1396,1289,5,106
+255,Dewitt,2011,1395,Dewitt County Animal Control,Clinton,61727-9247,Animal Control,0,0,0,0,0,3,118,41,41,11,8,23,111,75,0,32,14,1,1,1,0,0,0,230,117,41,43
+256,Hancock,2011,1520,Hancock County Dog Pound,Basco,62313,0,0,0,0,0,0,0,320,217,56,47,0,0,0,0,0,0,0,0,0,0,0,0,0,320,217,56,47
+257,Madison,2011,1909,Granite City Humane Shelter,Granite City,62040,Animal Control,0,0,0,0,0,0,500,10,89,401,0,0,660,5,20,635,0,0,0,0,0,0,0,1160,15,109,1036
+258,Williamson,2011,2354,City of Marion,Marion,62959,Animal Control,0,0,0,0,0,0,202,120,21,8,0,0,69,43,3,7,0,0,0,0,0,0, ,271,163,24,15
+259,Marshall,2011,2440,Marshall County Dog Pound,Lacon,61540,Animal Control,0,0,0,0,0,0,175,150,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,175,150,0,25
+260,Warren,2011,2945,Warren County Dog Pound,Monmouth,61462,Animal Control,0,0,0,0,0,8,194,79,106,11,6,4,68,71,0,1,0,0,1,1,0,0,0,263,151,106,12
+261,Sangamon,2011,3257,Sangamon County Animal Countrol CTR.,Springfield,62703,Animal Control,687,152,274,379,7,0,2437,839,483,679,0,0,1933,653,16,978,0,0,533,7,0,79,0,4903,1499,499,1736
+262,Douglas,2011,3259,Douglas County Animal Control,Tuscola,61953-0192,Animal Control,54,18,7,21,0,0,79,54,12,6,7,0,31,28,0,3,0,0,0,0,0,0,0,110,82,12,9
+263,Dekalb,2011,3343,Dekalb County Animal Shelter,Genoa,60135-7612,Animal Shelter,0,0,0,0,0,20,207,165,19,18,25,45,181,98,10,28,93,0,2,2,0,0,0,390,265,29,46
+264,Boone,2011,3508,Boone County Animal Control,Belvidere,61008,Animal Control,0,0,0,0,0,0,403,101,199,103,0,0,37,1,0,36,0,0,18,2,0,16,0,458,104,199,155
+265,Clinton,2011,3586,Clinton County Animal Control,Carlyle,62231,Animal Control,0,0,0,0,0,4,451,147,180,120,8,6,484,80,39,365,6,0,0,0,0,0,0,935,227,219,485
+266,Will,2011,3595,Village of Romeoville ,Romeoville,60446,Animal Control,0,0,0,0,0,0,268,72,196,0,0,0,51,39,10,2,0,0,0,0,0,0,0,319,111,206,2
+267,Kane,2011,3626,Aurora Animal Control & Care,Aurora,60506,Animal Control,0,0,0,0,0,18,1477,242,428,611,33,51,1452,274,34,850,16,0,1121,4,3,303,0,4050,520,465,1764
+268,Grundy,2011,3700,Grundy County Animal Control,Morris,60450,Animal Control,0,0,0,0,0,0,268,85,117,62,22,0,299,109,3,192,23,0,2,0,0,0,2,569,194,120,254
+269,White,2011,3791,Carmi City Dog Pound,Carmi,62821,Animal Control,0,0,0,0,0,0,192,41,103,51,0,0,0,0,0,0,0,0,0,0,0,0,0,192,41,103,51
+270,Washington,2011,3796,Washington County Animal Control,Nashville,62263,Animal Control,0,0,0,0,0,0,337,253,70,14,0,0,312,298,12,2,0,0,0,0,0,0,0,649,551,82,16
+271,Jersey,2011,3850,Jerseyville Animal Control,Jerseyville,62052,Animal Control,0,0,0,0,0,0,166,14,23,116,0,0,61,11,2,45,0,0,0,0,0,0,0,227,25,25,161
+272,Will,2011,3874,Will County Humane Society,Shorewood,60404,Animal Shelter,208,112,41,73,0,38,205,208,0,1,34,91,23,41,0,0,73,0,0,0,0,0,0,228,249,0,1
+273,Madison,2011,3923,Warren Billhartz Animal Shelter,Collinsville,62234,0,0,0,0,0,0,1,342,18,146,21,5,3,351,13,1,64,17,1,73,1,0,57,0,766,32,147,142
+274,Kankakee,2011,3970,Kankakee County Animal Control Center,Kankakee,60901,Animal Control,0,0,0,0,0,0,873,279,251,343,0,0,346,188,3,155,0,0,42,17,0,25,0,1261,484,254,523
+275,Tazewell,2011,4246,Tazewell County Animal Control,Tremont,61568,Animal Control,63,5,24,22,0,0,1009,68,385,378,0,0,1120,46,28,884,0,0,170,0,1,69,0,2299,114,414,1331
+276,Bond,2011,4351,Bond County/City of Greenville,Greenville,62246,Animal Control,0,0,0,0,0,5,159,14,70,71,4,0,0,0,0,0,0,0,0,0,0,0,0,159,14,70,71
+277,Will,2011,4363,Frankfort TWP. Animal Control,Frankfort,60423,Animal Control,0,0,0,0,0,0,130,12,117,1,0,0,45,33,7,5,0,0,11,3,0,8,0,186,48,124,14
+278,Woodford,2011,4437,City of Minonk,Minonk,61760,Animal Control,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0
+279,Saline,2011,4465,Saline County Animal Control,Harrisburg,62946,Animal Control,0,0,0,0,0,10,531,5,61,261,10,0,283,1,1,253,0,0,0,0,0,0,0,814,6,62,514
+280,Franklin,2011,4486,Franklin County Animal Control,Benton,62812,Animal Control,0,0,0,0,0,0,1128,120,160,550,0,0,396,12,8,132,0,0,0,0,0,4,0,1524,132,168,686
+281,Will,2011,4530,Bolingbrook Animal Control & Care,Bolingbrook,60440,Animal Control,0,0,0,0,0,3,448,95,279,16,5,5,244,130,10,47,3,1,6,2,0,4,0,698,227,289,67
+282,Henderson,2011,4651,Henderson County Dog Pound,Oquawka,61469,0,0,0,0,0,0,0,86,21,60,5,0,0,0,0,0,0,0,0,0,0,0,0,0,86,21,60,5
+283,Will,2011,4714,Joliet TWP Animal Control Center,Joliet,60436,Animal Control,0,0,0,0,0,36,1149,436,424,286,39,45,871,285,12,564,50,0,3,10,8,3,1,2023,731,444,853
+284,Macon,2011,4811,Macon County Animal Control & Care Ctr,Decatur,62526,Animal Control,0,0,0,0,0,0,1428,450,314,653,0,0,1603,383,25,1097,0,0,225,14,0,211,0,3256,847,339,1961
+285,Kankakee,2011,4822,Kanakakee County Humane Society Inc.,Kankakee,60901,Animal Shelter,0,0,0,0,0,32,228,240,1,4,15,25,97,93,0,1,28,0,0,0,0,0,0,325,333,1,5
+286,Perry,2011,4839,Perry County Animal Control,Pinckneyville,62274,Animal Control,0,0,0,0,0,42,323,248,79,35,3,26,139,96,3,40,26,0,0,0,0,0,0,462,344,82,75
+287,Macoupin,2011,4869,Macoupin County Animal Control,Carlinville,62626,Animal Control,0,0,0,0,0,0,923,482,211,230,0,0,817,503,175,139,0,0,15,11,4,0,0,1755,996,390,369
+288,Rock Island,2011,4875,City of Silvis,Silvis,61282,Animal Control,0,0,0,0,0,0,31,0,20,0,0,0,20,1,3,0,0,0,0,0,0,0,0,51,1,23,0
+289,Jodaviess,2011,4982,Village of Warren,Warren,61087,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Shelby,2011,4991,Shelby County Animal Control,Shelbyville,62565,Animal Control,0,0,0,0,0,4,204,75,77,52,4,0,21,15,2,4,0,0,1,1,0,0,0,226,91,79,56
+291,Henry,2011,5008,Henry County Animal Shelter,Cambridge,61238,Animal Control,0,0,0,0,0,2,94,47,42,5,2,0,0,0,0,0,0,0,0,0,0,0,0,94,47,42,5
+292,Jefferson,2011,5064,Jefferson Co. Animal Control,Mt. Vernon,62864,Animal Control,234,0,0,0,0,20,2064,234,188,1581,80,0,0,0,0,0,0,0,0,0,0,0,0,2064,234,188,1581
+293,Winnebago,2011,5140,Winnebago County Animal Services,Rockford,61103,Animal Control,0,0,0,0,0,98,3251,670,974,1492,80,106,4118,689,69,3380,116,8,1247,49,9,996,3,8616,1408,1052,5868
+294,Henry,2011,5196,Geneseo Police Department,Geneseo,61254,Animal Control,0,0,0,0,0,0,35,7,28,0,0,0,15,10,5,0,0,0,0,0,0,0,0,50,17,33,0
+295,Woodford,2011,5200,Steffen Dr. J. R. ,Goodfield,61742,Kennel Operator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,Vermilion,2011,5202,Vermilion County Animal Shelter,Danville,61834,Animal Control,348,363,141,241,4,58,1345,711,314,340,38,23,1273,387,25,793,96,0,89,34,30,25,0,2707,1132,369,1158
+297,Coles,2011,5242,Coles County Animal Shelter,Charleston,61920,Animal Control Facility,0,0,0,0,0,0,1034,384,254,348,0,0,929,198,24,615,0,0,50,45,2,3,0,2013,627,280,966
+298,Putnam,2011,5252,Putnam County Animal Control,McNabb,61335,Animal Control,0,0,0,0,0,0,39,10,25,3,1,2,10,4,0,6,0,0,0,0,0,0,0,49,14,25,9
+299,Lawrence,2011,5422,Lawrence County Animal Control,Lawrenceville,62439,Animal Control,0,0,0,0,0,4,210,14,30,17,8,0,95,3,3,16,1,0,0,0,0,0,0,305,17,33,33
+300,Iroquois,2011,5477,Village of Onarga,Onarga,60955,Animal Control,0,0,0,0,0,0,12,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,11,1
+301,Lee,2011,5490,Sauk Valley Humane Soc Inc,Mendota,61342,Animal Shelter,2,0,5,2,0,7,1,2,4,0,0,50,4,3,1,2,48,0,0,0,0,0,0,5,5,5,2
+302,Adams,2011,5531,Adams County Animal Shelter,Quincy,62305,Animal Control,0,0,0,0,0,0,250,147,95,8,0,0,7,6,0,1,0,0,10,1,0,9,0,267,154,95,18
+303,Mason,2011,5567,Village of Manito,Manito,61546,Animal Control,0,0,0,0,0,0,15,0,5,0,0,0,0,0,0,0,0,0,10,0,10,0,0,25,0,15,0
+304,Williamson,2011,5619,Williamson County Animal Control,Marion,62959,Animal Control,0,0,0,0,0,30,845,450,173,222,25,0,18,0,2,16,0,0,5,0,0,5,0,868,450,175,243
+305,Adams,2011,5700,Quincy Humane Society,Quincy,62305,Animal Shelter,0,0,0,0,0,32,594,575,4,4,36,31,347,321,0,27,32,32,37,34,0,1,3,978,930,4,32
+306,Madison,2011,5747,Alton Animal Control Center,Alton,62002,Animal Control,0,0,0,0,0,0,380,61,82,237,0,0,346,7,8,331,0,0,327,1,1,325,0,1053,69,91,893
+307,Mason,2011,5760,City of Havana,Havana,62644,Animal Control,0,0,0,0,0,0,35,0,14,21,0,0,60,0,9,51,28,0,0,0,0,0,0,95,0,23,72
+308,Hamilton,2011,5801,City of Mcleansboro,Mcleansboro,62859,Animal Control,0,0,0,0,0,0,13,0,12,1,0,0,2,0,2,0,0,0,2,1,1,0,0,17,1,15,1
+309,Monroe,2011,6034,Monroe County Animal Pound,Waterloo,62298,Animal Control,0,0,0,0,0,0,270,124,110,36,0,0,141,51,8,82,0,0,0,0,0,0,0,411,175,118,118
+310,Lee,2011,6062,Granny Rose Animal Shelter,Dixon,61021,Animal Shelter,74,16,32,17,0,16,95,90,3,1,16,22,64,49,0,2,36,0,0,0,0,0,0,159,139,3,3
+311,Macoupin,2011,6098,Macoupin County Adopt-A-Pet,Benld,62009,Animal Shelter,206,176,73,106,0,65,369,382,5,0,47,44,169,179,0,0,34,0,0,0,0,0,0,538,561,5,0
+312,St. Clair,2011,6311,Marissa Animal Control,Marissa,62257,Animal Control,0,0,0,0,0,0,87,0,67,0,0,0,102,0,5,0,0,0,0,0,0,0,0,189,0,72,0
+313,Henry,2011,6355,Henry CO Humane Society Kewanee Chapter,Kewanee,61443,Animal Shelter,0,0,0,0,0,3,79,70,1,3,8,100,96,60,0,11,125,0,0,0,0,0,0,175,130,1,14
+314,Rock Island,2011,6357,Animal Aid Humane Society Inc.,Moline,61265,Animal Shelter,0,0,0,0,0,5,43,43,0,0,5,80,252,275,0,0,57,0,0,0,0,0,0,295,318,0,0
+315,Madison,2011,6418,Highland Animal Shelter,Highland,62249,Animal Shelter,0,0,0,0,0,0,43,56,0,0,29,0,113,121,0,0,70,0,0,0,0,0,0,156,177,0,0
+316,Macon,2011,6479,Humane Society of Decator/Macon Co,Decatur,62526,Animal Shelter,0,0,0,0,0,16,55,61,3,0,7,51,35,56,0,1,29,0,0,0,0,0,0,90,117,3,1
+317,Stephenson,2011,6480,Friends Forever Humane Society,Freeport,61032,Animal Shelter,0,0,0,0,0,14,243,213,17,1,28,34,148,136,1,3,42,0,3,3,0,0,0,394,352,18,4
+318,Cumberland,2011,6512,Cumberland County Pound,Toledo,62468,Animal Control,0,0,0,0,0,0,79,47,19,11,2,0,0,0,0,0,0,0,0,0,0,0,0,79,47,19,11
+319,Clark,2011,6577,Bender's Townhouse Kennels,West Union,62477,Animal Control,0,0,0,0,0,0,168,89,21,46,0,0,0,0,0,0,0,0,0,0,0,0,0,168,89,21,46
+320,Madison,2011,6613,Metro East Humane Society,Edwardsville,62025,Animal Shelter,0,0,0,0,0,20,564,492,0,49,23,46,272,229,0,51,54,0,0,0,0,0,0,836,721,0,100
+321,Randolph,2011,6713,Chester City Pound,Chester,62233,Animal Control,0,0,0,0,0,0,154,76,64,7,5,0,0,0,0,0,0,0,0,0,0,0,0,154,76,64,7
+322,Pope,2011,6793,Pope County Animal Pound,Golconda,62938,Animal Control,0,0,0,0,0,10,1,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,0
+323,Pulaski,2011,6935,Mound City Animal Pound,Mound City,62963,Animal Control,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+324,Randolph,2011,6969,Randolph County Animal Control,Sparta,62286,Animal Control,0,0,0,0,0,0,134,72,24,36,0,0,23,12,4,7,0,0,0,0,0,0,0,157,84,28,43
+325,White,2011,7123,Grayville City Dog Pound,Grayville,62844,Animal Control,0,0,0,0,0,0,17,1,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,13,3
+326,Boone,2011,7126,Roscoe Animal Retreat,Roscoe,61073,Animal Shelter,0,0,0,0,0,25,50,50,0,0,25,250,200,200,1,0,250,0,0,0,0,0,0,250,250,1,0
+327,Pulaski,2011,7146,City of Mounds,Mounds,62964,Animal Control,0,0,0,0,0,0,3,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,2
+328,Shelby,2011,7147,Village of Tower Hill,Tower Hill,62571,Animal Control,0,0,0,0,0,0,4,0,4,0,0,0,3,0,3,0,0,0,0,0,0,0,0,7,0,7,0
+329,Randolph,2011,7376,Evansville Dog Pound,Evansville,62242,Animal Control,0,0,0,0,0,0,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,10,0
+330,Wayne,2011,7575,Wayne County Humane Society,Fairfield,62837,Animal Shelter,0,0,0,0,0,26,569,111,64,117,36,37,300,60,0,256,21,0,0,0,0,0, ,869,171,64,373
+331,Whiteside,2011,7583,Whiteside County Pound,Rock Falls,61071,Animal Control,0,0,0,0,0,0,522,33,269,216,0,0,240,3,4,236,0,0,0,0,0,0,0,762,36,273,452
+332,Randolph,2011,7619,Tilden Animal Control,Tilden,62292,Kennel Operator,0,0,0,0,0,0,6,0,6,0,0,0,0,1,0,1,0,0,0,0,0,0,0,6,1,6,1
+333,Union,2011,7641,Union County Animal Control,Cobden,62920,Animal Control,0,0,0,0,0,0,0,42,34,43,16,0,0,74,0,55,11,0,12,2,9,0,1,12,118,43,98
+334,Randolph,2011,7682,Steelville Animal Control,Steeleville,62288,Animal Control,0,0,0,0,0,0,8,0,3,0,0,0,0,0,0,6,0,0,0,0,0,0,0,8,0,3,6
+335,Grundy,2011,7683,Gundy County Humane Society,Coal City,60416,Animal Shelter,0,0,0,0,0,1,23,22,0,1,1,2,2,2,0,0,2,0,0,0,0,0,0,25,24,0,1
+336,Edwards,2011,7794,Albion Animal Pound,Albion,62806-1016,Animal Control,0,0,0,0,0,0,57,0,36,21,0,0,44,0,2,42,0,0,18,0,0,0,0,119,0,38,63
+337,Knox,2011,7871,Knox County Humane Society,Galesburg,61401,Animal Shelter,0,0,0,0,0,0,632,404,85,20,0,0,459,279,5,56,0,0,15,15,0,0,0,1106,698,90,76
+338,Shelby,2011,7889,City of Windsor,Windsor,61957,Animal Control,0,0,0,0,0,0,9,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,9
+339,Macon,2011,7909,Prairieland Animal Welfare,Decator ,62521,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,0,3,0,0,0,0,0,0,7,4,0,0
+340,Clark,2011,7961,Baird's Pound,Martinsville,62442,Animal Control,0,0,0,0,0,0,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0
+341,Lasalle,2011,8073,Pet Project Inc.,Marseilles,61341,Animal Shelter,0,0,0,0,0,21,175,174,0,2,20,32,65,68,0,2,27,0,0,0,0,0,0,240,242,0,4
+342,Bureau,2011,8180,Friends Of Strays Inc.,Princeton,61356,Animal Shelter,78,24,186,61,0,28,108,102,0,2,32,492,186,247,0,14,417,0,0,0,0,0,0,294,349,0,16
+343,Christian,2011,8278,City of Assumption,Assumption,62510,Animal Control,0,0,0,0,0,0,10,0,9,1,0,0,4,0,4,0,0,0,6,0,0,6,0,20,0,13,7
+344,Williamson,2011,8392,Herrin Animal Control,Herrin,62948,Animal Control,0,0,0,0,0,252,176,11,47,118,428,104,79,3,0,76,243,0,0,0,0,0,0,255,14,47,194
+345,Greene,2011,8432,White Hall Animal Control,White Hall,62092,Animal Control,0,0,0,0,0,0,48,27,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,27,21,0
+346,Cumberland,2011,8443,Neoga Animal Shelter,Neoga,62447,Animal Control,0,0,0,0,0,0,11,5,6,0,0,0,22,0,0,22,0,0,2,0,0,2,0,35,5,6,24
+347,Knox,2011,8448,Knoxville Animal Control,Knoxville,61448,Animal Control,0,0,0,0,0,0,20,0,20,0,0,0,6,0,6,0,0,0,0,0,0,0,0,26,0,26,0
+348,Grundy,2011,8514,Just Animals Placement Service,Mazon,60444,Animal Shelter,32,36,87,262,0,16,64,68,5,1,12,53,327,349,3,2,31,0,0,0,0,0,0,391,417,8,3
+349,Hardin,2011,8564,City of Rosiclare,Rosiclare,62982,0,0,0,0,0,0,0,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,4,0
+350,Lee,2011,8565,City of Amboy,Amboy,61310,Animal Control,0,0,0,0,0,0,9,5,4,0,0,0,64,3,0,61,0,0,0,0,0,0,0,73,8,4,61
+351,Moultrie,2011,8566,Village of Arthur,Arthur,61911,Animal Control,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0
+352,Will,2011,8568,Homes For Huskies,Lockport,60441,Animal Shelter,12,2,0,0,0,3,14,14,0,0,3,0,0,0,0,0,0,0,0,0,0,0, ,14,14,0,0
+353,Lawrence,2011,8603,Lawrence County Humane Society (CATS),Lawrenceville,62439,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,54,77,12,10,34,72,0,0,0,0,0,0,77,12,10,34
+354,Richland,2011,8645,Humane Society of Olney Area,Olney,62450,Animal Shelter,0,0,0,0,0,0,67,46,21,1,0,0,56,38,18,3,0,0,3,3,0,0,0,126,87,39,4
+355,Greene,2011,8675,The Dog P.E.N.,Roodhouse,62082,Animal Shelter,36,4,158,40,0,9,41,40,0,0,10,4,199,198,0,0,1,0,0,0,0,0,0,240,238,0,0
+356,Madison,2011,8699,East Alton Animal Control,East Alton,62024,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+357,Coles,2011,8779,Kieffer's K-9 Country Club,Mattoon,61938,Animal Shelter,0,0,0,0,0,3,0,0,0,0,3,60,6,20,6,0,40,3,0,1,0,0,2,6,21,6,0
+358,Brown,2011,8899,City of Mt. Sterling,Mt. Sterling,62353,Animal Control,0,0,0,0,0,0,27,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,27,0
+359,Moultrie,2011,8900,Moultrie County Animal Control,Sullivan,61951,Animal Control,0,0,0,0,0,2,111,39,43,29,5,0,37,3,0,34,0,0,0,0,0,0,0,148,42,43,63
+360,Crawford,2011,8940,Crawford County Humane Society,Robinson,62454-3356,Animal Shelter,42,38,5,2,6,41,695,80,64,73,80,170,289,7,4,81,168,2,4,0,0,0,0,988,87,68,154
+361,Putnam,2011,8979,Village of Granville,Granville,61326,Animal Control,0,0,0,0,0,0,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,12,0
+362,Pike,2011,8996,Pike County Animal Control,Pittsfield,62363,Animal Control,0,0,0,0,0,15,305,188,66,46,20,10,83,75,2,13,3,0,0,0,0,0,0,388,263,68,59
+363,Douglas,2011,9011,City of Arcola,Arcola,61910-0215,Animal Control,0,0,0,0,0,5,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0
+364,Will,2011,9040,Humane Haven Animal Shelter,Bolingbrook,60440,Animal Shelter,0,0,0,0,0,3,26,24,0,1,7,35,61,87,2,1,8,0,0,0,0,0,0,87,111,2,2
+365,Livingston,2011,9427,Livingston County Humane Society,Pontiac,61764,Animal Shelter,0,0,0,0,0,23,126,98,0,13,38,71,103,107,0,8,59,0,0,0,0,0,0,229,205,0,21
+366,Jodaviess,2011,9465,Safe Haven Humane Society,Elizabeth,61028,Animal Shelter,0,0,0,0,0,7,83,77,0,2,11,16,61,50,1,4,22,0,0,0,0,0,0,144,127,1,6
+367,Kendall,2011,9577,Recycled Rotts Inc.,Oswego,60543,Animal Shelter,0,0,0,0,0,0,108,98,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,108,98,0,10
+368,Fulton,2011,9650,Humane Society of Fulton County,Canton,61520,Animal Shelter,0,0,0,0,0,19,521,433,89,7,11,85,372,443,3,5,6,0,0,0,0,0,0,893,876,92,12
+369,Will,2011,9742,Shih Tzu Rescue,Homer Glen,60491,Animal Shelter,0,0,0,0,0,20,25,26,0,1,18,0,0,0,0,0,0,0,0,0,0,0,0,25,26,0,1
+370,Fayette,2011,9936,Fayette County Animal Control,Vandalia,62471,Animal Control,0,0,0,0,0,7,444,43,24,377,4,0,129,2,0,127,0,0,0,0,0,0,0,573,45,24,504
+371,Dekalb,2011,9944,Recycling Animals In Need (R.A.I.N.),Hinckley,60520-0810,Animal Shelter,0,0,0,0,0,4,4,3,0,0,1,9,9,7,0,0,2,0,0,0,0,0,0,13,10,0,0
+372,Bureau,2011,9990,Bureau County Animal Control,Princeton,61356,Animal Control,0,0,0,0,0,0,89,37,28,24,0,0,0,0,0,0,0,0,0,0,0,0,0,89,37,28,24
+373,Warren,2011,10075,Western Illinois Animal Rescue Inc.,Monmouth,61462,Animal Shelter,0,0,0,0,0,0,30,30,0,0,0,0,60,51,1,5,3,0,0,0,0,0, ,90,81,1,5
+374,Whiteside,2011,10093,Village of Tampico,Tampico,61283,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+375,Massac,2011,10102,Village of Joppa,Joppa,62953,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,Brown,2011,10161,Village of Versailles,Versailles,62378,Animal Control,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+377,Marshall,2011,10171,"Animal Recycling Kennel H.S., LTD",Lacon,61540,Animal Shelter,155,80,62,87,0,70,170,239,2,4,55,102,41,149,1,6,95,0,0,0,0,0,0,211,388,3,10
+378,Macon,2011,10185,Homeward Bound Pet Shelter Inc.,Decatur,62526,Animal Shelter,0,0,0,0,0,48,445,454,0,10,29,38,108,124,0,6,16,0,0,0,0,0,0,553,578,0,16
+379,Lasalle,2011,10281,Illinois Valley Animal Rescue,Lasalle,61301,Animal Shelter,0,0,0,0,0,58,130,159,22,10,55,211,470,168,6,219,220,0,0,0,0,0,0,600,327,28,229
+380,Livingston,2011,10364,Guardian Angel Basset Rescue Inc.,Dwight,60420,Animal Shelter,0,0,0,0,0,10,180,170,0,3,17,0,0,0,0,0,0,0,0,0,0,0,0,180,170,0,3
+381,Will,2011,10409,C.O.P.E.,Joliet,60431,Animal Shelter,0,0,0,0,0,4,0,0,0,2,2,85,40,41,0,4,80,0,0,0,0,0,0,40,41,0,6
+382,Woodford,2011,10437,City of El Paso,El Paso,61738,Animal Control,0,0,0,0,0,0,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8,0
+383,Randolph,2011,10487,Randolph County Humane Society,Sparta,62286,Animal Shelter,0,0,0,0,0,16,102,77,4,4,33,8,14,12,0,1,9,0,0,0,0,0,0,116,89,4,5
+384,Dekalb,2011,10584,Tails Humane Society,Dekalb,60115,Animal Shelter,565,505,467,519,143,136,1304,1070,43,81,192,193,1080,986,25,117,125,31,129,143,0,5,7,2513,2199,68,203
+385,Hancock,2011,10626,Hearts of Hancock Humane Society,Carthage,62321,Animal Shelter,0,0,0,0,0,0,0,2,0,0,0,7,0,0,0,0,7,0,0,0,0,0,0,0,2,0,0
+386,Johnson,2011,10693,Goines Kennels,Vienna,62995,Animal Control Facility,0,0,0,0,0,2,221,0,88,126,7,0,16,0,0,16,0,0,0,0,0,0,0,237,0,88,142
+387,Perry,2011,10838,Perry County Humane Society,Duquoin,62832,Animal Shelter,0,0,0,0,0,20,76,47,0,2,17,8,25,17,0,1,9,0,0,0,0,0,0,101,64,0,3
+388,Scott,2011,10871,Scott County Dog Rescue,Winchester,62694,Animal Shelter,0,0,0,0,0,10,118,123,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,118,123,0,0
+389,Sangamon,2011,10913,Illinois Humane,Springfield,62704,Animal Shelter,0,0,0,0,0,17,28,32,0,1,11,3,15,9,0,0,9,0,0,0,0,0,0,43,41,0,1
+390,Kendall,2011,10937,Western Irish Setter Club Inc.,Minooka,60447,Animal Shelter,3,0,0,0,0,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0
+391,Champaign,2011,10984,Prairieland Anti-Cruelty Program,Champaign,61822,Animal Shelter,0,0,0,0,0,2,31,13,0,18,2,92,170,126,0,58,76,0,0,0,0,0,0,201,139,0,76
+392,Madison,2011,10989,Partners For Pets Humane Society,St. Jacob,62281,Animal Shelter,0,0,0,0,0,60,570,563,0,7,60,50,384,376,0,8,50,0,0,0,0,0,0,954,939,0,15
+393,Peoria,2011,11004,Pets For Seniors,Brimfield,61517,Animal Shelter,0,0,0,0,0,2,24,22,0,0,4,12,137,134,0,1,15,0,0,0,0,0,0,161,156,0,1
+394,Jasper,2011,11194,Jasper County Animal Control,Newton,62448,Animal Control,0,0,0,0,0,0,191,4,77,110,0,0,0,0,0,0,0,0,0,0,0,0,0,191,4,77,110
+395,Will,2011,11247,Greater Chicago Caged Bird Club,Lockport,60441,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,80,83,0,0,17,80,83,0,0
+396,Fayette,2011,11249,Second Chance Animal Rescue,Vandalia,62471,Animal Shelter,40,200,0,0,0,0,247,240,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,247,240,0,0
+397,Coles,2011,11250,Genesis Animal Rescue,Mattoon,61938,Animal Shelter,0,0,0,0,0,6,50,42,0,0,6,6,45,40,5,1,8,0,0,0,0,0,0,95,82,5,1
+398,Champaign,2011,11459,Wing of Wonder Avian Rescue,Mahomet,61853,Animal Shelter,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,28,47,30,0,0,45,47,30,0,0
+399,Monroe,2011,11527,Humane Society of Monroe County,Red Bud,62278,Animal Shelter,0,0,0,0,0,41,222,210,0,5,48,39,219,177,0,3,78,0,0,0,0,0,0,441,387,0,8
+400,Champaign,2011,11647,Champaign County Animal Services,Urbana,61820,Animal Control,0,0,0,0,0,0,1115,217,433,465,0,0,783,372,38,373,0,0,27,18,1,8,0,1925,607,472,846
+401,Mason,2011,11651,Pets Without Parents,Easton,62633,Animal Shelter,0,0,0,0,0,8,161,78,53,22,8,11,228,111,21,83,13,0,0,0,0,0,0,389,189,74,105
+402,Kankakee,2011,11653,New Beginnings For Cats,Bourbonnais,60914,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,92,214,167,2,40,99,0,0,0,0,0,0,214,167,2,40
+403,Champaign,2011,11702,Catsnap,Champaign,61820,Animal Shelter,0,0,0,0,0,2,34,35,0,0,1,42,215,194,2,8,53,0,5,2,0,0,3,254,231,2,8
+404,Jefferson,2011,11881,Australian Cattle Dog Rescue Of IL,Texico,62889,Kennel Operator,0,0,0,0,0,35,222,217,0,15,25,0,0,0,0,0,0,0,0,0,0,0,0,222,217,0,15
+405,Carroll,2011,11883,Heartland Pet Welfare Inc.,Savanna,61074,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,74,139,121,0,5,87,0,0,0,0,0,0,139,121,0,5
+406,Kendall,2011,11945,Greater Chicago Cavalier Rescue,Yorkville,60560,Animal Shelter,0,0,0,0,0,10,66,72,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,66,72,0,2
+407,Rock Island,2011,12028,Rock Island County Animal Care & Control,Moline,61265,Animal Control,0,0,0,0,0,0,2192,841,818,513,15,0,1858,995,32,848,50,0,75,28,5,42,0,4125,1864,855,1403
+408,Jackson,2011,12038,St. Francis Care,Murphysboro,62966,Animal Shelter,0,0,0,0,0,80,353,322,6,27,78,16,98,80,0,14,20,0,0,0,0,0,0,451,402,6,41
+409,Will,2011,12078,Bernese Mountain Dog Club of NI Rescue,Shorewood,60431,Animal Shelter,3,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+410,Henry,2011,12142,Henry CO Humane Society Geneseo Chapter,Genoseo,61254,Animal Shelter,0,0,0,0,0,5,46,56,1,0,6,63,278,259,0,5,79,0,0,0,0,0,0,324,315,1,5
+411,Boone,2011,12181,Fresh Start Animal Rescue Inc.,Belvidere,61008,Animal Shelter,0,0,0,0,0,52,343,362,0,8,25,20,92,95,0,1,16,0,0,0,0,0,0,435,457,0,9
+412,Greene,2011,12195,Ghrist Vet Clinic--Carrollton Branch,Carrollton,62016,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,Clinton,2011,12630,Centralia Humane Society,Centralia,62801,Animal Shelter,0,0,0,0,0,20,121,108,2,1,30,75,65,60,0,0,80,0,6,6,4,0,0,192,174,6,1
+414,Macon,2011,12676,Pet Tracks,Decatur,62526,Animal Shelter,0,0,3,2,0,0,0,0,0,0,0,33,21,5,0,0,49,0,0,0,0,0,0,21,5,0,0
+415,Randolph,2011,12697,Gunner's Run Rescue,Ruma,62278,Animal Shelter,0,0,0,0,0,7,38,38,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,38,38,0,0
+416,Stephenson,2011,12772,Critter Camp,German Valley,61039,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,300,174,31,0,0,323,174,31,0,0
+417,St. Clair,2011,12774,Midwest Schipperke Rescue Inc.,O'Fallon,62269,Animal Shelter,0,0,0,0,0,6,25,17,0,5,9,0,0,0,0,0,0,0,0,0,0,0,0,25,17,0,5
+418,Logan,2011,12805,Humane Society of Logan County,Lincoln,62656,Animal Shelter,0,0,0,0,0,2,20,20,0,0,2,2,36,18,2,2,16,0,0,0,0,0,0,56,38,2,2
+419,Bond,2011,12864,Bond County Humane Society,Greenville,62246,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,45,85,67,1,7,27,0,0,0,0,0,0,85,67,1,7
+420,Will,2011,13180,H.A.P.P.E Parrots Rescue Inc.,Bolingbrook,60440,Animal Shelter,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,6,30,24,3,0,6,30,24,3,0
+421,Montgomery,2011,13249,Montgomery Co Animal Control and Shelter,Hillsboro,62049,Animal Control,0,0,0,0,0,15,381,252,110,17,17,4,176,150,1,24,5,0,0,0,0,0,0,557,402,111,41
+422,Dewitt,2011,13301,"Second Chance Pet Adoptions, Inc.",Clinton,61727,Animal Shelter,0,0,0,0,0,0,90,74,0,1,15,0,49,33,0,0,16,0,2,2,0,0,0,141,109,0,1
+423,Adams,2011,13357,City of Quincy Animal Shelter,Quincy,62301,Animal Control,0,0,0,0,0,0,907,385,386,136,0,0,851,284,33,534,0,0,14,8,0,6,0,1772,677,419,676
+424,Lasalle,2011,13358,City of Streator Animal Control,Streator,61364,Animal Control,0,0,0,0,0,2,115,32,64,19,2,0,41,0,0,41,0,0,0,0,0,0,0,156,32,64,60
+425,Sangamon,2011,13501,Canine Solutions Rescue,Rochester,62563,Animal Shelter,40,10,0,0,0,2,48,44,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,48,44,0,0
+426,Will,2011,13512,Making A Difference Rescue,Channahon,60410,Animal Shelter,0,0,0,0,0,11,52,46,0,2,15,5,11,7,0,0,9,0,3,3,0,0,0,66,56,0,2
+427,Winnebago,2011,13587,Robinson Parrot Rescue,Rockford,61103,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,0,1, ,4,8,0,1
+428,Will,2011,13632,English Springer Rescue America Inc.,New Lenox,60451,Animal Shelter,0,0,0,0,0,62,0,60,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,2
+429,Will,2011,13646,Hope 4 Paws Rescue,Plainfield,60586,Animal Shelter,160,106,0,0,0,0,269,266,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,269,266,0,3
+430,Will,2011,13677,Aloha (A Love Of Homeless Animals),Bolingbrook,60490,Animal Shelter,2,45,0,0,0,0,47,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,47,0,0
+431,Will,2011,13679,Critter Corral Guinea Pig Rescue,Crete,60417,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0,0,5,175,200,0,0,5
+432,Peoria,2011,13702,Paws Giving Independence NFP,Peoria,61614,Animal Shelter,0,0,0,0,0,23,11,13,1,0,11,0,0,0,0,0,0,0,0,0,0,0,0,11,13,1,0
+433,Madison,2011,13730,Dachshund Rescue of St. Louis,Highland,62249,Animal Shelter,0,0,0,0,0,100,100,100,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+434,Livingston,2011,13734,Livco Animal Control Inc.,Fairbury,61739,Animal Control,0,0,0,0,0,0,210,143,51,16,0,0,0,0,0,0,0,0,0,0,0,0,0,210,143,51,16
+435,Knox,2011,13761,Guardian Angels Humane Society,Galesburg,61401,Animal Shelter,0,0,0,0,0,6,10,14,0,0,2,38,42,49,0,0,31,4,0,5,0,0,4,52,68,0,0
+436,Macon,2011,13788,Illinois English Bulldog Rescue,Decatur,62526,Animal Shelter,0,0,0,0,0,27,82,80,0,3,26,0,0,0,0,0,0,0,0,0,0,0,0,82,80,0,3
+437,Kendall,2011,13789,Eye On The Sparrow,Montgomery,60538,Animal Shelter,90,21,0,0,0,23,118,111,0,0,2,28,0,0,0,0,0,0,0,0,0,0,0,118,111,0,0
+438,Iroquois,2011,13793,Iroquois County Animal Rescue NFP,Iroquois,60945,Animal Shelter,0,0,220,70,0,0,0,0,0,0,0,0,127,208,290,70,38,0,0,0,0,0,0,127,208,290,70
+439,Piatt,2011,13808,Village of Mansfield ,Mansfield ,61854,Animal Shelter,0,0,0,0,0,0,6,0,6,0,0,0,2,0,2,0,0,0,0,0,0,0,0,8,0,8,0
+440,LaSalle,2011,13822,Safe House Animal Rescue League NFP,Mondota,61342,Animal Shelter,0,0,0,0,0,0,24,21,0,0,4,26,317,320,1,0,18,20,24,21,0,0,23,365,362,1,0
+441,Kankakee,2011,13825,Village of Manteno Animal Control,Manteno,60950,Animal Control,0,0,0,0,0,0,37,3,30,4,0,0,12,2,2,8,0,0,0,0,0,0,0,49,5,32,12
+442,Will,2011,13826,Angels On Wheels Animal Rescue NFP,Naperville,60564,Animal Shelter,32,110,4,70,0,143,143,142,0,1,0,78,78,74,0,2,2,0,0,0,0,0, ,221,216,0,3
+443,Macoupin,2011,13833,Feathered Nest,Brighton,62012,Animal Shelter,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,18,17,0,1,15,18,17,0,1
+444,Jackson,2011,13839,Midwest Animal Rescue Service,Murphysboro,62966,Animal Shelter,5,67,0,1,0,78,78,72,0,1,6,7,6,1,0,0,5,0,0,0,0,0,0,84,73,0,1
+445,Will,2011,13841,Wire Fox Terrier Rescue Midwest,Mokena,60448,Animal Shelter,0,0,0,0,0,0,31,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,31,0,0
+446,Union,2011,13872,Cache Creek Animal Rescue,Anna,62906,Animal Shelter,0,0,0,0,0,0,802,655,9,20,118,0,104,95,0,7,2,0,0,0,0,0,0,906,750,9,27
+447,Edgar,2011,13885,Save a Mutt Shelter & Rescue,Chrisman,61924,Animal Shelter,0,0,0,0,0,10,103,99,2,3,9,0,1,0,0,0,1,2,0,0,0,0,2,104,99,2,3
+448,Effingham,2011,13912,E.A.R.S.,Effingham,62401,Animal Shelter,0,0,0,0,0,6,181,171,8,0,8,5,38,30,5,3,5,0,0,0,0,0,0,219,201,13,3
+449,Peoria,2011,13920,Peoria County Animal Welfare Shelter,Peoria,61603,Animal Control,0,0,0,0,0,0,2642,850,601,1159,0,0,2967,429,42,2438,0,0,173,98,1,58,0,5782,1377,644,3655
+450,Montgomery,2011,13922,River King Newfoundland Club Rescue,Brighton,62012,Animal Shelter,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0
+451,Hancock,2011,13923,West Hancock Canine Rescue,Carthage,62321,Animal Shelter,0,0,0,0,0,3,255,6,2,0,6,0,20,2,1,0,2,0,0,0,0,0,0,275,8,3,0
+452,Madison,2011,13934,Come Bye Border Collie Rescue,Highland  ,62249,Animal Shelter,0,0,0,0,0,5,35,30,0,2,8,0,0,0,0,0,0,0,0,0,0,0,0,35,30,0,2
+453,Tazewell,2011,13939,Australian Shepherd Rescue Midwest,Washington,61571,Animal Shelter,67,0,0,0,0,99,99,67,0,5,27,0,0,0,0,0,0,0,0,0,0,0,0,99,67,0,5
+454,Shelby,2011,13942,Village of Herrick,Herrick,62431,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+455,Vermilion,2011,13949,Citizens For Animal Rescue And Adoption,Tilton,61833,0,66,76,44,46,0,20,157,142,15,0,22,267,218,90,4,0,291,0,0,0,0,0,0,375,232,19,0
+456,Kendall,2011,13987,Jellystone Bark's Rescue Rangers,Oswego,60543,Animal Shelter,204,307,0,0,0,0,511,509,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,511,509,0,2
+457,Crawford,2011,14047,Crawford County Spay & Neuter Foundation,Robinson,62454,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,382,158,168,56,2,0,0,0,0,0,0,382,158,168,56
+458,Calhoun,2011,14049,Andrea's Adoptive Puppies,Hardin,62047,Animal Shelter,0,150,0,0,0,0,100,100,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,1,3
+459,Montgomery,2011,14054,Paws Care Inc.,Taylor Springs,62049,Animal Shelter,0,0,0,0,0,2,10,10,2,0,2,1,1,1,0,0,1,0,0,0,0,0,0,11,11,2,0
+460,Winnebago,2011,14064,"Good Shepherd Animal Sanctuary, INC.",Machesney Park,61115,Animal Shelter,18,0,0,0,0,2,18,17,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,18,17,0,0
+461,Will,2011,14074,Kings Promise All Breed Rescue,Frankfort,60423,Animal Shelter,7,31,0,0,0,0,38,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,38,0,0
+462,Adams,2011,14089,Quincy K-9 Connection,Quincy,62305,Animal Shelter,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+463,Carroll,2012,15,Carroll County Animal Pound,Mt. Carroll,61053,Animal Control,0,0,0,0,0,1,82,39,28,11,5,0,0,0,0,0,0,0,0,0,0,0,0,82,39,28,11
+464,Champaign,2012,22,Rantoul Dog Pound,Rantoul,61866,Animal Control,0,0,0,0,0,7,7,0,0,0,7,1,1,0,0,0,1,0,0,0,0,0,0,8,0,0,0
+465,Christian,2012,29,Christian County Animal Control,Taylorville,62568,Animal Control,0,0,0,0,0,0,204,114,62,28,0,0,9,9,0,0,0,0,0,0,0,0,0,213,123,62,28
+466,Clark,2012,31,City of Casey,Casey,62420,Animal Control,0,0,0,0,0,0,28,0,18,10,1,0,0,0,0,0,0,0,3,0,3,0,0,31,0,21,10
+467,Edgar,2012,169,Edgar County Animal Control,Paris,61944-0381,Animal Control,0,0,0,0,0,12,322,198,95,29,12,0,0,0,0,0,0,0,0,0,0,0,0,322,198,95,29
+468,Effingham,2012,171,Effingham County Animal Control,Effingham,62401,Animal Control,39,15,2,0,0,7,203,54,45,111,7,0,64,2,0,62,0,0,3,0,0,3,0,270,56,45,176
+469,Fulton,2012,189,Fulton County Animal Control,Canton,61520,Animal Control,0,0,0,0,0,20,546,438,100,8,0,25,380,371,2,7,0,0,0,0,0,0,0,926,809,102,15
+470,Jackson,2012,204,Humane Society of Southern Illinois,Carbondale,62903,Animal Shelter,0,0,0,0,0,944,944,364,217,347,10,1150,1150,273,35,781,23,112,112,13,0,50,0,2206,650,252,1178
+471,McDonough,2012,266,McDonough County Animal Shelter,Macomb,61455, Animal Control,373,0,190,0,0,206,400,244,129,12,206,409,364,181,9,102,416,0,0,0,0,0,0,764,425,138,114
+472,Madison,2012,299,Madison County Rabies Control,Edwardsville,62025,Animal Control,0,0,0,0,0,0,1423,416,301,663,0,0,1913,258,21,1595,0,0,0,0,0,0,0,3336,674,322,2258
+473,Marion,2012,310,City of Centralia,Centralia,62801,0,0,0,0,0,0,0,616,27,110,73,0,0,255,8,1,13,0,0,0,0,0,0,0,871,35,111,86
+474,Massac,2012,320,Metropolis Animal Control,Metropolis,62960,Animal Control,0,0,0,0,0,14,303,245,15,29,14,0,0,0,0,0,0,0,0,0,0,0,0,303,245,15,29
+475,Morgan,2012,325,Morgan County Animal Control,Jacksonville,62650,Animal Control,0,0,0,0,0,0,488,980,0,13,0,0,522,50,0,68,0,0,327,0,0,327,0,1337,1030,0,408
+476,Randolph,2012,352,Sparta Animal Control,Sparta,62286,Animal Control,0,0,0,0,0,0,50,0,30,20,0,0,25,0,0,15,0,0,0,0,0,0,0,75,0,30,35
+477,Richland,2012,356,Richland County Animal Control Center,Olney,62450,Animal Control,0,0,0,0,0,12,281,7,58,22,8,7,233,4,2,51,8,0,0,0,0,0,0,514,11,60,73
+478,Schuyler,2012,396,Schuyler County Dog Pound,Rushville,62681,Animal Control,0,0,0,0,0,0,132,108,17,7,0,0,8,5,3,0,0,0,1,1,0,0,0,141,114,20,7
+479,Stephenson,2012,399,Freeport Animal Hospital Inc.,Freeport,61032,Animal Control,24,9,103,60,0,2,169,98,32,41,1,11,115,24,12,82,8,0,0,0,0,0,0,284,122,44,123
+480,Stephenson,2012,400,Freeport City Pound,Freeport,61032,Animal Control,0,0,0,0,0,0,237,0,127,0,0,0,79,0,0,0,0,0,163,0,0,163,0,479,0,127,163
+481,Tazewell,2012,408,Tazewell Animal Protective Society,Pekin,61554,Animal Shelter,592,109,172,89,0,66,682,701,1,2,44,105,205,261,1,3,45,0,0,0,0,0,0,887,962,2,5
+482,Vermilion,2012,415,Humane Society Of Danville,Danville,61832,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,Wabash,2012,418,Wabash County Animal Control,Mt. Carmel,62863,0,0,0,0,0,0,0,492,93,30,2,0,0,231,113,2,8,0,0,0,0,0,1,0,723,206,32,11
+484,Kendall,2012,478,Kendall County Animal Control,Yorkville,60560,Animal Control,91,44,7,41,0,9,400,163,185,28,33,7,205,149,4,31,28,0,0,0,0,0,0,605,312,189,59
+485,Will,2012,486,TLC Animal Shelter & Humane Society,Homer Glen,60491,Animal Shelter,0,0,0,0,0,14,988,982,3,3,14,10,345,332,1,12,10,2,44,32,0,4,10,1377,1346,4,19
+486,Dewitt,2012,1395,Dewitt County Animal Control,Clinton,61727,Animal Control,0,0,0,0,0,233,118,10,52,7,49,233,110,26,1,7,76,0,9,9,0,0,0,237,45,53,14
+487,Hancock,2012,1520,Hancock County Dog Pound,Basco,62313,Animal Control,0,0,0,0,0,0,206,130,42,34,0,0,0,0,0,0,0,0,0,0,0,0,0,206,130,42,34
+488,Madison,2012,1909,Granite City Humane Shelter,Granite City,62040,Animal Control,0,0,0,0,0,597,597,30,100,467,467,612,612,5,15,592,592,0,0,0,0,0,0,1209,35,115,1059
+489,Williamson,2012,2354,City of Marion,Marion,62959,Animal Control,0,0,0,0,0,0,195,32,69,9,27,0,122,13,0,15,37,0,0,0,0,0,0,317,45,69,24
+490,Marshall,2012,2440,Marshall County Dog Pound,Lacon,61540,Animal Control,0,0,0,0,0,0,145,25,98,22,0,0,0,0,0,0,0,0,0,0,0,0,0,145,25,98,22
+491,Warren,2012,2945,Warren County Dog Pound,Monmouth,61462,0,0,0,0,0,0,5,206,50,141,7,3,5,53,23,3,12,4,0,2,2,0,0,0,261,75,144,19
+492,Sangamon,2012,3257,Sangamon County Animal Countrol CTR.,Springfield,62703,Animal Control,676,135,414,294,10,0,2105,811,487,485,0,0,1630,708,27,562,0,0,625,10,4,270,0,4360,1529,518,1317
+493,Douglas,2012,3259,Douglas County Animal Control,Tuscola,61953-0192,Animal Control,48,12,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,Dekalb,2012,3343,Dekalb County Animal Shelter,Genoa,60135-7612,Animal Shelter,0,0,0,0,0,27,199,154,20,8,36,109,174,142,6,31,82,0,2,2,0,0,0,375,298,26,39
+495,Boone,2012,3508,Boone County Animal Services,Belvidere,61008,Animal Control,0,0,0,0,0,0,368,77,199,92,0,0,85,39,0,46,0,0,0,0,0,0,0,453,116,199,138
+496,Clinton,2012,3586,Clinton County Animal Control,Carlyle,62231,Animal Control,0,0,0,0,0,8,502,194,184,120,12,6,360,34,23,304,5,0,7,0,0,7,0,869,228,207,431
+497,Will,2012,3595,Village of Romeoville ,Romeoville,60446,Animal Control,0,0,0,0,0,0,225,53,171,1,0,0,50,45,3,2,0,0,0,0,0,0,0,275,98,174,3
+498,Kane,2012,3626,Aurora Animal Control & Care,Aurora,60506,Animal Control,0,0,0,0,0,33,1512,503,473,433,39,16,1253,590,47,397,22,0,232,14,11,218,0,2997,1107,531,1048
+499,Grundy,2012,3700,Grundy County Animal Control,Morris,60450,Animal Control,0,0,0,0,0,22,257,71,111,62,21,23,282,19,3,152,9,0,3,3,0,0,0,542,93,114,214
+500,White,2012,3791,Carmi City Dog Pound,Carmi,62821,Animal Control,0,0,0,0,0,0,164,40,90,35,1,0,0,0,0,0,0,0,0,0,0,0,0,164,40,90,35
+501,Washington,2012,3796,Washington County Animal Control,Nashville,62263,Animal Control,0,0,0,0,0,0,294,210,78,6,0,0,399,397,0,2,0,0,0,0,0,0,0,693,607,78,8
+502,Jersey,2012,3850,Jerseyville Animal Control,Jerseyville,62052,Animal Control,0,0,0,0,0,0,145,35,29,81,0,0,89,0,2,87,0,0,0,0,0,0,0,234,35,31,168
+503,Will,2012,3874,Will County Humane Society,Shorewood,60404,Animal Shelter,131,16,36,13,6,27,149,147,0,2,29,74,31,29,0,0,76,3,4,6,0,0,1,184,182,0,2
+504,Madison,2012,3923,Warren Billhartz Animal Shelter,Collinsville,62234,0,0,0,0,0,0,5,284,45,125,51,9,17,201,82,7,30,10,0,3,1,2,0,0,488,128,134,81
+505,Kankakee,2012,3970,Kankakee County Animal Control Center,Kankakee,60901,Animal Control,0,0,0,0,0,0,724,268,218,238,0,0,297,191,7,99,0,0,61,29,0,32,0,1082,488,225,369
+506,Tazewell,2012,4246,Tazewell County Animal Control,Tremont,61568,Animal Control,30,1,14,16,0,908,908,32,371,290,22,969,969,34,26,727,75,188,188,0,4,46,22,2065,66,401,1063
+507,Bond,2012,4351,Bond County/City of Greenville,Greenville,62246,Animal Control,0,0,0,0,0,0,148,9,46,93,0,40,0,2,38,0,0,0,0,0,0,0,0,148,11,84,93
+508,Will,2012,4363,Frankfort TWP. Animal Control,Frankfort,60423,Animal Control,0,0,0,0,0,0,115,15,99,1,0,0,49,32,11,6,0,0,9,3,2,4,0,173,50,112,11
+509,Woodford,2012,4437,City of Minonk,Minonk,61760,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0
+510,Saline,2012,4465,Saline County Animal Control,Harrisburg,62946,Animal Control,0,0,0,0,0,1,476,8,50,225,5,9,348,0,2,308,2,0,0,0,0,0,0,824,8,52,533
+511,Franklin,2012,4486,Franklin County Animal Control,Benton,62812,Animal Control,98,0,9,0,0,0,990,98,94,589,0,0,566,9,4,450,0,0,0,0,0,0,0,1556,107,98,1039
+512,Will,2012,4530,Bolingbrook Animal Control & Care,Bolingbrook,60440,Animal Control,0,0,0,0,0,5,347,75,214,20,3,3,162,137,14,45,17,0,0,0,0,0,0,509,212,228,65
+513,Henderson,2012,4651,Henderson County Dog Pound,Oquawka,61469,Animal Control,0,0,0,0,0,0,96,50,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,50,40,0
+514,Will,2012,4714,Joliet TWP Animal Control Center,Joliet,60436,Animal Control,0,0,0,0,0,39,1228,460,438,337,32,50,968,248,25,714,31,1,16,11,0,3,3,2212,719,463,1054
+515,Macon,2012,4811,Macon County Animal Control & Care Ctr,Decatur,62526,Animal Control,0,0,0,0,0,94,1220,463,459,513,79,144,1092,517,22,556,141,0,224,35,0,183,6,2536,1015,481,1252
+516,Kankakee,2012,4822,Kanakakee County Humane Society Inc.,Kankakee,60901,Animal Shelter,0,0,0,0,0,15,296,272,0,3,36,28,113,112,0,0,29,0,0,0,0,0,0,409,384,0,3
+517,Perry,2012,4839,Perry County Animal Control,Pinckneyville,62274,Animal Control,0,0,0,0,0,0,255,160,64,31,0,0,76,53,0,23,0,0,0,0,0,0,0,331,213,64,54
+518,Macoupin,2012,4869,Macoupin County Animal Control,Carlinville,62626,Animal Control,0,0,0,0,0,41,411,226,147,10,28,32,273,158,47,40,28,0,6,0,6,0,0,690,384,200,50
+519,Rock Island,2012,4875,City of Silvis,Silvis,61282,Animal Control,0,0,0,0,0,0,51,0,36,0,0,0,16,0,3,0,0,0,0,0,0,0,0,67,0,39,0
+520,Jodaviess,2012,4982,Village of Warren,Warren,61087,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+521,Shelby,2012,4991,Shelby County Animal Control,Shelbyville,62565,Animal Control,0,0,0,0,0,4,184,106,28,43,3,1,47,38,3,6,0,0,0,0,0,0,0,231,144,31,49
+522,Henry,2012,5008,Henry County Animal Shelter,Cambridge,61238,Animal Control,1,94,20,67,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,Jefferson,2012,5064,Jefferson Co. Animal Control,Mt. Vernon,62864,Animal Control,0,0,0,0,0,23,990,526,142,331,14,11,669,82,15,485,6,0,0,0,0,0,0,1659,608,157,816
+524,Winnebago,2012,5140,Winnebago County Animal Services,Rockford,61103,Animal Control,0,0,0,0,0,65,3083,776,921,1196,88,95,3837,825,79,2857,71,1,1470,34,7,1123,3,8390,1635,1007,5176
+525,Henry,2012,5196,Geneseo Police Department,Geneseo,61254,Animal Control,0,0,0,0,0,0,37,5,32,0,0,0,12,3,9,0,0,0,0,0,0,0,0,49,8,41,0
+526,Woodford,2012,5200,Steffen Dr. J. R. ,Goodfield,61742,Animal Control,0,0,0,0,0,0,30,3,15,11,1,0,5,1,2,3,0,0,0,0,0,0,0,35,4,17,14
+527,Vermilion,2012,5202,Vermilion County Animal Shelter,Danville,61834,Animal Control,184,149,66,48,0,25,1158,338,226,203,95,38,975,114,17,469,120,0,119,0,0,11,0,2252,452,243,683
+528,Coles,2012,5242,Coles County Animal Shelter,Charleston,61920,0,615,0,0,214,0,23,928,368,247,272,41,43,886,199,15,577,95,0,46,46,0,0,0,1860,613,262,849
+529,Rock Island,2012,5297,Quad City Animal Welfare Center,Milan,61264,Animal Shelter,366,15,159,91,14,33,382,366,1,1,31,84,250,250,0,0,84,2,14,13,0,1,2,646,629,1,2
+530,Lawrence,2012,5422,Lawrence County Animal Control,Lawrenceville,62439,Animal Control,0,0,0,0,0,4,171,10,35,10,6,5,109,0,2,11,0,0,0,0,0,0,0,280,10,37,21
+531,Iroquois,2012,5477,Village of Onarga,Onarga,60955,Animal Control,0,0,0,0,0,12,12,0,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,11,1
+532,Lee,2012,5490,Sauk Valley Humane Soc Inc,Mendota,61342,Animal Shelter,2,0,4,0,0,12,5,2,4,0,10,50,10,5,6,8,41,0,0,0,0,0,0,15,7,10,8
+533,Adams,2012,5531,Adams County Animal Shelter,Quincy,62305,Animal Control,0,0,0,0,0,0,140,81,59,1,0,0,1,1,0,0,0,0,1,0,1,0,0,142,82,60,1
+534,Mason,2012,5567,Village of Manito,Manito,61546,Animal Control,0,0,0,0,0,0,15,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,15,0
+535,Williamson,2012,5619,Williamson County Animal Control,Marion,62959,Animal Control,0,0,0,0,0,25,642,358,153,131,30,0,8,0,0,8,0,0,10,0,0,10,0,660,358,153,149
+536,Adams,2012,5700,Quincy Humane Society,Quincy,62305,Animal Shelter,0,0,0,0,0,24,486,5,0,5,35,24,316,264,0,21,50,0,0,0,0,0,0,802,269,0,26
+537,Madison,2012,5747,Alton Animal Control Center,Alton,62002,Animal Control,0,0,0,0,0,0,308,39,43,226,0,0,329,6,3,320,4,0,181,0,0,181,0,818,45,46,727
+538,Mason,2012,5760,City of Havana,Havana,62644,Animal Control,0,0,0,0,0,0,10,1,1,1,7,0,49,0,4,17,28,0,0,0,0,0,0,59,1,5,18
+539,Hamilton,2012,5801,City of Mcleansboro,Mcleansboro,62859,Animal Control,0,0,0,0,0,2,39,20,17,2,4,0,4,0,0,4,0,0,0,0,0,0,0,43,20,17,6
+540,Monroe,2012,6034,Monroe County Animal Pound,Waterloo,62298,0,0,0,0,0,0,0,186,89,82,15,0,0,103,55,8,40,0,0,0,0,0,0,0,289,144,90,55
+541,Lee,2012,6062,Granny Rose Animal Shelter,Dixon,61021,Animal Shelter,0,0,0,0,0,16,87,83,1,1,18,36,45,48,1,0,34,0,0,0,0,0,0,132,131,2,1
+542,Macoupin,2012,6098,Macoupin County Adopt-A-Pet,Benld,62009,Animal Shelter,200,170,55,95,0,47,391,370,5,0,63,34,161,150,1,0,44,0,0,0,0,0,0,552,520,6,0
+543,St. Clair,2012,6311,Marissa Animal Control,Marissa,62257,Animal Control,0,0,0,0,0,0,65,0,15,0,0,0,49,0,2,0,0,0,0,0,0,0,0,114,0,17,0
+544,Henry,2012,6355,Henry CO Humane Society Kewanee Chapter,Kewanee,61443,Animal Shelter,0,0,0,0,0,8,125,111,0,2,20,75,123,85,0,20,93,0,0,0,0,0,0,248,196,0,22
+545,Rock Island,2012,6357,Animal Aid Humane Society Inc.,Moline,61265,Animal Shelter,37,10,76,144,0,3,35,37,0,0,2,70,85,76,0,0,65,0,0,0,0,0,0,120,113,0,0
+546,Madison,2012,6418,Highland Animal Shelter,Highland,62249,Animal Shelter,0,0,0,0,0,29,34,41,0,4,18,70,143,137,1,5,70,0,0,0,0,0,0,177,178,1,9
+547,Macon,2012,6479,Humane Society of Decator/Macon Co,Decatur,62526,Animal Shelter,0,0,0,0,0,7,57,51,3,1,9,29,66,60,1,1,33,0,0,0,0,0,0,123,111,4,2
+548,Stephenson,2012,6480,Friends Forever Humane Society,Freeport,61032,Animal Shelter,158,44,77,51,0,27,235,202,24,1,21,42,142,128,0,6,25,0,0,0,0,0,0,377,330,24,7
+549,Cumberland,2012,6512,Cumberland County Pound,Toledo,62468,Animal Control,0,0,0,0,0,0,151,72,60,19,0,0,0,0,0,0,0,0,0,0,0,0,0,151,72,60,19
+550,Clark,2012,6577,Bender's Townhouse Kennels,West Union,62477,Animal Control,0,0,0,0,0,0,248,145,53,37,13,0,0,0,0,0,0,0,0,0,0,0,0,248,145,53,37
+551,Madison,2012,6613,Metro East Humane Society,Edwardsville,62025,Animal Shelter,395,104,140,157,0,23,499,452,0,54,16,54,243,297,0,28,28,0,1,0,0,1,0,743,749,0,83
+552,Randolph,2012,6713,Chester City Pound,Chester,62233,Animal Control,0,0,0,0,0,5,198,0,83,0,4,0,0,0,0,0,0,0,0,0,0,0,0,198,0,83,0
+553,Pope,2012,6793,Pope County Animal Pound,Golconda,62938,Animal Control,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+554,Pulaski,2012,6935,Mound City Animal Pound,Mound City,62963,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+555,Randolph,2012,6969,Randolph County Animal Control,Sparta,62286,Animal Control,0,0,0,0,0,0,150,83,29,38,0,0,35,18,3,14,0,0,0,0,0,0,0,185,101,32,52
+556,White,2012,7123,Grayville City Dog Pound,Grayville,62844,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0
+557,Boone,2012,7126,Roscoe Animal Retreat,Roscoe,61073,Animal Shelter,0,0,0,0,0,25,12,10,2,0,15,250,25,24,1,0,250,0,0,0,0,0,0,37,34,3,0
+558,Pulaski,2012,7146,City of Mounds,Mounds,62964,Animal Control,0,0,0,0,0,0,17,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,17
+559,Shelby,2012,7147,Village of Tower Hill,Tower Hill,62571,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+560,Randolph,2012,7376,Evansville Dog Pound,Evansville,62242,Animal Control,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0
+561,Wayne,2012,7575,Wayne County Humane Society,Fairfield,62837,Animal Shelter,0,0,0,0,0,28,573,369,81,122,29,13,561,217,10,333,14,13,0,12,1,0,0,1134,598,92,455
+562,Whiteside,2012,7583,Whiteside County Pound,Rock Falls,61071,Animal Control,0,0,0,0,0,0,393,23,217,125,0,0,182,2,12,146,0,0,0,0,0,0,0,575,25,229,271
+563,Randolph,2012,7619,Tilden Animal Control,Tilden,62292,Animal Control,0,0,0,0,0,0,7,0,7,0,0,0,1,0,1,0,0,0,0,0,0,0,0,8,0,8,0
+564,Union,2012,7641,Union County Animal Control,Cobden,62920,Animal Control,0,0,0,0,0,18,376,56,65,22,13,42,252,30,0,30,32,2,4,3,1,0,0,632,89,66,52
+565,Randolph,2012,7682,Steelville Animal Control,Steeleville,62288,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+566,Grundy,2012,7683,Gundy County Humane Society,Coal City,60416,Animal Shelter,0,0,0,0,0,0,21,19,2,0,0,0,8,7,1,0,0,0,0,0,0,0,0,29,26,3,0
+567,Edwards,2012,7794,Albion Animal Pound,Albion,62806-1016,Animal Control,0,0,0,0,0,0,39,0,28,11,0,0,25,0,4,21,0,0,5,0,0,0,0,69,0,32,32
+568,Knox,2012,7871,Knox County Humane Society,Galesburg,61401,Animal Shelter,0,0,0,0,0,0,716,407,214,23,0,0,378,249,26,46,0,0,15,15,0,0,0,1109,671,240,69
+569,Shelby,2012,7889,City of Windsor,Windsor,61957,0,0,0,0,0,0,0,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,10
+570,Macon,2012,7909,Prairieland Animal Welfare,Decator ,62521,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,3,0,0,0,0,0,0,4,0,0,1
+571,Clark,2012,7961,Baird's Pound,Martinsville,62442,Animal Control,0,0,0,0,0,0,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,3,0
+572,Lasalle,2012,8073,Pet Project Inc.,Marseilles,61341,Animal Shelter,0,0,0,0,0,17,147,143,0,2,19,21,64,66,0,3,16,0,0,0,0,0,0,211,209,0,5
+573,Bureau,2012,8180,Friends Of Strays Inc.,Princeton,61356,Animal Shelter,80,21,107,83,0,35,106,106,0,1,29,402,199,190,0,22,371,0,0,0,0,0,0,305,296,0,23
+574,Christian,2012,8278,City of Assumption,Assumption,62510,Animal Control,0,0,0,0,0,0,10,0,10,0,0,0,2,0,2,0,0,0,0,0,0,0,0,12,0,12,0
+575,Williamson,2012,8392,Herrin Animal Control,Herrin,62948,Animal Control,0,0,0,0,0,215,41,0,35,0,156,141,28,0,11,0,158,0,0,0,0,0,0,69,0,46,0
+576,Greene,2012,8432,White Hall Animal Control,White Hall,62092,Animal Control,0,0,0,0,0,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,4,0
+577,Cumberland,2012,8443,Neoga Animal Shelter,Neoga,62447,Animal Control,0,0,0,0,0,0,10,9,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,11,9,1,1
+578,Knox,2012,8448,Knoxville Animal Control,Knoxville,61448,Animal Control,0,0,0,0,0,0,25,0,25,0,0,0,3,0,3,0,0,0,0,0,0,0,0,28,0,28,0
+579,Grundy,2012,8514,Just Animals Placement Service,Mazon,60444,Animal Shelter,39,43,139,217,0,12,87,82,1,0,16,31,366,356,0,4,37,0,0,0,0,0,0,453,438,1,4
+580,Hardin,2012,8564,City of Rosiclare,Rosiclare,62982,0,0,0,0,0,0,0,32,29,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,29,3,0
+581,Lee,2012,8565,City of Amboy,Amboy,61310,Animal Control,0,0,0,0,0,0,17,0,17,0,0,0,33,1,3,29,0,0,0,0,0,0,0,50,1,20,29
+582,Moultrie,2012,8566,Village of Arthur,Arthur,61911,Animal Control,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0
+583,Will,2012,8568,Homes For Huskies,Lockport,60441,Animal Shelter,10,0,0,0,0,11,10,10,1,0,10,0,0,0,0,0,0,0,0,0,0,0, ,10,10,1,0
+584,Lawrence,2012,8603,Lawrence County Humane Society (CATS),Lawrenceville,62439,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,58,110,12,5,61,78,0,0,0,0,78,58,110,12
+585,Richland,2012,8645,Humane Society of Olney Area,Olney,62450,Animal Shelter,0,0,0,0,0,0,74,47,25,2,0,1,81,41,37,3,0,0,2,1,1,0,0,157,89,63,5
+586,Greene,2012,8675,The Dog P.E.N.,Roodhouse,62082,Animal Shelter,59,3,117,33,0,10,74,62,0,0,12,1,150,150,0,0,0,0,0,0,0,0,0,224,212,0,0
+587,Madison,2012,8699,East Alton Animal Control,East Alton,62024,Animal Control,0,0,0,0,0,0,85,0,75,10,0,0,122,0,22,120,0,0,0,0,0,0,0,207,0,97,130
+588,Coles,2012,8779,Kieffer's K-9 Country Club,Mattoon,61938,0,0,0,0,0,0,4,1,0,0,0,5,48,5,5,0,0,48,4,0,2,0,0,2,6,7,0,0
+589,Brown,2012,8899,City of Mt. Sterling,Mt. Sterling,62353,Animal Control,0,0,0,0,0,0,27,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,27,0
+590,Moultrie,2012,8900,Moultrie County Animal Control,Sullivan,61951,Animal Control,0,0,0,0,0,5,139,52,50,36,6,0,41,7,0,34,0,0,0,0,0,0,0,180,59,50,70
+591,Crawford,2012,8940,Crawford County Humane Society,Robinson,62454,Animal Shelter,402,53,12,2,0,43,455,78,57,24,71,261,175,14,1,18,355,0,0,0,0,0,0,630,92,58,42
+592,Putnam,2012,8979,Village of Granville,Granville,61326,Animal Control,0,0,0,0,0,0,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8,0
+593,Pike,2012,8996,Pike County Animal Control,Pittsfield,62363,Animal Control,0,0,0,0,0,20,108,63,30,8,27,10,20,13,0,6,11,0,0,0,0,0,0,128,76,30,14
+594,Douglas,2012,9011,City of Arcola,Arcola,61910-0215,Animal Control,0,0,0,0,0,0,14,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,9,5,0
+595,Will,2012,9040,Humane Haven Animal Shelter,Bolingbrook,60440,Animal Shelter,0,0,0,0,0,5,30,26,0,2,7,15,95,82,0,4,24,0,0,0,0,0,0,125,108,0,6
+596,Livingston,2012,9427,Livingston County Humane Society,Pontiac,61764,Animal Shelter,0,0,0,0,0,9,111,82,0,12,26,80,42,51,0,9,58,0,0,0,0,0,0,153,133,0,21
+597,Jodaviess,2012,9465,Safe Haven Humane Society,Elizabeth,61028,0,0,0,0,0,0,11,109,109,1,1,9,22,53,63,0,0,12,0,0,0,0,0,0,162,172,1,1
+598,Kendall,2012,9577,Recycled Rotts Inc.,Oswego,60543,Animal Shelter,0,0,0,0,0,0,112,107,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,112,107,0,5
+599,Fulton,2012,9650,Humane Society of Fulton County,Canton,61520,Animal Shelter,0,0,0,0,0,11,546,441,100,8,8,6,380,354,2,7,23,0,0,0,0,0,0,926,795,102,15
+600,Will,2012,9742,Shih Tzu Rescue,Homer Glen,60491,Animal Shelter,0,0,0,0,0,18,24,26,0,1,15,0,0,0,0,0,0,0,0,0,0,0,0,24,26,0,1
+601,Fayette,2012,9936,Fayette County Animal Control,Vandalia,62471,0,0,0,0,0,0,7,536,41,53,444,5,0,213,0,3,210,0,0,0,0,0,0,0,749,41,56,654
+602,Dekalb,2012,9944,Recycling Animals In Need (R.A.I.N.),Hinckley,60520-0810,Animal Shelter,0,0,0,0,0,1,0,1,0,0,0,2,4,4,0,0,2,0,0,0,0,0,0,4,5,0,0
+603,Bureau,2012,9990,Bureau County Animal Control,Princeton,61356,Animal Control,0,0,0,0,0,0,74,34,31,9,0,0,0,0,0,0,0,0,0,0,0,0,0,74,34,31,9
+604,Warren,2012,10075,Western Illinois Animal Rescue Inc.,Monmouth,61462,Animal Shelter,0,0,0,0,0,0,19,16,0,1,2,3,50,15,2,3,33,0,0,0,0,0,0,69,31,2,4
+605,Whiteside,2012,10093,Village of Tampico,Tampico,61283,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+606,Massac,2012,10102,Village of Joppa,Joppa,62953,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+607,Brown,2012,10161,Village of Versailles,Versailles,62378,Animal Control,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2
+608,Marshall,2012,10171,"(Missing) Animal Recycling Kennel H.S., LTD",Lacon,61540,Animal Shelter,140,71,14,49,2,0,215,211,4,11,0,0,63,63,0,24,0,0,2,2,0,0,0,280,276,4,35
+609,Macon,2012,10185,Homeward Bound Pet Shelter Inc.,Decatur,62526,Animal Shelter,0,0,0,0,0,29,418,417,2,1,27,16,99,92,0,0,23,0,0,0,0,0,0,517,509,2,1
+610,Lasalle,2012,10281,Illinois Valley Animal Rescue,Lasalle,61301,Animal Shelter,0,0,0,0,0,49,236,160,67,3,55,239,418,164,10,192,291,0,0,6,6,0,0,654,330,83,195
+611,Livingston,2012,10364,Guardian Angel Basset Rescue Inc.,Dwight,60420,Animal Shelter,0,0,0,0,0,10,180,170,0,3,17,0,0,0,0,0,0,0,0,0,0,0,0,180,170,0,3
+612,Will,2012,10409,C.O.P.E.,Joliet,60431,Animal Shelter,2,0,40,10,0,2,2,2,0,0,2,20,50,45,0,0,25,0,0,0,0,0,0,52,47,0,0
+613,Woodford,2012,10437,City of El Paso,El Paso,61738,Animal Control,0,0,0,0,0,0,14,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,14,0
+614,Randolph,2012,10487,Randolph County Humane Society,Sparta,62286,Animal Shelter,0,0,0,0,0,22,160,126,9,4,43,4,58,43,0,3,16,0,0,0,0,0,0,218,169,9,7
+615,Dekalb,2012,10584,Tails Humane Society,Dekalb,60115,Animal Shelter,0,0,0,0,0,186,1530,1353,57,83,178,125,919,770,42,113,113,7,131,111,4,3,15,2580,2234,103,199
+616,Hancock,2012,10626,Hearts of Hancock Humane Society,Carthage,62321,0,0,0,0,0,0,2,2,4,0,0,0,25,10,18,0,0,17,0,0,0,0,0,0,12,22,0,0
+617,Johnson,2012,10693,Goines Kennels,Vienna,62995,0,0,0,0,0,0,7,265,0,121,148,3,0,0,0,0,0,0,0,0,0,0,0,0,265,0,121,148
+618,Perry,2012,10838,Perry County Humane Society,Duquoin,62832,Animal Shelter,0,0,0,0,0,17,161,89,0,1,24,9,50,14,0,1,12,0,0,0,0,0,0,211,103,0,2
+619,Scott,2012,10871,Scott County Dog Rescue,Winchester,62694,Animal Shelter,0,0,0,0,0,12,146,143,0,0,15,0,3,3,0,0,0,0,0,0,0,0,0,149,146,0,0
+620,Sangamon,2012,10913,Illinois Humane,Springfield,62705,Animal Shelter,0,0,0,0,0,11,25,21,0,0,15,9,14,11,0,0,12,0,2,2,0,0,0,41,34,0,0
+621,Kendall,2012,10937,Western Irish Setter Club Inc.,Minooka,60447,Animal Shelter,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+622,Champaign,2012,10984,Prairieland Anti-Cruelty Program,Champaign,61822,Animal Shelter,0,0,0,0,0,2,2,4,0,0,0,76,186,175,0,22,65,0,3,3,0,0,0,191,182,0,22
+623,Madison,2012,10989,Partners For Pets Humane Society,St. Jacob,62281,Animal Shelter,0,0,0,0,0,70,708,708,2,5,70,60,340,325,0,3,75,0,0,0,0,0,0,1048,1033,2,8
+624,Peoria,2012,11004,Pets For Seniors,Brimfield,61517,Animal Shelter,0,0,0,0,0,0,22,22,0,0,0,15,125,128,0,1,11,0,0,0,0,0,0,147,150,0,1
+625,Jasper,2012,11194,Jasper County Animal Control,Newton,62448,Animal Control,0,0,0,0,0,0,151,1,80,71,0,0,0,0,0,0,0,0,0,0,0,0,0,151,1,80,71
+626,Will,2012,11247,Greater Chicago Caged Bird Club,Villa Park,60181,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,521,524,0,5,19,521,524,0,5
+627,Fayette,2012,11249,Second Chance Animal Rescue,Vandalia,62471,Kennel Operator,125,50,0,0,0,222,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0,0,0
+628,Coles,2012,11250,Genesis Animal Rescue,Mattoon,61938,Animal Shelter,0,0,0,0,0,3,70,38,8,4,18,8,40,25,7,1,7,0,0,0,0,0,0,110,63,15,5
+629,Champaign,2012,11459,Wing of Wonder Avian Rescue,Mahomet,61853,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,40,20,2,1,42,40,20,2,1
+630,Monroe,2012,11527,Humane Society of Monroe County,Red Bud,62278,Animal Shelter,0,0,0,0,0,48,186,188,2,6,38,78,154,127,0,15,90,0,0,0,0,0,0,340,315,2,21
+631,Champaign,2012,11647,Champaign County Animal Services,Urbana,61820,Animal Control,0,0,0,0,0,0,910,203,360,338,0,0,641,347,42,238,0,0,25,21,2,2,0,1576,571,404,578
+632,Mason,2012,11651,Pets Without Parents,Easton,62633,Animal Shelter,0,0,0,0,0,9,123,72,32,13,6,12,191,109,11,58,13,0,0,0,0,0,0,314,181,43,71
+633,Kankakee,2012,11653,New Beginnings For Cats,Bourbonnais,60914,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,99,236,204,0,38,93,0,0,0,0,0,0,236,204,0,38
+634,Champaign,2012,11702,Catsnap,Savoy,61874,Animal Shelter,0,0,0,0,0,0,7,7,0,0,0,47,173,161,1,9,49,0,0,0,0,0,0,180,168,1,9
+635,Jefferson,2012,11881,Australian Cattle Dog Rescue Of IL,Texico,62889,Animal Shelter,0,0,0,0,0,35,151,117,0,19,50,0,0,0,0,0,0,0,0,0,0,0,0,151,117,0,19
+636,Carroll,2012,11883,Heartland Pet Welfare Inc.,Savanna,61074,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,63,112,121,0,1,53,0,0,0,0,0,0,112,121,0,1
+637,Kendall,2012,11945,Greater Chicago Cavalier Rescue,Yorkville,60560,Animal Shelter,0,0,0,0,0,3,66,59,0,1,8,0,0,0,0,0,0,0,0,0,0,0,0,66,59,0,1
+638,Rock Island,2012,12028,Rock Island County Animal Care & Control,Moline,61265,Animal Control,577,100,509,346,0,1883,1883,677,746,1152,0,1706,1706,854,46,708,0,53,53,21,3,19,0,3642,1552,795,1879
+639,Jackson,2012,12038,St. Francis Care,Murphysboro,62966,Animal Shelter,0,0,0,0,0,78,493,479,0,38,54,20,103,100,1,4,18,0,0,0,0,0,0,596,579,1,42
+640,Will,2012,12078,Bernese Mountain Dog Club of NI Rescue,Shorewood,60431,Animal Shelter,9,0,0,0,0,0,9,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,8,0,1
+641,Henry,2012,12142,Henry CO Humane Society Geneseo Chapter,Genoseo,61254,Animal Shelter,0,0,0,0,0,0,26,22,0,2,2,0,218,194,0,4,20,0,0,0,0,0,0,244,216,0,6
+642,Boone,2012,12181,Fresh Start Animal Rescue Inc.,Belvidere,61008,Animal Shelter,0,0,0,0,0,25,360,337,0,8,40,16,175,147,1,1,26,0,16,15,0,0,1,551,499,1,9
+643,Greene,2012,12195,Ghrist Vet Clinic--Carrollton Branch,Carrollton,62016,Animal Control,0,0,0,0,0,0,25,15,5,5,1,0,50,10,0,40,0,0,0,0,0,0,0,75,25,5,45
+644,Clinton,2012,12630,Centralia Humane Society,Centralia,62801,Animal Shelter,0,0,0,0,0,35,128,124,2,1,34,85,50,81,2,2,50,0,0,0,0,0,0,178,205,4,3
+645,Macon,2012,12676,Pet Tracks,Decatur,62526,Animal Shelter,0,0,1,0,0,0,0,0,0,0,0,28,21,1,0,0,48,0,0,0,0,0,0,21,1,0,0
+646,Randolph,2012,12697,Gunner's Run Rescue,Ruma,62278,Animal Shelter,0,0,0,0,0,3,38,38,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,38,38,0,0
+647,Stephenson,2012,12772,Critter Camp,German Vally,61039,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,325,223,46,0,0,350,223,46,0,0
+648,St. Clair,2012,12774,Midwest Schipperke Rescue Inc.,O'Fallon,62269,Animal Shelter,0,0,0,0,0,4,14,8,0,4,6,0,0,0,0,0,0,0,0,0,0,0,0,14,8,0,4
+649,Logan,2012,12805,Humane Society of Logan County,Lincoln,62656,Animal Shelter,0,0,0,0,0,2,69,61,1,0,16,2,79,69,2,1,21,0,0,0,0,0,0,148,130,3,1
+650,Bond,2012,12864,Bond County Humane Society,Greenville,62246,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,76,61,75,1,12,47,0,0,0,0,0,0,61,75,1,12
+651,Will,2012,13180,H.A.P.P.E Parrots Rescue Inc.,Bolingbrook,60440,Animal Shelter,1,0,0,0,27,0,4,1,2,1,0,0,0,0,0,0,0,6,51,27,2,3,6,55,28,4,4
+652,Montgomery,2012,13249,Montgomery Co Animal Control and Shelter,Hillsboro,62049,Animal Control,0,0,0,0,0,17,320,213,106,6,12,5,136,120,1,11,9,0,0,0,0,0,0,456,333,107,17
+653,Dewitt,2012,13301,"Second Chance Pet Adoptions, Inc.",Clinton,61727,Animal Shelter,0,0,0,0,0,0,65,51,0,3,11,0,44,30,0,2,12,0,4,2,0,0,2,113,83,0,5
+654,Adams,2012,13357,City of Quincy Animal Shelter,Quincy,62301,Animal Control,0,0,0,0,0,0,563,245,265,53,0,0,460,272,21,167,0,0,6,4,0,2,0,1029,521,286,222
+655,Lasalle,2012,13358,City of Streator Animal Control,Streator,61364,0,0,0,0,0,0,0,69,19,48,2,0,0,6,1,0,5,0,0,0,0,0,0,0,75,20,48,7
+656,Sangamon,2012,13501,Canine Solutions Rescue,Rochester,62563,Kennel Operator,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+657,Will,2012,13512,Making A Difference Rescue,Channahon,60410,Animal Shelter,0,0,0,0,0,15,48,46,0,1,16,9,8,7,0,0,10,0,1,0,0,0,1,57,53,0,1
+658,Winnebago,2012,13587,Robinson Parrot Rescue,Rockford,61103,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,0,0,1,6,5,0,0
+659,Will,2012,13632,English Springer Rescue America Inc.,New Lenox,60451,Animal Shelter,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0
+660,Will,2012,13646,Hope 4 Paws Rescue,Plainfield,60586,Animal Shelter,117,59,0,3,0,3,178,176,0,2,2,0,3,3,0,0,0,0,0,0,0,0,0,181,179,0,2
+661,Will,2012,13677,Aloha (A Love Of Homeless Animals),Bolingbrook,60490,Animal Shelter,0,37,0,0,0,0,47,37,0,3,7,0,0,0,0,0,0,0,0,0,0,0,0,47,37,0,3
+662,Will,2012,13679,Critter Corral Guinea Pig Rescue,Crete,60417,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,279,292,0,28,127,279,292,0,28
+663,Peoria,2012,13702,Paws Giving Independence NFP,Peoria,61614,Animal Shelter,0,0,0,0,0,0,10,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,9,0,0
+664,Madison,2012,13730,Dachshund Rescue of St. Louis,Highland,62249,Animal Shelter,0,0,0,0,0,5,50,50,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,50,50,0,0
+665,Livingston,2012,13734,Livco Animal Control Inc.,Fairbury,61739,Animal Control,0,0,0,0,0,0,172,104,29,38,0,0,0,0,0,0,0,0,0,0,0,0,0,172,104,29,38
+666,Knox,2012,13761,Guardian Angels Humane Society,Galesburg,61401,Animal Shelter,0,0,0,0,0,2,19,19,0,0,2,31,31,24,0,0,38,6,0,2,0,0,4,50,45,0,0
+667,Macon,2012,13788,Illinois English Bulldog Rescue,Decatur,62526,Animal Shelter,72,4,0,0,0,0,98,72,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,98,72,0,1
+668,Kendall,2012,13789,Eye On The Sparrow,Montgomery,60538,Animal Shelter,152,29,3,2,0,28,124,97,0,3,24,0,6,5,0,1,0,0,0,0,0,0,0,130,102,0,4
+669,Iroquois,2012,13793,Iroquois County Animal Rescue NFP,Iroquois,60945,Animal Shelter,0,0,140,88,0,0,0,0,0,0,0,80,178,228,6,2,22,0,0,0,0,0,0,178,228,6,2
+670,Piatt,2012,13808,Village of Mansfield ,Mansfield ,61854,Animal Shelter,0,0,0,0,0,0,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,12,0
+671,LaSalle,2012,13822,Safe House Animal Rescue League NFP,Dalzell,61320,Animal Shelter,0,0,0,0,0,65,0,65,0,0,0,12,282,259,2,0,20,0,44,44,0,0,0,326,368,2,0
+672,Kankakee,2012,13825,Village of Manteno Animal Control,Manteno,60950,0,0,0,0,0,0,0,30,3,25,2,0,0,8,1,11,5,0,0,0,0,1,0,0,38,4,37,7
+673,Will,2012,13826,Angels On Wheels Animal Rescue NFP,Naperville,60564,Animal Shelter,55,123,4,48,0,5,185,178,0,0,7,1,53,53,0,0,1,0,0,0,0,0, ,238,231,0,0
+674,Macoupin,2012,13833,Feathered Nest,Brighton,62012,Animal Shelter,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0,1,15,0,54,0,1
+675,Jackson,2012,13839,Midwest Animal Rescue Service,Murphysboro,62966,Animal Shelter,3,30,2,5,0,4,4,3,0,0,1,3,4,1,0,0,3,0,0,0,0,0,0,8,4,0,0
+676,Will,2012,13841,Wire Fox Terrier Rescue Midwest,Mokena,60448,Animal Shelter,0,0,0,0,0,0,27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,27,0,0
+677,Union,2012,13872,Cache Creek Animal Rescue,Anna,62906,0,0,0,0,0,0,0,772,592,10,74,28,0,256,222,0,23,11,0,0,0,0,0,0,1028,814,10,97
+678,Edgar,2012,13885,Save a Mutt Shelter & Rescue,Chrisman,61924,Animal Shelter,0,0,0,0,0,10,89,86,1,0,12,0,0,0,0,0,0,0,0,0,0,0,0,89,86,1,0
+679,Effingham,2012,13912,E.A.R.S.,Effingham,62401,Animal Shelter,0,0,0,0,0,16,195,192,7,0,12,8,38,33,0,0,13,0,0,0,0,0,0,233,225,7,0
+680,Peoria,2012,13920,Peoria County Animal Welfare Shelter,Peoria,61603,Animal Control,0,0,0,0,0,0,2341,793,573,934,0,0,2731,402,39,2280,0,0,149,99,7,40,0,5221,1294,619,3254
+681,Montgomery,2012,13922,River King Newfoundland Club Rescue,Brighton,62012,Animal Shelter,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0
+682,Hancock,2012,13923,West Hancock Canine Rescue,Hamilton,62341,Animal Shelter,0,0,0,0,0,0,152,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,152,152,0,0
+683,Madison,2012,13934,Come Bye Border Collie Rescue,Highland  ,62249,Animal Shelter,0,0,0,0,0,14,38,41,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,38,41,0,0
+684,Tazewell,2012,13939,Australian Shepherd Rescue Midwest,Washington,61571,Animal Shelter,42,7,0,0,0,14,72,49,0,2,21,0,0,0,0,0,0,0,0,0,0,0,0,72,49,0,2
+685,Shelby,2012,13942,Village of Herrick,Herrick,62431,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+686,Vermilion,2012,13949,Citizens For Animal Rescue And Adoption,Tilton,61833,Animal Shelter,34,39,33,17,0,23,73,73,14,0,23,297,174,50,5,0,416,0,1,0,0,0,1,248,123,19,0
+687,Kendall,2012,13987,Jellystone Bark's Rescue Rangers,Oswego,60543,Animal Shelter,0,0,0,0,0,3,528,528,0,0,3,0,1,1,0,0,0,0,0,0,0,0,0,529,529,0,0
+688,Crawford,2012,14047,Crawford County Spay & Neuter Foundation,Robinson,62454,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,32,588,106,454,28,2,0,0,0,0,0,0,588,106,454,28
+689,Calhoun,2012,14049,Andrea's Adoptive Puppies,Hardin,62047,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+690,Montgomery,2012,14054,Paws Care Inc.,Coffeen,62017,Animal Shelter,0,0,0,0,0,2,20,17,0,0,5,1,14,11,0,0,4,0,0,0,0,0,0,34,28,0,0
+691,Winnebago,2012,14064,"Good Shepherd Animal Sanctuary, INC.",Machesney Park,61115,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+692,Will,2012,14074,Kings Promise All Breed Rescue,Peotone,60468,Animal Shelter,2,19,0,0,0,2,19,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,21,0,0
+693,Adams,2012,14089,Quincy K-9 Connection,Quincy,62305,Animal Shelter,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+694,Carroll,2013,15,Carroll County Animal Pound,Mt. Carroll,61053,Animal Control,0,0,0,0,0,6,91,41,42,8,6,0,0,0,0,0,0,0,0,0,0,0,0,91,41,42,8
+695,Champaign,2013,22,Rantoul Dog Pound,Rantoul,61866,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+696,Christian,2013,29,Christian County Animal Control,Taylorville,62568,Animal Control,0,0,0,0,0,0,175,98,47,30,0,0,60,55,5,0,0,0,0,0,0,0,0,235,153,52,30
+697,Clark,2013,31,City of Casey,Casey,62420,Animal Control,0,0,0,0,0,0,28,0,18,10,1,0,0,0,0,0,0,0,3,0,3,0,0,31,0,21,10
+698,Edgar,2013,169,Edgar County Animal Control,Paris,61944-0381,Animal Control,0,0,0,0,0,8,247,196,51,21,8,0,0,0,0,0,0,0,0,0,0,0,0,247,196,51,21
+699,Effingham,2013,171,Effingham County Animal Control,Effingham,62401,Animal Control,40,7,1,0,0,7,238,47,62,127,9,0,152,1,6,141,4,0,10,0,0,10,0,400,48,68,278
+700,Fulton,2013,189,Fulton County Animal Control,Canton,61520,Animal Control,0,0,0,0,0,15,396,266,117,5,12,25,313,439,2,2,18,0,0,0,0,0,0,709,705,119,7
+701,Jackson,2013,204,Humane Society of Southern Illinois,Carbondale,62903,Animal Shelter,0,0,0,0,0,27,876,321,196,352,35,35,1332,115,27,1053,31,0,123,6,0,80,1,2331,442,223,1485
+702,McDonough,2013,266,McDonough County Animal Shelter,Macomb,61455, Animal Control,0,0,0,0,0,20,592,200,139,20,209,28,746,153,8,137,64,384,0,0,0,0,0,1338,353,147,157
+703,Madison,2013,299,Madison County Rabies Control,Edwardsville,62025,Animal Control,0,0,0,0,0,3,1251,368,281,561,14,2,2053,360,36,1622,4,0,0,0,0,0,0,3304,728,317,2183
+704,Marion,2013,310,City of Centralia,Centralia,62801,0,0,0,0,0,0,0,658,19,94,71,0,0,345,7,6,0,0,0,0,0,0,0,0,1003,26,100,71
+705,Massac,2013,320,Metropolis Animal Control,Metropolis,62960,Animal Control,0,0,0,0,0,5,243,155,70,9,5,0,0,0,0,0,0,0,0,0,0,0,0,243,155,70,9
+706,Morgan,2013,325,Morgan County Animal Control,Jacksonville,62650,Animal Control,0,0,0,0,0,0,519,114,0,15,0,0,631,58,0,29,0,0,267,0,0,267,0,1417,172,0,311
+707,Randolph,2013,352,Sparta Animal Control,Sparta,62286,Animal Control,0,0,0,0,0,0,42,0,35,7,0,0,27,0,0,27,0,0,0,0,0,0,0,69,0,35,34
+708,Richland,2013,356,Richland County Animal Control Center,Olney,62450,Animal Control Facility,0,0,0,0,0,8,331,15,51,22,8,8,262,6,1,58,17,0,0,0,0,0,0,593,21,52,80
+709,Schuyler,2013,396,Schuyler County Dog Pound,Rushville,62681,Animal Control,0,0,0,0,0,0,163,137,17,9,0,0,0,0,0,0,0,0,0,0,0,0,0,163,137,17,9
+710,Stephenson,2013,399,Freeport Animal Hospital Inc.,Freeport,61032,Animal Control,18,8,51,58,0,1,87,28,34,22,4,8,128,45,21,0,15,0,0,0,0,0,0,215,73,55,22
+711,Stephenson,2013,400,Freeport City Pound,Freeport,61032,Animal Control,0,0,0,0,0,0,170,0,101,0,0,0,0,0,0,0,0,0,225,0,0,225,0,395,0,101,225
+712,Tazewell,2013,408,Tazewell Animal Protective Society,Pekin,61554,Animal Shelter,660,226,164,232,0,60,780,767,4,5,62,77,413,364,0,1,119,0,0,0,0,0,0,1193,1131,4,6
+713,Vermilion,2013,415,Humane Society of Danville,Danville,61832,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+714,Wabash,2013,418,Wabash County Animal Control,Mt. Carmel,62863,Animal Control,0,0,0,0,0,473,473,87,34,3,0,237,237,126,2,3,0,0,0,0,0,1,0,710,213,36,7
+715,Kendall,2013,478,Kendall County Animal Control,Yorkville,60560,Animal Control,1118,0,71,0,0,22,401,105,209,28,18,9,216,93,7,19,15,0,0,0,0,0,0,617,198,216,47
+716,Will,2013,486,TLC Animal Shelter & Humane Society,Homer Glen,60491,Animal Shelter,0,0,0,0,0,14,1088,1075,7,6,16,10,395,381,4,10,14,3,45,39,0,6,0,1528,1495,11,22
+717,Dewitt,2013,1395,Dewitt County Animal Control,Clinton,61727,Animal Control,0,0,0,0,0,5,144,59,82,4,4,7,152,124,6,7,22,0,2,1,0,1,4,298,184,88,12
+718,Hancock,2013,1520,Hancock County Dog Pound,Basco,62313,Animal Control,0,0,0,0,0,0,183,104,45,34,0,0,0,0,0,0,0,0,0,0,0,0,0,183,104,45,34
+719,Madison,2013,1909,Granite City Humane Shelter,Granite City,62040,Animal Control Facility,0,0,0,0,0,0,408,34,136,2,0,0,555,17,13,6,0,0,0,0,0,0,0,963,51,149,8
+720,Williamson,2013,2354,City of Marion,Marion,62959,Animal Control,0,0,0,0,0,0,252,49,95,13,13,0,156,19,1,34,31,0,0,0,0,0,0,408,68,96,47
+721,Marshall,2013,2440,Marshall County Dog Pound,Lacon,61540,Animal Control,0,0,0,0,0,0,80,15,55,10,0,0,0,0,0,0,0,0,0,0,0,0,0,80,15,55,10
+722,Warren,2013,2945,Warren County Dog Pound,Monmouth,61462,Animal Control,0,0,0,0,0,2,126,45,70,8,3,5,148,140,2,5,6,0,1,0,1,0,0,275,185,73,13
+723,Sangamon,2013,3257,Sangamon County Animal Countrol CTR.,Springfield,62703,Animal Control,569,68,294,150,5,43,1958,745,515,591,40,51,1878,903,30,747,57,0,597,10,1,252,0,4433,1658,546,1590
+724,Douglas,2013,3259,Douglas County Animal Control,Tuscola,61953-0192,Animal Control,45,20,5,10,0,8,80,65,20,5,8,3,15,15,0,0,3,0,0,0,0,0,0,95,80,20,5
+725,Dekalb,2013,3343,Dekalb County Animal Shelter,Genoa,60135,Animal Shelter,0,0,0,0,0,37,170,146,10,10,37,89,195,165,5,25,89,0,2,2,0,0,0,367,313,15,35
+726,Boone,2013,3508,Boone County Animal Services,Belvidere,61008,Animal Control,0,0,0,0,0,0,363,83,172,108,0,0,167,118,1,48,0,0,10,9,0,1,0,540,210,173,157
+727,Clinton,2013,3586,Clinton County Animal Control,Carlyle,62231,Animal Control,0,0,0,0,0,12,408,155,178,92,2,5,689,37,13,625,19,0,8,0,0,8,0,1105,192,191,725
+728,Will,2013,3595,Village of Romeoville ,Romeoville,60446,Animal Control,0,0,0,0,0,0,182,39,143,0,0,0,28,16,9,2,1,0,0,0,0,0,0,210,55,152,2
+729,Kane,2013,3626,Aurora Animal Control & Care,Aurora,60506,Animal Control,0,0,0,0,0,39,1356,628,426,320,21,22,1134,667,28,343,118,0,81,37,2,52,0,2571,1332,456,715
+730,Grundy,2013,3700,Grundy County Animal Control,Morris,60450,Animal Control,62,0,24,0,0,21,277,62,155,37,18,9,270,24,7,163,25,0,4,4,0,0,0,551,90,162,200
+731,White,2013,3791,Carmi City Dog Pound,Carmi,62821,Animal Control,0,0,0,0,0,1,146,44,84,14,4,0,0,0,0,0,0,0,0,0,0,0,0,146,44,84,14
+732,Washington,2013,3796,Washington County Animal Control,Nashville,62263,Animal Control,0,0,0,0,0,7,197,134,55,8,7,0,332,330,0,2,0,0,0,0,0,0,0,529,464,55,10
+733,Jersey,2013,3850,Jerseyville Animal Control,Jerseyville,62052,Animal Control,0,0,0,0,0,0,140,22,30,93,93,0,75,0,1,74,0,0,0,0,0,0,0,215,22,31,167
+734,Will,2013,3874,Will County Humane Society,Shorewood,60431,Animal Shelter,0,0,0,0,0,0,138,115,12,4,0,0,60,71,0,3,0,0,4,2,0,0,2,202,188,12,7
+735,Madison,2013,3923,Warren Billhartz Animal Shelter,Collinsville,62234,Animal Control,0,0,0,0,0,9,285,47,149,22,4,10,276,63,7,40,19,0,128,0,0,40,0,689,110,156,102
+736,Kankakee,2013,3970,Kankakee County Animal Control Center,Kankakee,60901,Animal Control Facility,0,0,0,0,0,0,727,280,217,228,0,0,241,141,3,97,0,0,106,34,11,61,0,1074,455,231,386
+737,Tazewell,2013,4246,Tazewell County Animal Control,Tremont,61568,Animal Control,37,2,44,12,0,7,848,39,332,272,212,6,942,56,28,645,219,0,158,2,1,22,133,1948,97,361,939
+738,Bond,2013,4351,Bond County/City of Greenville,Greenville,62246,Animal Control,0,0,0,0,0,1,62,0,20,28,0,0,15,0,0,15,0,0,0,0,0,0,0,77,0,20,43
+739,Will,2013,4363,Frankfort TWP. Animal Control,Frankfort,60423,Animal Control,0,0,0,0,0,0,113,24,87,2,0,0,63,50,10,3,0,0,4,3,1,0,0,180,77,98,5
+740,Woodford,2013,4437,City of Minonk,Minonk,61760,Animal Control,0,0,0,0,0,0,7,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,5,0
+741,Saline,2013,4465,Saline County Animal Control,Harrisburg,62946,Animal Control,0,0,0,0,0,7,459,28,63,79,8,0,347,5,5,234,3,0,0,0,0,0,0,806,33,68,313
+742,Franklin,2013,4486,Franklin County Animal Control,Benton,62812,Animal Control,0,0,0,0,0,8,772,118,128,523,11,6,1107,9,8,1090,0,0,0,0,0,0,0,1879,127,136,1613
+743,Will,2013,4530,Bolingbrook Animal Control & Care,Bolingbrook,60440,Animal Control,0,0,0,0,0,1,327,82,205,18,7,1,186,79,33,48,7,9,17,17,0,0,0,530,178,238,66
+744,Henderson,2013,4651,Henderson County Dog Pound,Oquawka,61469,Animal Control,0,0,0,0,0,0,82,27,50,5,0,0,0,0,0,0,0,0,0,0,0,0,0,82,27,50,5
+745,Will,2013,4714,Joliet TWP Animal Control Center,Joliet,60436,Animal Control,0,0,0,0,0,32,1295,495,500,310,22,50,1047,237,26,777,57,1,13,9,0,3,2,2355,741,526,1090
+746,Macon,2013,4811,Macon County Animal Control & Care Ctr,Decatur,62526,Animal Control,0,0,0,0,0,101,1280,497,315,454,94,130,1294,536,19,671,88,0,172,6,2,102,0,2746,1039,336,1227
+747,Kankakee,2013,4822,"Kankakee County Humane Society, Inc.",Kankakee,60901,Animal Shelter,0,0,0,0,0,26,286,271,0,3,38,29,97,111,0,0,43,0,0,0,0,0,0,383,382,0,3
+748,Perry,2013,4839,Perry County Animal Control,Pinckneyville,62274,Animal Control,0,0,0,0,0,4,244,161,62,21,3,0,140,94,0,46,0,0,0,0,0,0,0,384,255,62,67
+749,Macoupin,2013,4869,Macoupin County Animal Control,Carlinville,62626,Animal Control,0,0,0,0,0,28,734,496,197,22,47,28,425,272,83,3,80,0,5,2,3,0,0,1164,770,283,25
+750,Rock Island,2013,4875,City of Silvis,Silvis,61282,Animal Control,0,0,0,0,0,0,46,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,59,0,0,0
+751,Jodaviess,2013,4982,Village of Warren,Warren,61087,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+752,Shelby,2013,4991,Shelby County Animal Control,Shelbyville,62565,Animal Control,0,0,0,0,0,2,163,96,35,32,6,0,45,33,6,6,2,0,2,2,0,0,0,210,131,41,38
+753,Henry,2013,5008,Henry County Animal Shelter,Cambridge,61238,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+754,Jefferson,2013,5064,Jefferson Co. Animal Control,Mt. Vernon,62864,Animal Control,0,0,0,0,0,14,1053,558,184,235,88,6,842,199,8,589,52,0,0,0,0,0,0,1895,757,192,824
+755,Winnebago,2013,5140,Winnebago County Animal Services,Rockford,61103,Animal Control,0,0,0,0,0,83,2838,561,933,1192,63,63,3551,770,80,2584,94,2,1295,28,3,913,8,7684,1359,1016,4689
+756,Henry,2013,5196,Geneseo Police Department,Geneseo,61254,Animal Control,0,0,0,0,0,0,37,5,32,0,0,0,12,3,9,0,0,0,0,0,0,0,0,49,8,41,0
+757,Woodford,2013,5200,Steffen Dr. J. R. ,Goodfield,61742,Animal Control,0,0,0,0,0,0,42,11,19,12,0,0,7,3,2,2,0,0,0,0,0,0,0,49,14,21,14
+758,Vermilion,2013,5202,Vermilion County Animal Shelter,Danville,61834,Animal Control,194,235,40,68,0,93,958,429,187,136,182,102,918,108,16,477,326,0,30,0,0,0,0,1906,537,203,613
+759,Coles,2013,5242,Coles County Animal Shelter,Charleston,61920,Animal Control,0,0,0,0,0,867,867,368,238,218,43,815,815,176,11,596,32,0,0,0,0,0,0,1682,544,249,814
+760,Rock Island,2013,5297,Quad City Animal Welfare Center,Milan,61264,Animal Shelter,326,73,103,117,0,41,409,399,6,4,41,96,251,220,15,16,96,0,2,2,0,0,0,662,621,21,20
+761,Lawrence,2013,5422,Lawrence County Animal Control,Lawrenceville,62439,Animal Control,0,0,0,0,0,5,87,6,27,10,1,2,44,1,0,18,0,0,0,0,0,0,0,131,7,27,28
+762,Iroquois,2013,5477,Village of Onarga,Onarga,60955,Animal Control,0,0,0,0,0,0,11,0,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,8,3
+763,Lee,2013,5490,"Sauk Valley Humane Society, Inc.",Mendota,61342,Animal Shelter,2,0,3,0,0,0,10,2,3,0,5,0,15,5,7,8,50,0,0,0,0,0,0,25,7,10,8
+764,Adams,2013,5531,Adams County Animal Shelter,Quincy,62305,Animal Control,0,0,0,0,0,0,161,68,86,7,0,0,2,2,0,0,0,0,0,0,0,0,0,163,70,86,7
+765,Mason,2013,5567,Village of Manito,Manito,61546,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+766,Williamson,2013,5619,Williamson County Animal Control,Marion,62959,Animal Control,0,0,0,0,0,25,583,315,143,113,25,0,26,0,0,26,0,0,2,0,0,2,0,611,315,143,141
+767,Adams,2013,5700,Quincy Humane Society,Quincy,62305,Animal Shelter,0,0,0,0,0,27,402,409,0,2,27,24,364,323,0,26,34,0,0,0,0,0,0,766,732,0,28
+768,Madison,2013,5747,Alton Animal Control Center,Alton,62002,Animal Control,0,0,0,0,0,0,270,68,41,161,0,0,361,6,1,354,0,0,269,0,0,269,0,900,74,42,784
+769,Mason,2013,5760,City of Havana,Havana,62644,Animal Control,0,0,0,0,0,0,10,0,28,0,38,0,56,0,6,0,62,0,1,0,0,0,0,67,0,34,0
+770,Hamilton,2013,5801,City of Mcleansboro,Mcleansboro,62859,Animal Control,0,0,0,0,0,2,39,33,2,4,3,0,0,0,0,4,0,0,0,0,0,0,0,39,33,2,8
+771,Monroe,2013,6034,Monroe County Animal Pound,Waterloo,62298,Animal Control,0,0,0,0,0,115,115,66,36,13,0,134,134,47,13,74,0,0,0,0,0,0,0,249,113,49,87
+772,Lee,2013,6062,Granny Rose Animal Shelter,Dixon,61021,Animal Shelter,0,0,0,0,0,18,93,95,0,0,16,34,46,53,1,4,22,0,0,0,0,0,0,139,148,1,4
+773,Macoupin,2013,6098,Macoupin County Adopt-A-Pet,Benld,62009-1448,Animal Shelter,0,0,0,0,0,63,376,351,6,0,82,44,211,209,1,0,45,0,0,0,0,0,0,587,560,7,0
+774,St. Clair,2013,6311,Marissa Animal Control,Marissa,62257,Animal Control,0,0,0,0,0,0,39,0,15,0,0,0,53,0,2,0,0,0,0,0,0,0,0,92,0,17,0
+775,Henry,2013,6355,Henry Co. Humane Society Kewanee Chapter,Kewanee,61443,Animal Shelter,0,0,0,0,0,8,80,69,0,1,18,125,105,100,0,20,110,0,0,0,0,0,0,185,169,0,21
+776,Rock Island,2013,6357,"Animal Aid Humane Society, Inc.",Moline,61265,Animal Shelter,0,0,0,0,0,5,11,5,0,0,4,90,104,75,0,0,88,0,0,0,0,0,0,115,80,0,0
+777,Madison,2013,6418,Highland Animal Shelter,Highland,62249,Animal Shelter,0,0,0,0,0,18,84,78,1,0,23,70,211,177,1,0,103,0,0,0,0,0,0,295,255,2,0
+778,Macon,2013,6479,Humane Society of Decatur/Macon Co,Decatur,62526,Animal Shelter,0,0,0,0,0,9,76,80,2,2,1,33,62,58,0,1,36,0,0,0,0,0,0,138,138,2,3
+779,Stephenson,2013,6480,Friends Forever Humane Society,Freeport,61032,Animal Shelter,0,0,0,0,0,21,266,224,17,1,26,25,155,117,2,4,42,0,2,0,0,2,0,423,341,19,7
+780,Cumberland,2013,6512,Cumberland County Animal Control,Toledo,62468,0,0,0,0,0,0,6,76,48,28,6,0,0,0,0,0,0,0,0,0,0,0,0,0,76,48,28,6
+781,Clark,2013,6577,Bender's Townhouse Kennels,West Union,62477,Animal Control,0,0,0,0,0,0,231,147,65,14,5,0,0,0,0,0,0,0,0,0,0,0,0,231,147,65,14
+782,Madison,2013,6613,Metro East Humane Society,Edwardsville,62025,Animal Shelter,285,133,162,146,0,6,423,418,0,0,11,14,301,308,0,0,21,0,0,0,0,0,0,724,726,0,0
+783,Randolph,2013,6713,Chester City Pound,Chester,62233,Animal Control,0,0,0,0,0,4,171,97,72,0,3,0,0,0,0,0,0,0,0,0,0,0,0,171,97,72,0
+784,Pope,2013,6793,Pope County Animal Pound,Golconda,62938,Animal Control,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0
+785,Pulaski,2013,6935,Mound City Animal Pound,Mound City,62963,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+786,Randolph,2013,6969,Randolph County Animal Control,Sparta,62286,Animal Control,0,0,0,0,0,0,137,74,47,16,0,0,42,15,5,22,0,0,0,0,0,0,0,179,89,52,38
+787,White,2013,7123,Grayville City Dog Pound,Grayville,62844,Animal Control,0,0,0,0,0,0,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,3,0
+788,Boone,2013,7126,Roscoe Animal Retreat,Roscoe,61073,Animal Shelter,0,0,0,0,0,12,6,2,4,0,6,200,11,10,1,0,200,0,0,0,0,0,0,17,12,5,0
+789,Pulaski,2013,7146,City of Mounds,Mounds,62964,Animal Control,0,0,0,0,0,0,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,10
+790,Shelby,2013,7147,Village of Tower Hill,Tower Hill,62571,Animal Control,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0
+791,Randolph,2013,7376,Evansville Dog Pound,Evansville,62242,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+792,Wayne,2013,7575,Wayne County Humane Society,Fairfield,62837,0,137,36,21,91,0,29,407,173,96,145,22,14,294,112,3,33,60,0,0,0,0,0,0,701,285,99,178
+793,Whiteside,2013,7583,Whiteside County Pound,Rock Falls,61071,Animal Control,0,0,0,0,0,0,352,43,185,93,0,0,182,5,4,126,0,0,0,0,0,0,0,534,48,189,219
+794,Randolph,2013,7619,Tilden Animal Control,Tilden,62292,0,0,0,0,0,0,0,7,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,5,1
+795,Union,2013,7641,Union County Animal Control,Cobden,62920,Animal Control,0,0,0,0,0,18,320,42,27,15,20,42,108,20,3,5,58,0,4,0,4,0,0,432,62,34,20
+796,Randolph,2013,7682,Steelville Animal Control,Steeleville,62288,Animal Control,0,0,0,0,0,0,6,0,6,0,0,0,4,0,0,4,0,0,0,0,0,0,0,10,0,6,4
+797,Grundy,2013,7683,Grundy County Humane Society,Coal City,60416,Animal Shelter,0,0,0,0,0,1,19,20,0,0,0,2,4,6,0,0,0,0,0,0,0,0,0,23,26,0,0
+798,Edwards,2013,7794,Albion Animal Pound,Albion,62806-1016,Animal Control,0,0,0,0,0,0,72,0,12,60,0,0,20,0,0,20,0,0,22,0,0,0,0,114,0,12,80
+799,Knox,2013,7871,Knox County Humane Society,Galesburg,61401,0,0,0,0,0,0,0,0,700,384,100,26,0,0,446,244,2,3,0,0,0,0,0,0,0,1146,628,102
+800,Shelby,2013,7889,City of Windsor,Windsor,61957,Animal Control,0,0,0,0,0,0,4,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,3
+801,Macon,2013,7909,Prairieland Animal Welfare,Decatur,62521,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,0,4,0,0,0,0,0,0,8,4,0,0
+802,Clark,2013,7961,Baird's Pound,Martinsville,62442,Animal Control,0,0,0,0,0,0,10,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,7,0
+803,LaSalle,2013,8073,"Pet Project, Inc.",Marseilles,61341,Animal Shelter,0,0,0,0,0,19,116,117,1,1,16,23,104,107,0,2,18,0,0,0,0,0,0,220,224,1,3
+804,Bureau,2013,8180,"Friends of Strays, Inc.",Princeton,61356,Animal Shelter,51,16,123,59,0,29,79,67,0,2,39,371,180,182,0,26,343,0,0,0,0,0,0,259,249,0,28
+805,Christian,2013,8278,City of Assumption,Assumption,62510,Animal Control,0,0,0,0,0,0,10,0,7,3,0,0,5,0,4,1,0,0,8,0,0,8,0,23,0,11,12
+806,Williamson,2013,8392,Herrin Animal Control,Herrin,62948,Animal Control,0,0,0,0,0,0,58,32,16,0,156,141,28,0,11,0,158,0,0,0,0,0,0,86,32,27,0
+807,Greene,2013,8432,White Hall Animal Control,White Hall,62092,Animal Control,0,0,0,0,0,0,18,6,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,6,12,0
+808,Cumberland,2013,8443,Neoga Animal Shelter,Neoga,62447,Animal Control,0,0,0,0,0,0,13,0,11,0,0,0,7,0,7,0,0,0,0,0,0,0,0,20,0,18,0
+809,Knox,2013,8448,Knoxville Animal Control,Knoxville,61448,Animal Control,0,0,0,0,0,0,17,0,17,0,0,0,3,0,3,0,0,0,0,0,0,0,0,20,0,20,0
+810,Grundy,2013,8514,Just Animals Placement Service,Mazon,60444,Animal Shelter,18,5,81,224,0,16,28,23,0,0,5,37,343,342,2,1,35,0,0,0,0,0,0,371,365,2,1
+811,Hardin,2013,8564,City of Rosiclare,Rosiclare,62982,Animal Control,0,0,0,0,0,0,21,3,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,21,3,17,0
+812,Lee,2013,8565,City of Amboy,Amboy,61310,0,0,0,0,0,0,0,30,2,28,0,0,0,8,3,0,5,0,0,0,0,0,0,0,38,5,28,5
+813,Moultrie,2013,8566,Village of Arthur,Arthur,61911,Animal Control,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0
+814,Will,2013,8568,Homes for Huskies,Lockport,60441,Animal Shelter,15,1,0,0,0,3,13,11,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,13,11,0,1
+815,Lawrence,2013,8603,Lawrence County Humane Society (Cats),Lawrenceville,62439,0,0,0,0,0,0,0,0,0,0,0,0,78,65,10,0,36,80,0,0,0,0,0,0,65,10,0,36
+816,Richland,2013,8645,Humane Society of Olney Area,Olney,62450,0,0,0,0,0,0,0,89,51,36,2,0,0,101,56,42,3,0,0,0,0,2,0,0,190,107,80,5
+817,Greene,2013,8675,The Dog P.E.N.,Roodhouse,62082,Animal Shelter,55,11,140,38,0,12,66,66,0,0,12,0,178,178,0,0,0,0,0,0,0,0,0,244,244,0,0
+818,Madison,2013,8699,East Alton Animal Control,East Alton,62024,Animal Control,0,0,0,0,0,0,41,0,20,20,0,0,68,0,2,66,0,0,0,0,0,0,0,109,0,22,86
+819,Coles,2013,8779,Kieffer's K-9 Country Club,Mattoon,61938,Animal Shelter,0,0,0,0,0,5,0,4,0,1,0,38,0,18,0,2,18,0,0,0,0,0,0,0,22,0,3
+820,Brown,2013,8899,City of Mt. Sterling,Mt. Sterling,62353,Animal Control,0,0,0,0,0,0,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,12,0
+821,Moultrie,2013,8900,Moultrie County Animal Control,Sullivan,61951,Animal Control,0,0,0,0,0,4,114,49,42,25,2,0,34,22,0,9,3,0,0,0,0,0,0,148,71,42,34
+822,Crawford,2013,8940,Crawford County Humane Society,Robinson,62454,Animal Control Facility,55,13,15,6,1,71,545,68,93,46,63,355,356,21,0,47,487,0,0,0,0,0,0,901,89,93,93
+823,Putnam,2013,8979,Village of Granville,Granville,61326,Animal Control,0,0,0,0,0,0,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,8,0
+824,Pike,2013,8996,Pike County Animal Control,Pittsfield,62363,Animal Control,0,0,0,0,0,27,89,45,17,11,43,11,9,6,0,5,9,0,0,0,0,0,0,98,51,17,16
+825,Douglas,2013,9011,City of Arcola,Arcola,61910-0215,Animal Control,0,0,0,0,0,0,15,5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,5,10,0
+826,Will,2013,9040,Humane Have Animal Shelter,Bolingbrook,60440,0,0,0,0,0,0,7,9,10,0,3,3,24,96,111,0,2,7,0,0,0,0,0,0,105,121,0,5
+827,Livingston,2013,9427,Livingston County Humane Society,Pontiac,61764,Animal Shelter,0,0,0,0,0,26,84,104,0,2,10,58,79,82,0,1,56,0,0,0,0,0,0,163,186,0,3
+828,Jo Daviess,2013,9465,Safe Haven Humane Society,Elizabeth,61028,Animal Shelter,0,0,0,0,0,10,96,96,2,0,8,12,76,71,0,3,14,0,0,0,0,0,0,172,167,2,3
+829,Kendall,2013,9577,"Recycled Rotts, Inc.",Oswego,60543,0,0,0,0,0,0,0,172,165,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,172,165,0,7
+830,Fulton,2013,9650,Humane Society of Fulton County,Canton,61520,Animal Shelter,0,0,0,0,0,8,396,266,117,5,16,23,560,439,2,2,140,0,0,0,0,0,0,956,705,119,7
+831,Will,2013,9742,Shih Tzu Rescue,Homer Glen,60491,Animal Shelter,0,0,0,0,0,15,27,17,1,4,20,0,0,0,0,0,0,0,0,0,0,0,0,27,17,1,4
+832,Fayette,2013,9936,Fayette County Animal Control,Vandalia,62471,Animal Control,0,0,0,0,0,10,155,54,16,75,10,2,75,10,0,63,4,0,0,0,0,0,0,230,64,16,138
+833,Dekalb,2013,9944,Recycling Animals in Need (R.A.I.N.),Hinckley,60520,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,4,0,0,0,0,0,0,2,0,0,0
+834,Bureau,2013,9990,Bureau County Animal Control,Princeton,61356,Animal Control,0,0,0,0,0,0,53,29,14,10,0,0,0,0,0,0,0,0,0,0,0,0,0,53,29,14,10
+835,Warren,2013,10075,"Western Illinois Animal Rescue, Inc.",Monmouth,61462,Animal Shelter,0,0,0,0,0,2,21,17,0,1,3,33,90,60,0,5,58,0,0,0,0,0,0,111,77,0,6
+836,Whiteside,2013,10093,Village of Tampico,Tampico,61283,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+837,Massac,2013,10102,Village of Joppa,Joppa,62953,Animal Control,0,0,0,0,0,0,10,0,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,8,2
+838,Brown,2013,10161,Village of Versailles,Versailles,62378,0,1,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0
+839,Marshall,2013,10171,"Animal Recycling Kennel H.S., LTD",Lacon,61540,Animal Shelter,0,0,0,0,0,50,120,108,2,4,55,82,118,90,0,10,78,0,0,0,0,0,0,238,198,2,14
+840,Macon,2013,10185,Homeward Bound Pet Shelter,Decatur,62526,Animal Shelter,0,0,0,0,0,26,276,264,4,1,33,22,86,67,0,0,41,0,2,2,0,0,0,364,333,4,1
+841,LaSalle,2013,10281,"Illinois Valley Animal Rescue, Inc.",LaSalle,61301,Animal Shelter,0,0,0,0,0,55,352,235,84,26,62,318,499,228,8,225,356,0,0,0,0,0,0,851,463,92,251
+842,Livingston,2013,10364,"Guardian Angel Basset Rescue, Inc.",Dwight,60420,Animal Shelter,145,0,0,0,0,6,150,145,0,5,6,0,0,0,0,0,0,0,0,0,0,0,0,150,145,0,5
+843,Will,2013,10409,C.O.P.E.,Wilmington,60481,0,0,0,0,0,0,2,4,5,0,0,1,25,21,0,0,0,30,0,0,0,0,0,0,25,5,0,0
+844,Woodford,2013,10437,City of El Paso,El Paso,61738,Animal Control,0,0,0,0,0,0,17,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,17,0
+845,Randolph,2013,10487,Randolph County Humane Society,Sparta,62286,Animal Shelter,0,0,0,0,0,14,90,69,6,8,21,4,26,18,0,2,10,0,0,0,0,0,0,116,87,6,10
+846,Dekalb,2013,10584,Tails Humane Society,Dekalb,60115,Animal Shelter,675,677,294,397,0,182,1576,1352,70,82,112,116,902,691,59,157,76,15,130,108,0,4,18,2608,2151,129,243
+847,Hancock,2013,10626,Hearts of Hancock Humane Society,Carthage,62321,Animal Shelter,0,0,0,0,0,4,13,14,0,0,3,22,14,11,0,1,24,0,0,0,0,0,0,27,25,0,1
+848,Johnson,2013,10693,Goines Kennels,Vienna,62995,Animal Control,0,0,0,0,0,6,231,0,158,71,2,0,0,0,0,0,0,0,0,0,0,0,0,231,0,158,71
+849,Will,2013,10853,"Suburban Sheltie Rescue, LTD",Homer Glen,60491,Animal Shelter,0,0,0,0,0,18,0,0,0,2,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+850,Scott,2013,10871,Scott County Dog Rescue,Winchester,62694,Animal Shelter,0,0,0,0,0,15,143,168,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,143,168,0,0
+851,Sangamon,2013,10913,Illinois Humane,Springfield,62705,Animal Shelter,0,0,0,0,0,15,14,17,0,1,11,16,27,21,0,1,21,0,0,0,0,0,0,41,38,0,2
+852,Kendall,2013,10937,"Western Irish Setter Club, Inc.",Minooka,60447,Animal Shelter,2,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+853,Champaign,2013,10984,Prairieland Anti-Cruelty Program,Champaign,61822,Kennel Operator & Animal Shelter,0,0,0,0,0,0,8,6,0,2,0,65,214,191,0,34,54,0,0,0,0,0,0,222,197,0,36
+854,Madison,2013,10989,Partners for Pets Humane Society,St. Jacobs,62281,Animal Shelter,0,0,0,0,0,70,725,718,2,9,66,75,456,448,0,2,81,0,0,0,0,0,0,1181,1166,2,11
+855,Peoria,2013,11004,Pets for Seniors,Brimfield,61517,0,0,0,0,0,0,0,37,37,0,0,0,11,159,161,1,1,15,0,0,0,0,0,0,196,198,1,1
+856,Jasper,2013,11194,County of Jasper,Newton,62448,0,0,0,0,0,0,0,94,0,53,41,0,0,0,0,0,0,0,0,0,0,0,0,0,94,0,53,41
+857,Will,2013,11247,Greater Chicago Caged Bird Clug,Villa Park,60181,Animal Shelter,0,0,0,0,233,0,0,0,0,0,0,0,0,0,0,0,0,24,332,233,0,7,69,332,233,0,7
+858,Fayette,2013,11249,Second Chance Animal Rescue,Vandalia,62471,Animal Shelter,160,14,0,0,0,20,160,174,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,160,174,0,0
+859,Coles,2013,11250,Genesis Animal Rescue,Matton,61938,Animal Shelter,0,0,0,0,0,18,37,49,1,1,1,7,33,32,1,0,7,0,0,0,0,0,0,70,81,2,1
+860,Champaign,2013,11459,Wings of Wonder Avian Rescue,Mahomet,61853,Animal Shelter,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,40,15,15,0,0,40,15,15,0,0
+861,Monroe,2013,11527,Humane Society of Monroe County,Red Bud,62278,0,0,0,0,0,0,38,187,180,4,16,44,90,182,149,2,15,45,0,0,0,0,0,0,369,329,6,31
+862,Champaign,2013,11647,Champaign County Animal Services,Urbana,61820,Animal Control,0,0,0,0,0,0,923,215,369,339,0,0,753,419,34,300,0,0,40,29,2,9,0,1716,663,405,648
+863,Mason,2013,11651,Pets Without Parents,Easton,62633,0,0,0,0,0,0,7,147,92,40,9,6,8,185,109,13,56,7,0,1,1,0,0,0,333,202,53,65
+864,Kankakee,2013,11653,New Beginning for Cats,Bourbonnais,60914,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,99,314,258,0,66,130,0,0,0,0,0,0,314,258,0,66
+865,Champaign,2013,11702,Catsnap,Rantoul,61866,Animal Shelter,0,0,0,0,0,0,2,1,1,0,0,47,110,129,2,2,28,0,0,0,0,0,0,112,130,3,2
+866,Jefferson,2013,11881,Australian Cattle Dog Rescue of IL,Texico,62889,Animal Shelter,93,11,0,0,0,35,139,93,0,24,47,0,0,0,0,0,0,0,0,0,0,0,0,139,93,0,24
+867,Carroll,2013,11883,"Heartland Pet Welfare, Inc.",Savanna,61074,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,53,123,107,0,2,67,0,0,0,0,0,0,123,107,0,2
+868,Kendall,2013,11945,Greater Chicago Cavalier Rescue,Yorkville,60560,Animal Shelter,0,0,0,0,0,8,75,71,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0,75,71,0,2
+869,Rock Island,2013,12028,Rock Island County Animal Care & Control,Moline,61265,Animal Control,613,104,532,448,0,0,1871,717,720,426,0,0,1600,980,34,1008,0,0,41,18,0,21,0,3512,1715,754,1455
+870,Jackson,2013,12038,St. Francis Care,Murphysboro,62966,Animal Shelter,0,0,0,0,0,54,541,447,10,80,58,18,194,164,8,14,26,0,0,0,0,0,0,735,611,18,94
+871,Will,2013,12078,Bernese Mountain Dog Club of NI Rescue,Shorewood,60404,Animal Shelter,3,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+872,Henry,2013,12142,Henry Co. Humane Society Geneseo Chapter,Geneseo,61254,0,0,0,0,0,0,4,32,36,0,2,3,74,119,183,0,3,68,0,0,0,0,0,0,151,219,0,5
+873,Boone,2013,12181,"Fresh Start Animal Rescue, Inc.",Belvidere,61008,Animal Shelter,102,310,66,97,0,24,417,412,0,3,26,18,198,163,0,4,49,0,1,1,0,0,0,616,576,0,7
+874,Greene,2013,12195,Ghrist Vet Clinic--Carrollton Branch,Carrollton,62016,Animal Control,0,0,0,0,0,0,15,2,9,4,0,0,23,7,0,16,0,0,0,0,0,0,0,38,9,9,20
+875,Clinton,2013,12630,Centralia Humane Society,Centralia,62801,Animal Shelter,0,0,0,0,0,34,77,78,8,2,39,50,44,44,6,6,50,0,0,0,0,0,0,121,122,14,8
+876,Macon,2013,12676,Pet Tracks,Decatur,62526,Animal Shelter,0,0,2,0,0,0,0,0,0,0,0,48,3,2,0,1,48,0,0,0,0,0,0,3,2,0,1
+877,Randolph,2013,12697,Gunner's Run Rescue,Ruma,62278,Animal Shelter,0,0,0,0,0,2,22,17,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,22,17,0,0
+878,Stephenson,2013,12772,Critter Camp,German Valley,61039,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,325,150,27,0,0,330,150,27,0,0
+879,St. Clair,2013,12774,"Midwest Schipperke Rescue, Inc.",O'Fallon,62269,Animal Shelter,0,0,0,0,0,5,8,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,2,2
+880,Logan,2013,12805,Humane Society of Logan County,Lincoln,62656,0,0,0,0,0,0,16,54,56,0,1,13,21,86,70,4,8,25,0,0,0,0,0,0,140,126,4,9
+881,Bond,2013,12864,Bond County Humane Society,Greenville,62246,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,45,69,85,0,0,29,0,0,0,0,0,0,69,85,0,0
+882,Will,2013,13180,"H.A.P.P.E. Parrots Rescue, Inc.",Bolingbrook,60440,Animal Shelter,0,0,0,0,0,0,3,1,1,1,0,0,0,0,0,0,0,6,46,33,1,6,6,49,34,2,7
+883,Montgomery,2013,13249,Montgomery Co Animal Control and Shelter,Hillsboro,62049,Animal Control,0,0,0,0,0,12,324,195,116,6,19,9,187,149,2,25,20,0,0,0,0,0,0,511,344,118,31
+884,Dewitt,2013,13301,"Second Chance Pet Adoptions, Inc.",Clinton,61727,Animal Shelter,0,0,0,0,0,0,58,40,0,2,16,0,40,25,0,0,15,0,3,1,0,0,2,101,66,0,2
+885,Adams,2013,13357,City of Quincy Animal Shelter,Quincy,62301,0,0,0,0,0,0,0,516,232,243,41,0,0,503,180,13,310,0,0,15,7,1,7,0,1034,419,257,358
+886,Lasalle,2013,13358,City of Streator Animal Control,Streator,61364,Animal Control,0,0,0,0,0,0,79,24,50,5,0,0,12,10,1,1,0,0,0,0,0,0,0,91,34,51,6
+887,Sangamon,2013,13501,Canine Solutions Rescue,Rochester,62563,Kenner Operator & Animal Shelter,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0
+888,Will,2013,13512,Making A Difference Rescue,Channahon,60410,Animal Shelter,0,0,0,0,0,16,18,24,0,0,10,10,9,12,0,2,5,1,0,0,0,1,0,27,36,0,3
+889,Winnebago,2013,13587,Robison Parrot Rescue,Rockford,61103,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,4,0,3,1,1
+890,Will,2013,13632,"English Springer Rescue America, Inc.",New Lenox,60451,Animal Shelter,0,0,0,0,0,0,41,41,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,41,41,0,0
+891,Will,2013,13646,Hope 4 Paws Rescue,Plainfield,60586,Animal Shelter,51,28,0,2,0,9,81,73,0,2,6,0,3,2,0,0,1,0,0,0,0,0,0,84,75,0,2
+892,Will,2013,13677,Aloha (A Love of Homeless Animals),Bolingbrook,60490,Animal Shelter,0,32,0,0,0,0,32,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,32,0,0
+893,Will,2013,13679,Critter Corral Guinea Pig Rescue,Plainfield,60585,Animal Shelter,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,75,200,190,0,10,75,200,190,0,10
+894,Peoria,2013,13702,"Paws Giving Independence, NFP",Peoria,61612,Animal Shelter,0,0,0,0,0,11,10,8,1,0,14,0,0,0,0,0,0,0,0,0,0,0,0,10,8,1,0
+895,Madison,2013,13730,Dachshund Rescue of St. Louis,Highland,62249,Animal Shelter,0,0,0,0,0,170,170,160,0,2,8,0,0,0,0,0,0,0,0,0,0,0,0,170,160,0,2
+896,Livingston,2013,13734,Livco Animal Control Inc.,Fairbury,61739,Animal Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+897,Knox,2013,13761,Guardian Angels Humane Society,Galesburg,61041,Animal Shelter,0,0,0,0,0,4,6,6,0,0,4,38,12,11,0,0,39,5,1,3,0,0,3,19,20,0,0
+898,Macon,2013,13788,Illinois English Bulldog Rescue,Decatur,62526,Animal Shelter,0,0,0,0,0,40,42,57,0,2,23,0,0,0,0,0,0,0,0,0,0,0,0,42,57,0,2
+899,Kendall,2013,13789,Eye on the Sparrow,Montgomery,60538,0,0,0,0,0,0,28,167,164,0,3,31,0,27,10,0,1,16,0,0,0,0,0,0,194,174,0,4
+900,Iroquois,2013,13793,"Iroquois County Animal Rescue, NFP",Iroquois,60945,Animal Shelter,0,0,98,60,0,0,0,0,0,0,0,90,88,158,8,2,10,0,0,0,0,0,0,88,158,8,2
+901,Piatt,2013,13808,Village of Mansfield ,Mansfield ,61854,Animal Control,0,0,0,0,0,0,18,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,18,0
+902,LaSalle,2013,13822,Safe House Animal Rescue League NFP,Dalzell,61320,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,14,193,148,0,13,46,0,0,0,0,0,0,193,148,0,13
+903,Kankakee,2013,13825,Village of Manteno Animal Control,Manteno,60950,0,0,0,0,0,0,0,15,0,13,2,0,0,2,0,2,0,0,0,2,1,1,0,0,19,1,16,2
+904,Will,2013,13826,"Angels on Wheels Animal Rescue, NFP",Naperville,60564,Animal Shelter,44,75,11,95,0,6,122,119,0,3,6,5,112,106,0,2,9,0,0,0,0,0,0,234,225,0,5
+905,Macoupin,2013,13833,Feathered Nest,Brighton,62012,Animal Shelter,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0,10,46,46,0,1,10,46,46,0,1
+906,Jackson,2013,13839,Midwest Animal Rescue Service,Murphysboro,62966,Animal Shelter,3,56,1,2,0,7,73,59,0,2,19,7,5,3,0,0,10,0,0,0,0,0,0,78,62,0,2
+907,Will,2013,13841,Wire Fox Terrier Rescue Midwest,Mokena,60448,Animal Shelter,0,0,0,0,0,1,23,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,24,0,0
+908,Edgar,2013,13885,Save A Mutt Shelter & Rescue,Chrisman,61924,0,0,0,0,0,0,9,167,140,3,10,23,1,0,0,0,0,1,2,0,0,0,0,2,167,140,3,10
+909,Effingham,2013,13912,E.A.R.S.,Effingham,62401,Animal Shelter,0,0,0,0,0,12,205,194,6,0,17,8,61,55,0,0,14,0,0,0,0,0,0,266,249,6,0
+910,Peoria,2013,13920,Peoria County Animal Welfare Shelter,Peoria,61603,Animal Control,0,0,0,0,0,0,2145,702,571,845,0,0,2384,393,36,1938,0,0,185,108,10,47,0,4714,1203,617,2830
+911,Montgomery,2013,13922,River King Newfoundland Club Rescue,Brighton,62012,0,0,0,0,0,0,0,7,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,0,1
+912,Hancock,2013,13923,West Hancock Canine Rescue,Hamilton,62341,Animal Shelter,0,0,0,0,0,0,39,27,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,39,27,0,0
+913,Madison,2013,13934,Come Bye Border Collie Rescue,Highland,62249,Animal Shelter,0,0,0,0,0,10,51,45,0,1,13,0,0,0,0,0,0,0,0,0,0,0,0,51,45,0,1
+914,Tazewell,2013,13939,"Australian Shepherd Rescue Midwest, Inc.",Washington,61571,0,41,11,0,0,0,15,93,52,0,3,37,0,0,0,0,0,0,0,0,0,0,0,0,93,52,0,3
+915,Shelby,2013,13942,Village of Herrick,Herrick,62431,Animal Control,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0
+916,Vermilion,2013,13949,Citizens for Animal Rescue and Adoption,Tilton,61833,Animal Shelter,30,24,23,34,0,23,63,54,13,0,19,416,178,57,6,0,531,1,0,0,0,0,1,241,111,19,0
+917,Kendall,2013,13987,Jellystone Bark's Rescue Rangers,Oswego,60543,Animal Shelter,333,481,1,1,0,6,808,814,0,1,0,0,2,2,0,0,0,0,0,0,0,0,0,810,816,0,1
+918,Crawford,2013,14047,Crawford County Spay & Neuter Foundation,Robinson,62454,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,3,520,145,340,35,3,0,0,0,0,0,0,520,145,340,35
+919,Calhoun,2013,14049,Andrea's Adoptive Puppies,Hardin,62047,Animal Shelter,10,100,0,0,0,0,100,99,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,100,99,0,1
+920,Montgomery,2013,14054,"Paws Care, Inc.",Hillsboro,62049,Animal Shelter,0,0,0,0,0,5,58,53,0,1,9,4,21,24,0,0,1,0,0,0,0,0,0,79,77,0,1
+921,Winnebago,2013,14064,"Good Shepherd Animal Sanctuary, Inc.",South Beloit,61080,Animal Shelter,20,18,0,0,0,1,20,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,0,1
+922,Will,2013,14074,King's Promise All Breed Rescue,Peotone,60468,Animal Shelter,5,13,0,0,0,1,18,17,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,18,17,0,0
+923,Adams,2013,14089,Quincy K-9 Connection,Quincy,62305,Animal Shelter,0,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+924,Union,2013,13872,Cache Creek Animal Rescue,Anna,62906,0,0,0,0,0,0,83,603,583,14,17,72,0,68,64,0,0,4,0,0,0,0,0,0,671,647,14,17
+925,Carroll,2014,15,Carroll County Animal Pound,Mount Carroll,61053-9052,0,0,0,0,0,0,6,63,32,33,2,2,0,0,0,0,0,0,0,0,0,0,0,0,63,32,33,2
+926,Champaign,2014,22,Rantoul Dog Pound,Rantoul,61866-2700,0,0,0,0,0,0,0,62,0,0,0,62,0,42,0,0,0,42,0,0,0,0,0,42,104,0,0,0
+927,Christian,2014,29,Christian County Animal Control,Taylorville,62568-9381,Animal Shelter,0,0,0,0,0,0,172,89,61,22,0,0,37,34,3,0,0,0,0,0,0,0,0,209,123,64,22
+928,Clark,2014,31,City of Casey,Casey,62420-0425,Animal Control Facility,0,0,0,0,0,0,46,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,24,0
+929,Edgar,2014,169,Edgar County Animal Control,Paris,61944-0381,Animal Control Facility,55,0,0,0,0,14,265,55,67,26,16,0,0,0,0,0,0,0,0,0,0,0,0,265,55,67,26
+930,Effingham,2014,171,Effingham County Animal Control,Effingham,62401-4080,0,86,6,10,24,0,9,258,92,61,108,6,4,145,34,10,91,14,0,1,0,0,1,0,404,126,71,200
+931,Fulton,2014,189,Fulton County Animal Control,Canton,61520,Animal Control Facility,0,0,0,0,0,0,419,250,94,22,0,0,246,400,1,8,0,0,0,0,0,0,0,665,650,95,30
+932,Jackson,2014,204,Humane Society of Southern Illinois,Carbondale,62903-0291,Animal Shelter,0,0,0,0,0,21,787,117,197,342,16,33,1236,146,14,1038,27,0,79,5,0,43,1,2102,268,211,1423
+933,McDonough,2014,266,McDonough County Animal Shelter,redacted,0,Animal Control Facility,0,0,0,0,0,16,483,146,129,10,179,35,775,115,12,160,384,0,0,0,0,0,0,1258,261,141,170
+934,Madison,2014,299,Madison County Rabies Control,Edwardsville,62025-6803,0,0,0,0,0,0,12,1076,281,261,488,20,6,1542,338,32,1154,19,0,0,0,0,0,0,2618,619,293,1642
+935,Marion,2014,310,City of Centralia,Centralia,62801-3524,Animal Control Facility,0,0,0,0,0,0,635,30,131,87,0,0,277,6,4,2,0,0,0,0,0,0,0,912,36,135,89
+936,Massac,2014,320,Metropolis Animal Control,Metropolis,62960-0682,Animal Control Facility,0,0,0,0,0,7,262,159,92,5,6,0,0,0,0,0,0,0,0,0,0,0,0,262,159,92,5
+937,Morgan,2014,325,Morgan County Animal Control,Jacksonville,62650-1200,Animal Control Facility,0,0,0,0,0,0,533,95,0,12,0,0,471,69,0,9,0,0,0,0,0,0,0,1004,164,0,21
+938,Randolph,2014,352,Sparta Animal Control,Sparta,62286-1666,Animal Control Facility,0,0,0,0,0,0,35,0,25,10,0,0,15,0,0,15,0,0,0,0,0,0,0,50,0,25,25
+939,Richland,2014,356,Richland Co Animal Control Center,Olney,62450,0,0,0,0,0,0,8,345,13,57,27,274,17,203,8,1,60,151,0,0,0,0,0,0,548,21,58,87
+940,Schuyler,2014,396,Schuyler County Dog Pound,Rushville,62681-0200,Animal Control Facility,0,0,0,0,0,0,76,11,58,7,0,0,3,0,1,2,0,0,0,0,0,0,0,79,11,59,9
+941,Stephenson,2014,399,"Freeport Animal Hospital, Inc.",Freeport,61032-9694,Animal Control Facility,12,10,45,60,0,4,203,99,46,17,45,15,107,52,14,48,8,0,0,0,0,0,0,310,151,60,65
+942,Stephenson,2014,400,Freeport City Pound,Freeport,61032,Animal Control Facility,0,0,0,0,0,208,208,99,100,9,0,0,0,0,0,0,0,0,0,0,0,0,0,208,99,100,9
+943,Tazewell,2014,408,Tazewell Animal Protective Society,Pekin,61554-2007,Animal Shelter,0,0,0,0,0,71,740,750,2,0,59,118,592,624,3,0,83,0,0,0,0,0,0,1332,1374,5,0
+944,Vermilion,2014,415,Humane Society of Danville,Danville,61832-3110,Animal Shelter,40,3,40,0,0,21,65,79,0,0,7,19,45,49,0,0,15,0,0,0,0,0,0,110,128,0,0
+945,Wabash,2014,418,Wabash County Animal Control,Mount Carmel,62863-4413,Animal Control Facility,0,0,0,0,0,301,301,21,43,3,0,325,325,60,2,8,0,0,0,0,0,0,0,626,81,45,11
+946,Kendall,2014,478,Kendall County Animal Control,Yorkville,60560-9271,Animal Control Facility,0,0,0,0,0,17,354,102,223,29,14,12,105,49,39,12,8,0,2,2,0,0,0,461,153,262,41
+947,Will,2014,486,TLC Animal Shelter & Humane Society,Homer Glen,60491-6742,Animal Shelter,0,0,0,0,0,16,807,781,11,5,12,14,295,281,5,9,9,0,47,39,0,8,0,1149,1101,16,22
+948,Dewitt,2014,1395,Dewitt County Animal Control,Clinton,61727,Animal Control Facility,0,0,0,0,0,1,105,48,33,8,17,21,208,213,1,15,0,0,8,8,0,0,0,321,269,34,23
+949,Hancock,2014,1520,Hancock County Dog Pound,Basco,62313-2110,Animal Control Facility,0,0,0,0,0,0,168,97,42,29,0,0,0,0,0,0,0,0,0,0,0,0,0,168,97,42,29
+950,Madison,2014,1909,Granite City Humane Shelter,Granite City,62040-3394,Animal Control Facility,0,0,0,0,0,0,410,37,127,3,0,0,418,31,10,12,0,0,0,0,0,0,0,828,68,137,15
+951,Williamson,2014,2354,City of Marion,Marion,62959-2605,Animal Control Facility,0,0,0,0,0,13,220,36,76,10,13,31,144,2,1,17,16,0,0,0,0,0,0,364,38,77,27
+952,Marshall,2014,2440,Marshall County Dog Pound,Lacon,61540-0328,Animal Control Facility,0,0,0,0,0,0,180,40,115,25,0,0,0,0,0,0,0,0,0,0,0,0,0,180,40,115,25
+953,Warren,2014,2945,Warren County Dog Pound,Monmouth,61462-1761,Animal Control Facility,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+954,Sangamon,2014,3257,Sangamon Co Animal Control Ctr,Springfield,62703-5634,Animal Control Facility,526,117,284,215,3,0,1866,729,457,570,0,0,1580,887,34,502,0,0,556,7,0,222,0,4002,1623,491,1294
+955,Douglas,2014,3259,Douglas County Animal Control,Tuscola,61953-0192,Animal Control Facility,41,11,10,13,0,52,174,46,132,6,0,23,23,13,5,4,1,0,0,0,0,0,0,197,59,137,10
+956,Dekalb,2014,3343,Dekalb County Animal Shelter,Genoa,60135-7612,Animal Shelter,0,0,0,0,0,32,191,134,19,6,32,98,213,199,8,15,122,0,1,1,0,0,0,405,334,27,21
+957,Boone,2014,3508,Boone County Animal Services,Belvidere,61008-4854,Animal Control Facility,0,0,0,0,0,3,312,76,164,72,3,0,91,40,0,51,0,0,6,1,0,5,0,409,117,164,128
+958,Clinton,2014,3586,Clinton County Animal Control,Carlyle,62231,Animal Control Facility,0,0,0,0,0,2,454,160,169,117,10,19,510,33,14,467,15,0,9,0,0,9,0,973,193,183,593
+959,Will,2014,3595,Village of Romeoville,Romeoville,60446-1390,Animal Control Facility,0,0,0,0,0,202,202,59,143,0,0,89,89,60,20,9,0,0,0,0,0,0,0,291,119,163,9
+960,Kane,2014,3626,Aurora Animal Control & Care,Aurora,60506-5552,Animal Control Facility,589,0,519,0,0,37,1282,589,499,127,56,24,915,519,23,249,50,0,1321,0,3,259,0,3518,1108,525,635
+961,Grundy,2014,3700,Grundy County Animal Control,Morris,60450-8336,Animal Control Facility,61,0,9,0,0,18,240,61,122,38,9,25,212,9,8,92,31,0,0,0,0,0,0,452,70,130,130
+962,White,2014,3791,Carmi City Dog Pound,Carmi,62821-1860,Animal Control Facility,0,0,0,0,0,0,144,46,68,30,0,0,0,0,0,0,0,0,0,0,0,0,0,144,46,68,30
+963,Washington,2014,3796,Washington County Animal Control,Nashville,62263-0209,Animal Control Facility,0,0,0,0,0,0,368,191,176,1,0,0,84,83,0,1,0,0,0,0,0,0,0,452,274,176,2
+964,Jersey,2014,3850,Jerseyville Animal Control,Jerseyville,62052-1842,Animal Control Facility,0,0,0,0,0,4,104,10,17,77,3,2,95,0,2,93,0,0,0,0,0,0,0,199,10,19,170
+965,Will,2014,3874,Will County Humane Society,Shorewood,60404-6600,Animal Shelter,0,0,0,0,0,0,137,113,12,4,0,0,78,92,0,10,0,0,6,6,0,0,0,221,211,12,14
+966,Madison,2014,3923,Warren Billhartz Animal Shelter,Collinsville,62234-7434,Animal Control Facility,0,0,0,0,0,4,200,32,105,12,4,19,161,70,6,7,11,0,107,0,0,20,0,468,102,111,39
+967,Kankakee,2014,3970,Kankakee County Animal Control,Kankakee,60901-9499,Animal Control Facility,0,0,0,0,0,0,664,228,197,214,15,0,339,180,6,142,35,0,105,55,4,43,0,1108,463,207,399
+968,Tazewell,2014,4246,Tazewell County Animal Control,Tremont,61568-0158,Animal Control Facility,0,0,0,0,0,5,824,167,372,267,11,15,713,170,35,502,10,0,226,161,3,43,0,1763,498,410,812
+969,Bond,2014,4351,Bond County/City of Greenville,Greenville,62246,Animal Control,0,0,0,0,0,4,85,36,23,23,3,0,12,10,0,1,1,0,1,2,0,1,0,98,48,23,25
+970,Will,2014,4363,Frankfort Twp Animal Control,Frankfort,60423-0782,Animal Control Facility,0,0,0,0,0,0,90,7,82,1,0,0,29,24,4,1,0,0,0,0,0,0,0,119,31,86,2
+971,Woodford,2014,4437,City of Minonk,Minonk,61760-1272,Animal Control Facility,0,0,0,0,0,0,10,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,6,0
+972,Saline,2014,4465,Saline County Animal Control,Harrisburg,62946-1553,Animal Control Facility,0,0,0,0,0,11,323,31,56,79,15,0,263,0,0,184,20,0,0,0,0,0,0,586,31,56,263
+973,Franklin,2014,4486,Franklin County Animal Control,Benton,62812-0967,Animal Control Facility,49,1,5,1,0,0,615,50,118,304,0,0,807,6,8,745,0,0,0,0,0,0,0,1422,56,126,1049
+974,Will,2014,4530,Bolingbrook Animal Control & Care,Bolingbrook,60440-9058,Animal Control Facility,0,0,0,0,0,4,313,69,196,22,2,1,176,91,11,25,4,35,35,15,15,0,0,524,175,222,47
+975,Henderson,2014,4651,Henderson County Dog Pound,Oquawka,61469-0308,0,0,0,0,0,0,0,86,14,58,14,0,0,0,0,0,0,0,0,0,0,0,0,0,86,14,58,14
+976,Will,2014,4714,Joliet Twp Animal Control Center,Joliet,60436-9548,Animal Control Facility,0,0,0,0,0,22,1444,695,515,232,24,57,953,440,30,495,45,2,13,10,0,5,0,2410,1145,545,732
+977,Macon,2014,4811,Macon County Animal Control & Care Center,Decatur,62526-5230,Animal Control Facility,0,0,0,0,0,142,1200,519,288,397,119,150,1211,590,31,615,108,5,216,7,0,200,0,2627,1116,319,1212
+978,Kankakee,2014,4822,Kanakakee County Humane Society Inc.,Kankakee,60901,Animal Shelter,0,0,0,0,0,56,413,413,0,1,55,46,115,114,0,2,46,0,0,0,0,0,0,528,527,0,3
+979,Perry,2014,4839,Perry County Animal Control,Pinckneyville,62274-3323,Animal Control Facility,0,0,0,0,0,3,256,155,65,31,20,0,166,76,1,89,0,0,0,0,0,0,0,422,231,66,120
+980,Macoupin,2014,4869,Macoupin County Animal Control,Carlinville,62626-0391,0,0,0,0,0,0,47,681,477,211,9,31,80,456,340,157,4,35,0,4,4,0,0,0,1141,821,368,13
+981,Rock Island,2014,4875,City of Silvis,Silvis,61282-1098,0,0,0,0,0,0,0,60,1,54,0,0,0,5,0,3,0,0,0,0,0,0,0,0,65,1,57,0
+982,Jo Daviess,2014,4982,Village of Warren,Warren,61087-0572,Animal Control Facility,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0
+983,Shelby,2014,4991,Shelby County Animal Control,Shelbyville,62565,Animal Control Facility,0,0,0,0,0,3,136,80,36,20,2,0,36,27,4,5,0,0,3,3,0,0,0,175,110,40,25
+984,Henry,2014,5008,Henry County Animal Shelter,Cambridge,61238-0153,Animal Control Facility,0,0,0,0,0,0,85,39,40,6,0,0,45,41,0,4,0,0,0,0,0,0,0,130,80,40,10
+985,Jefferson,2014,5064,Jefferson County Animal Control,Mount Vernon,62864-5215,Animal Control Facility,0,0,0,0,0,24,799,469,167,143,44,22,650,138,11,470,53,0,0,0,0,0,0,1449,607,178,613
+986,Winnebago,2014,5140,Winnebago County Animal Services,Rockford,61103-1275,Animal Control Facility,0,0,0,0,0,64,2667,537,942,953,73,98,3274,629,142,2301,66,6,1483,36,3,1103,2,7424,1202,1087,4357
+987,Henry,2014,5196,Geneseo Police Department,Geneseo,61254-2128,Animal Control Facility,0,0,0,0,0,0,22,0,22,0,0,0,12,9,3,0,0,0,0,0,0,0,0,34,9,25,0
+988,Woodford,2014,5200,"Steffen, Dr. J. R.",Goodfield,61742-0102,Animal Control Facility,0,0,0,0,0,0,41,2,27,12,0,0,8,2,2,4,0,0,0,0,0,0,0,49,4,29,16
+989,Vermilion,2014,5202,Vermilion County Animal Shelter,Danville,61834-5117,Animal Control Facility,241,120,91,52,0,89,1300,361,299,180,92,64,1031,143,19,385,72,0,74,5,0,69,0,2405,509,318,634
+990,Coles,2014,5242,Coles County Animal Shelter,Charleston,61920,Animal Control Facility,0,0,0,0,0,6,847,329,273,239,6,15,852,209,5,464,15,0,0,0,0,0,0,1699,538,278,703
+991,Putnam,2014,5252,Putnam County Animal Control,McNabb,61335-0268,Animal Control Facility,0,0,0,0,0,0,22,2,18,2,0,0,2,0,0,2,0,0,0,0,0,0,0,24,2,18,4
+992,Lawrence,2014,5422,Lawrence County Animal Control,Lawrenceville,62439,Animal Control Facility,0,0,0,0,0,3,104,5,25,3,5,0,41,0,0,8,9,0,0,0,0,0,0,145,5,25,11
+993,Iroquois,2014,5477,Village of Onarga,Onarga,60955-0100,Animal Control Facility,0,0,0,0,0,0,11,0,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,5,6
+994,Lee,2014,5490,"Sauk Valley Humane Society, Inc.",Mendota,61342-8908,Animal Shelter,3,0,5,0,0,0,2,3,0,1,8,0,7,5,0,3,52,0,0,0,0,0,0,9,8,0,4
+995,Adams,2014,5531,Adams County Animal Shelter,Quincy,62305,Animal Control,0,0,0,0,0,0,184,65,86,9,0,0,12,12,0,0,0,0,1,1,0,0,0,197,78,86,9
+996,Mason,2014,5567,Village of Manito,Manito,61546-0735,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+997,Williamson,2014,5619,Williamson County Animal Control,Marion,62959-8301,Animal Control Facility,0,0,0,0,0,20,679,369,172,115,20,0,10,0,2,8,0,0,0,0,0,0,0,689,369,174,123
+998,Adams,2014,5700,Quincy Humane Society,Quincy,62305,Animal Shelter,0,0,0,0,0,27,427,408,0,3,43,34,384,374,0,24,17,0,0,0,0,0,0,811,782,0,27
+999,Madison,2014,5747,Alton Animal Control Center,Alton,62002-8865,Animal Control Facility,0,0,0,0,0,0,270,68,41,161,0,0,361,6,1,354,0,0,269,0,0,269,0,900,74,42,784
+1000,Mason,2014,5760,City of Havana,Havana,62644-1199,Animal Control Facility,0,0,0,0,0,0,19,2,7,1,9,0,69,2,2,16,49,0,0,0,0,0,0,88,4,9,17
+1001,Hamilton,2014,5801,City of McLeansboro,McLeansboro,62859-1143,Animal Shelter,0,0,0,0,0,1,59,34,13,9,3,0,13,8,0,5,0,0,0,0,0,0,0,72,42,13,14
+1002,Monroe,2014,6034,Monroe County Animal Pound,Waterloo,62298,Animal Control Facility,0,0,0,0,0,0,151,60,74,14,0,0,120,67,7,45,0,0,0,0,0,0,0,271,127,81,59
+1003,Lee,2014,6062,Granny Rose Animal Shelter,Dixon,61021-8417,Animal Shelter,0,0,0,0,0,16,71,67,0,0,20,22,58,54,1,1,24,0,0,0,0,0,0,129,121,1,1
+1004,Macoupin,2014,6098,Macoupin County Adopt-A-Pet,Benld,62009-0053,Animal Shelter,0,0,0,0,0,82,420,423,0,2,77,45,201,190,0,0,56,0,0,0,0,0,0,621,613,0,2
+1005,St. Clair,2014,6311,Marissa Animal Control,Marissa,62257-1399,Animal Control Facility,0,0,0,0,0,0,42,0,12,0,0,0,23,0,0,0,0,0,0,0,0,0,0,65,0,12,0
+1006,Henry,2014,6355,Henry CO Humane Society Kewanee,Kewanee,61443-0695,Animal Shelter,0,0,0,0,0,10,70,73,0,1,6,75,39,48,0,15,51,0,0,0,0,0,0,109,121,0,16
+1007,Rock Island,2014,6357,"Animal Aid Humane Society, Inc.",Moline,61265-1953,Animal Shelter,0,0,0,0,0,4,12,14,0,0,0,88,92,158,0,0,97,0,0,0,0,0,0,104,172,0,0
+1008,Madison,2014,6418,Highland Animal Shelter,Highland,62249-0307,Animal Shelter,0,0,0,0,0,23,68,56,0,0,35,103,235,145,0,10,183,0,0,0,0,0,0,303,201,0,10
+1009,Macon,2014,6479,Humane Society of Decatur/Macon CO,Decatur,62526-7100,Animal Shelter,0,0,0,0,0,1,70,63,0,0,7,36,44,48,0,0,32,0,0,0,0,0,0,114,111,0,0
+1010,Stephenson,2014,6480,Friends Forever Humane Society,Freeport,61032-9382,Animal Shelter,0,0,0,0,0,24,244,206,18,0,24,41,156,144,1,2,38,0,0,0,0,0,0,400,350,19,2
+1011,Cumberland,2014,6512,Cumberland County Animal Control,Toledo,62468-0070,Animal Control Facility,0,0,0,0,0,0,60,22,32,6,0,0,0,0,0,0,0,0,0,0,0,0,0,60,22,32,6
+1012,Clark,2014,6577,Bender's Townhouse Kennels,West Union,62477-2000,Animal Control Facility,0,0,0,0,0,0,160,82,38,26,14,0,0,0,0,0,0,0,0,0,0,0,0,160,82,38,26
+1013,Madison,2014,6613,Metro East Humane Society,Edwardsville,62025-6847,Animal Shelter,0,0,0,0,0,18,381,350,0,5,20,17,288,277,0,0,37,0,0,0,0,0,0,669,627,0,5
+1014,Randolph,2014,6713,Chester City Pound,Chester,62233-1314,Animal Control Facility,0,0,0,0,0,0,197,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197,0,83,0
+1015,Pope,2014,6793,Pope County Animal Pound,Golconda,62938-0279,Animal Control Facility,0,0,0,0,0,0,7,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,4
+1016,Pulaski,2014,6935,Mound City Animal Pound,Mound City,62963-1168,Animal Control Facility,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1017,Randolph,2014,6969,Randolph County Animal Control,Sparta,62286-0406,Animal Control Facility,0,0,0,0,0,0,127,55,47,12,13,0,30,15,0,15,0,0,0,0,0,0,0,157,70,47,27
+1018,White,2014,7123,Grayville City Dog Pound,Grayville,65844-1509,Animal Control Facility,0,0,0,0,0,0,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,0
+1019,Boone,2014,7126,Roscoe Animal Retreat,Roscoe,61073,Animal Shelter,0,0,0,0,0,8,12,12,0,0,8,225,25,26,2,0,224,0,0,0,0,0,0,37,38,2,0
+1020,Pulaski,2014,7146,City of Mounds,Mounds,62964,Animal Control Facility,0,0,0,0,0,0,15,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,15
+1021,Shelby,2014,7147,Village of Tower Hill,Tower Hill,62571-0020,Animal Control Facility,0,0,0,0,0,0,8,1,7,0,0,0,3,0,3,0,0,0,0,0,0,0,0,11,1,10,0
+1022,Randolph,2014,7376,Evansville Dog Pound,Evansville,62242-0257,Animal Control Facility,0,0,0,0,0,0,17,0,17,0,0,0,5,0,5,0,0,0,0,0,0,0,0,22,0,22,0
+1023,Wayne,2014,7575,Wayne County Humane Society,Fairfield,62837-0254,Animal Shelter,215,52,71,24,5,22,411,215,92,82,22,60,279,71,1,158,49,0,5,5,0,0,0,695,291,93,240
+1024,Whiteside,2014,7583,Whiteside County Pound,Rock Falls,61071-3144,Animal Control Facility,0,0,0,0,0,0,346,26,175,138,0,0,208,2,4,190,0,0,0,0,0,0,0,554,28,179,328
+1025,Randolph,2014,7619,Tilden Animal Control,Tilden,62292-0342,0,0,0,0,0,0,0,8,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,6,0
+1026,Union,2014,7641,Union County Animal Control,Cobden,62920-3739,0,0,0,0,0,0,20,185,31,52,10,14,58,138,31,1,7,57,0,11,10,1,0,0,334,72,54,17
+1027,Randolph,2014,7682,Steeleville Animal Control,Steeleville,62288-1414,Animal Control Facility,0,0,0,0,0,0,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,10,0
+1028,Grundy,2014,7683,Grundy County Humane Society,Coal City,60416-1071,0,0,0,0,0,0,0,16,15,1,0,0,0,3,3,0,0,0,0,0,0,0,0,0,19,18,1,0
+1029,Edwards,2014,7794,Albion Animal Pound,Albion,62806-1016,Animal Control Facility,0,0,0,0,0,0,35,0,17,18,0,0,25,2,23,2,0,0,0,0,0,0,0,60,2,40,20
+1030,Knox,2014,7871,Knox County Humane Society,Galesburg,61401,Animal Shelter,0,0,0,0,0,0,680,492,118,9,0,0,466,334,11,11,0,0,2,2,0,0,0,1148,828,129,20
+1031,Shelby,2014,7889,City of Windsor,Windsow,61957-1430,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+1032,Macon,2014,7909,Prairieland Animal Welfare,Decatur,62521-2550,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,9,9,0,0,0,0,0,0,0,0,0,9,9,0,0
+1033,Clark,2014,7961,Baird's Pound,Martinsville,62442-2727,Animal Control Facility,0,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,0
+1034,LaSalle,2014,8073,"Pet Project, Inc.",Marseilles,61341-9540,Animal Shelter,0,0,0,0,0,8,120,119,1,1,7,15,146,137,0,2,22,0,0,0,0,0,0,266,256,1,3
+1035,Bureau,2014,8180,"Friends of Strays, Inc.",Princeton,61356-9046,Animal Shelter,60,18,135,82,0,39,77,78,3,2,39,343,190,217,12,23,305,0,0,0,0,0,0,267,295,15,25
+1036,Christian,2014,8278,City of Assumption,Assumption,62510-0106,0,0,0,0,0,0,0,12,0,10,2,0,0,4,0,1,3,0,0,0,0,0,0,0,16,0,11,5
+1037,Williamson,2014,8392,Herrin Animal Control,Herrin,62948-3199,Animal Control Facility,0,0,0,0,0,275,170,8,65,4,510,275,65,5,6,2,510,0,0,0,0,0,0,235,13,71,6
+1038,Greene,2014,8432,White Hall Animal Control,White Hall,62092-1397,Animal Control Facility,0,0,0,0,0,3,16,7,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,7,9,0
+1039,Cumberland,2014,8443,Neoga Animal Shelter,Neoga,62447-0248,Animal Control Facility,0,0,0,0,0,0,8,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,6,0
+1040,Knox,2014,8448,Knoxville Animal Control,Knoxville,61448,Animal Control Facility,0,0,0,0,0,0,11,0,11,0,0,0,2,0,2,0,0,0,0,0,0,0,0,13,0,13,0
+1041,Grundy,2014,8514,Just Animals Placement Service,Mazon,60444-3705,Animal Shelter,26,13,85,284,0,10,41,39,0,0,12,74,368,369,0,6,67,0,0,0,0,0,0,409,408,0,6
+1042,Hardin,2014,8564,City of Rosiclare,Rosiclare,62982-0578,Animal Control Facility,0,0,0,0,0,0,14,5,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,14,5,4,0
+1043,Lee,2014,8565,City of Amboy,Amboy,61310-1439,Animal Control Facility,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+1044,Moultrie,2014,8566,Village of Arthur,Arthur,61911-0139,Animal Control Facility,0,0,0,0,0,0,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,0
+1045,Will,2014,8568,Homes for Huskies,Lockport,60441-9595,Animal Shelter,18,1,0,0,0,3,18,18,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,18,18,0,0
+1046,Lawrence,2014,8603,Lawrence County Humane Society (CATS),Lawrenceville,62439,Animal Shelter,0,0,20,0,0,0,0,0,0,0,0,0,61,20,5,41,75,0,0,0,0,0,0,61,20,5,41
+1047,Richland,2014,8645,Humane Society of Olney Area,Olney,62450-1208,Animal Shelter,0,0,0,0,0,0,78,45,33,2,0,0,91,47,40,4,0,0,1,1,0,0,0,170,93,73,6
+1048,Greene,2014,8675,The Dog P.E.N.,Roodhouse,62082-1251,Animal Shelter,44,6,174,32,0,12,43,50,0,0,5,0,206,206,0,0,0,0,0,0,0,0,0,249,256,0,0
+1049,Madison,2014,8699,East Alton Animal Control,East Alton,62024-1170,Animal Control Facility,0,0,0,0,0,0,40,0,20,20,0,0,71,0,20,51,0,0,0,0,0,0,0,111,0,40,71
+1050,Coles,2014,8779,Kieffer's K-9 Country Club,Mattoon,61938,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1051,Brown,2014,8899,City of Mt. Sterling,Mt. Sterling,62353,Animal Control Facility,0,0,0,0,0,0,50,3,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,3,47,0
+1052,Moultrie,2014,8900,Moultrie County Animal Control,Sullivan,61951,Animal Control Facility,0,0,0,0,0,7,74,34,28,15,4,1,18,7,0,11,1,0,0,0,0,0,0,92,41,28,26
+1053,Crawford,2014,8940,Crawford County Humane Society,Robinson,62454-3356,Animal Control Facility,0,0,0,0,0,73,472,82,94,84,71,435,362,99,3,42,597,0,0,0,0,0,0,834,181,97,126
+1054,Putnam,2014,8979,Village of Granville,Granville,61326,Animal Control Facility,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0
+1055,Pikq,2014,8996,Pike County Animal Control,Pittsfield,62363-0012,Animal Control Facility,0,0,0,0,0,43,141,77,38,17,52,9,18,25,0,0,2,0,0,0,0,0,0,159,102,38,17
+1056,Douglas,2014,9011,City of Arcola,Arcola,61910-0215,Animal Control Facility,0,0,0,0,0,0,17,3,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,3,14,0
+1057,Will,2014,9040,Humane Haven Animal Shelter,Bolingbrook,60440-9058,Animal Shelter,0,0,0,0,0,3,13,11,1,1,3,7,130,112,0,1,24,0,0,0,0,0,0,143,123,1,2
+1058,Livingston,2014,9427,Livingston County Humane Society,Pontiac,61764,Animal Shelter,0,0,0,0,0,10,177,72,0,6,20,56,69,77,0,2,38,0,0,0,0,0,0,246,149,0,8
+1059,Jo Daviess,2014,9465,Safe Have Humane Society,Elizabeth,61028-9461,Animal Shelter,0,0,0,0,0,0,91,88,2,1,6,14,39,44,0,0,9,0,0,0,0,0,0,130,132,2,1
+1060,Kendall,2014,9577,"Recycled Rotts, Inc.",Oswego,60543-1082,Animal Shelter,0,0,0,0,0,150,150,143,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,150,143,0,7
+1061,Fulton,2014,9650,Humane Society of Fulton County,Canton,61520,Animal Shelter,0,0,0,0,0,0,419,250,94,22,0,0,246,400,1,8,0,0,0,0,0,0,0,665,650,95,30
+1062,Will,2014,9742,Shih Tzu Rescue,Homer Glen,60491-5821,Animal Shelter,0,0,0,0,0,20,24,22,0,3,21,0,0,0,0,0,0,0,0,0,0,0,0,24,22,0,3
+1063,Fayette,2014,9936,Fayette County Animal Control,Vandalia,62471-4002,Animal Control Facility,0,0,0,0,0,8,245,76,49,120,8,0,50,2,0,48,0,0,0,0,0,0,0,295,78,49,168
+1064,Dekalb,2014,9944,Recycling Animals in Need (R.A.I.N.),Hinckley,60520-0810,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,3,0,0,0,0,0,0,0,0,0,1
+1065,Bureau,2014,9990,Bureau County Animal Control,Princeton,61356-1400,Animal Control Facility,0,0,0,0,0,0,55,22,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,55,22,32,1
+1066,Warren,2014,10075,"Western Illinois Animal Rescue, Inc.",Monmouth,61462-1433,Animal Shelter,0,0,0,0,0,3,30,28,1,2,2,58,75,65,0,3,65,0,0,0,0,0,0,105,93,1,5
+1067,Whiteside,2014,10093,Village of Tampico,Tampico,61283-0219,Animal Control Facility,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1068,Massac,2014,10102,Village of Joppa,Joppa,62953-0099,Animal Control Facility,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1069,Brown,2014,10161,Village of Versailles,Versailles,62378-0327,0,0,0,0,0,0,0,12,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,5,7,0
+1070,Marshall,2014,10171,"Animal Recycling Kennel H.S., Ltd",Lacon,61540-8913,Animal Shelter,164,41,34,44,0,48,212,205,4,3,52,78,146,78,0,10,136,0,0,0,0,0,0,358,283,4,13
+1071,Macon,2014,10185,"Homeward Bound Pet Shelter, Inc.",Decatur,62526-2802,Animal Shelter,0,0,0,0,0,33,281,276,1,1,36,41,71,87,0,6,18,0,0,0,0,0,0,352,363,1,7
+1072,LaSalle,2014,10281,"Illinois Valley Animal Rescue, Inc.",LaSalle,61301,Animal Shelter,0,0,0,0,0,62,392,298,70,36,50,298,475,251,12,201,309,0,0,0,0,0,0,867,549,82,237
+1073,Livingston,2014,10364,"Guardian Angel Basset Rescue, Inc.",Dwight,60420-1009,Animal Shelter,0,0,0,0,0,5,180,166,0,3,16,0,0,0,0,0,0,0,0,0,0,0,0,180,166,0,3
+1074,Grundy,2014,10409,C.O.P.E.,Coal City,60416-9522,Animal Shelter,0,0,18,0,0,0,0,0,0,0,0,48,0,15,0,3,30,0,0,0,0,0,0,0,15,0,3
+1075,Woodford,2014,10437,City of El Paso,El Paso,61738-1528,Animal Control Facility,0,0,0,0,0,0,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,10,0
+1076,Randolph,2014,10487,Randolph County Humane Society,Sparta,62286-0059,Animal Shelter,0,0,0,0,0,21,62,52,6,12,13,4,26,20,2,4,4,0,0,0,0,0,0,88,72,8,16
+1077,Dekalb,2014,10584,Tails Humane Society,Dekalb,60115-8409,Animal Shelter,572,568,309,302,0,93,1318,1140,42,78,111,76,808,611,21,148,88,18,114,108,1,7,4,2240,1859,64,233
+1078,Hancock,2014,10626,Hearts of Hancock Humane Society,Carthage,62321-0175,Animal Shelter,0,0,0,0,0,4,13,14,0,0,3,22,20,15,0,2,25,0,0,0,0,0,0,33,29,0,2
+1079,Johnson,2014,10693,Goines Kennels,Vienna,62995-2615,Animal Control Facility,0,0,0,0,0,2,262,0,137,125,3,0,0,0,0,0,0,0,0,0,0,0,0,262,0,137,125
+1080,Will,2014,10853,"Suburban Sheltie Rescue, LTD",Homer Glen,60491-5803,Animal Shelter,0,0,0,0,0,16,0,0,0,2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+1081,Scott,2014,10871,Scott County Dog Rescue,Winchester,62694-1145,Animal Shelter,0,0,0,0,0,10,45,46,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,45,46,0,0
+1082,Sangamon,2014,10913,Illinois Humane,Springfield,62705-0512,Animal Shelter,0,0,0,0,0,12,11,14,0,0,9,21,2,11,0,1,11,0,0,0,0,0,0,13,25,0,1
+1083,Kendall,2014,10937,"Western Irish Setter Club, Inc.",Minooka,60447-9635,Animal Shelter,3,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0
+1084,Champaign,2014,10984,Prairieland Anti-Cruelty Program,Champaign,61822-9538,Kennel Operator & Animal Shelter,0,0,0,0,0,0,5,5,0,0,0,54,142,116,0,28,52,0,0,0,0,0,0,147,121,0,28
+1085,Madison,2014,10989,Partners for Pets Humane Society,Saint Jacob,62281-1013,Animal Shelter,0,0,0,0,0,70,971,795,0,16,160,75,684,594,0,20,145,0,0,0,0,0,0,1655,1389,0,36
+1086,Peoria,2014,11004,Pets for Seniors,Brimfield,61517-9307,Animal Shelter,0,0,0,0,0,3,79,70,0,2,9,12,190,180,0,8,14,0,0,0,0,0,0,269,250,0,10
+1087,Jasper,2014,11194,Jasper County Animal Control,Newton,62448-1252,Animal Control Facility,0,0,0,0,0,0,96,0,41,55,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,41,55
+1088,Will,2014,11247,Greater Chicago Caged Bird Club,Villa Park,60181-2656,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,424,366,1,0,122,424,366,1,0
+1089,Fayette,2014,11249,Second Chance Animal Rescue,Vandalia,62471-4139,Kennel Operator & Animal Shelter,60,100,0,0,0,15,150,160,0,0,5,4,1,5,0,0,0,0,0,0,0,0,0,151,165,0,0
+1090,Coles,2014,11250,Genesis Animal Rescue,Mattoon,61938,Animal Shelter,0,0,0,0,0,1,22,20,0,0,3,7,31,28,9,1,0,0,0,0,0,0,0,53,48,9,1
+1091,Champaign,2014,11459,Wings of Wonder Avian Rescue,Mahomet,61853,Animal Shelter,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,45,10,20,3,0,38,10,20,3,0
+1092,Monroe,2014,11527,"Helping Strays, H. S. of Monroe Co., IL",Red Bud,62278-3608,Animal Shelter,0,0,0,0,0,44,247,166,3,5,33,45,178,138,1,13,56,0,0,0,0,0,0,425,304,4,18
+1093,Champaign,2014,11647,Champaign County Animal Services,Urbana,61802-2889,Animal Control Facility,0,0,0,0,0,0,810,214,336,260,0,0,639,364,45,230,0,0,29,23,3,3,0,1478,601,384,493
+1094,Mason,2014,11651,Pets Without Parents,Easton,62633-0166,Animal Shelter,0,0,0,0,0,6,107,62,29,10,5,7,168,124,7,29,8,0,0,0,0,0,0,275,186,36,39
+1095,Kankakee,2014,11653,New Beginnings for Cats,Bourbonnais,60914-4059,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,130,254,195,1,72,116,0,0,0,0,0,0,254,195,1,72
+1096,Champaign,2014,11702,Catsnap,Rantoul,61866-2916,Animal Shelter,0,0,0,0,0,0,1,1,0,0,0,5,42,39,0,0,8,0,0,0,0,0,0,43,40,0,0
+1097,Jefferson,2014,11881,Australian Cattle Dog Rescue of IL,Texico,62889-2817,Animal Shelter,0,0,0,0,0,35,257,216,0,24,52,0,0,0,0,0,0,0,0,0,0,0,0,257,216,0,24
+1098,Carroll,2014,11883,"Heartland Pet Welfare, Inc.",Savanna,61074-2909,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,55,154,146,0,2,61,0,0,0,0,0,0,154,146,0,2
+1099,Kendall,2014,11945,Greater Chicago Cavalier Rescue,Yorkville,60560-9571,Animal Shelter,0,0,0,0,0,9,104,83,0,3,27,0,0,0,0,0,0,0,0,0,0,0,0,104,83,0,3
+1100,Rock Island,2014,12028,Rock Island County Animal Care and Control,Moline,61265-9741,Animal Control Facility,0,0,0,0,0,3521,1717,620,664,398,4,3521,1744,839,44,857,4,3521,60,21,4,38,0,3521,1480,712,1293
+1101,Jackson,2014,12038,St. Francis Care,Murphysboro,62966-5212,Animal Shelter,0,0,0,0,0,58,500,455,2,34,67,26,150,150,0,3,23,0,0,0,0,0,0,650,605,2,37
+1102,Will,2014,12078,Bernese Mountain Dog Club of NI Rescue,Shorewood,60404-9110,Animal Shelter,0,0,0,0,0,0,5,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0,1
+1103,Henry,2014,12142,Henry CO Humane Society Geneseo Chapter,Geneseo,61254-8314,Animal Shelter,0,0,0,0,0,3,24,25,0,0,3,67,195,198,0,12,52,0,0,0,0,0,0,219,223,0,12
+1104,Boone,2014,12181,"Fresh Start Animal Rescue, Inc.",Belvidere,61008-4001,Animal Shelter,95,299,116,155,0,26,425,394,0,38,19,49,268,271,0,14,32,0,1,1,0,0,0,694,666,0,52
+1105,Greene,2014,12195,Ghrist Vet Clinic - Carrollton Branch,Carrollton,62016-9596,Animal Control Facility,0,0,0,0,0,0,17,5,4,8,0,0,10,6,0,4,0,0,0,0,0,0,0,27,11,4,12
+1106,Clinton,2014,12630,Centralia Humane Society,Centralia,62801-9103,Animal Shelter,0,0,0,0,0,39,31,40,0,0,30,50,47,41,0,0,56,0,0,0,0,0,0,78,81,0,0
+1107,Macon,2014,12676,Pet Tracks,Decatur,62526-4918,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,48,0,1,0,1,46,0,0,0,0,0,0,0,1,0,1
+1108,Randolph,2014,12697,Gunner's Run Rescue,Ruma,62278-2713,Animal Shelter,0,0,0,0,0,1,11,10,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,12,11,0,0
+1109,Stephenson,2014,12772,Critter Camp,German Valley,61039-9528,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,330,198,44,0,0,372,198,44,0,0
+1110,St. Clair,2014,12774,"Midwest Schipperke Rescue, Inc.",O Fallon,62269-6908,Animal Shelter,0,0,0,0,0,6,9,6,1,3,7,0,0,0,0,0,0,0,0,0,0,0,0,9,6,1,3
+1111,Logan,2014,12805,Humane Society of Logan County,Lincoln,62656-9122,Animal Shelter,0,0,0,0,0,13,42,42,0,2,11,25,57,50,0,2,29,0,0,0,0,0,0,99,92,0,4
+1112,Bond,2014,12864,Bond County Humane Society,Greenville,62246,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,30,80,74,1,2,33,0,0,0,0,0,0,80,74,1,2
+1113,Will,2014,13180,"H.A.P.P.E. Parrots Rescue, Inc.",Bolingbrook,60440-1474,Animal Shelter,0,0,0,0,41,0,3,2,0,1,0,0,0,0,0,0,0,0,47,0,7,3,4,50,2,7,4
+1114,Montgomery,2014,13249,Montgomery Co. Animal Control & Shelter,Hillsboro,62049-3621,Animal Control Facility,0,0,0,0,0,19,329,44,103,2,21,20,254,94,3,10,11,0,0,0,0,0,0,583,138,106,12
+1115,Dewitt,2014,13301,"Second Chance Pet Adoptions, Inc.",Clinton,61727-1805,Animal Shelter,0,0,0,0,0,0,56,39,0,0,17,0,36,26,0,0,10,0,0,2,0,0,0,92,67,0,0
+1116,Adams,2014,13357,City of Quincy Animal Shelter,Quincy,62301-3306,Animal Shelter & Animal Control Facility,0,0,0,0,0,0,524,234,238,52,0,0,529,186,28,315,0,0,7,5,0,2,0,1060,425,266,369
+1117,LaSalle,2014,13358,City of Streator Animal Control,Streator,61364-2996,Animal Control Facility,0,0,0,0,0,0,86,24,59,3,0,0,0,0,0,0,0,0,0,0,0,0,0,86,24,59,3
+1118,Sangamon,2014,13501,Canine Solutions Rescue,Rochester,62563-8445,Animal Shelter,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1119,Will,2014,13512,Making A Difference Rescue,Channahon,60410-3196,Animal Shelter,0,0,0,0,0,10,8,13,1,0,4,5,5,3,0,0,7,0,0,0,0,0,0,13,16,1,0
+1120,Winnebago,2014,13587,Robison Parrot Rescue,Rockford,61103-3020,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,7,0,0,3,0,7,0,0
+1121,Will,2014,13632,"English Springer Rescue America, Inc.",Flossmoor,60422,Animal Shelter,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0
+1122,Will,2014,13646,Hope 4 Paws Rescue,Plainfield,60586-6771,Animal Shelter,0,0,0,0,0,5,75,75,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,75,75,0,2
+1123,Will,2014,13677,ALOHA (A Love of Homeless Animals),Bolingbrook,60490-4504,Animal Shelter,3,25,0,0,0,32,32,28,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,32,28,0,4
+1124,Will,2014,13679,Critter Corral Guinea Pig Rescue,Plainfield,60585-2580,Animal Shelter,0,0,0,0,257,0,0,0,0,0,0,0,0,0,0,0,0,80,317,276,0,3,118,317,276,0,3
+1125,Peoria,2014,13702,"Paws Giving Independence, NFP",Peoria,61614-4106,Animal Shelter,0,0,0,0,0,14,8,9,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,8,9,0,0
+1126,Madison,2014,13730,Dachshund Rescue of St. Louis,Highland,62249-2760,Animal Shelter,0,0,0,0,0,30,200,160,0,5,30,0,0,0,0,0,0,0,0,0,0,0,0,200,160,0,5
+1127,Livingston,2014,13734,Livingston County Animal Control,Pontiac,61764-0154,Animal Control Facility,0,0,0,0,0,12,140,57,84,11,4,0,0,0,0,0,0,0,0,0,0,0,0,140,57,84,11
+1128,Knox,2014,13761,Guardian Angels Humane Society,Galesburg,61401-1445,Animal Shelter,0,0,0,0,0,4,8,9,0,0,3,39,16,25,0,0,30,3,2,0,0,0,5,26,34,0,0
+1129,Macon,2014,13788,Illinois English Bulldog Rescue,Decatur,62526-9620,Animal Shelter,0,0,0,0,0,41,35,34,0,3,31,0,0,0,0,0,0,0,0,0,0,0,0,35,34,0,3
+1130,Kendall,2014,13789,Eye on the Sparrow,Montgomery,60538-2461,0,159,38,12,28,0,31,171,197,2,3,21,16,32,40,0,0,8,0,0,0,0,0,0,203,237,2,3
+1131,Iroquois,2014,13793,"Iroquois County Animal Rescue, NFP",Iroquois,60945,Animal Shelter,13,0,92,42,0,7,10,13,0,0,4,80,58,134,3,1,15,0,0,0,0,0,0,68,147,3,1
+1132,Piatt,2014,13808,Village of Mansfield,Mansfield,61854-0010,Animal Control Facility,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1133,LaSalle,2014,13822,Safe House Animal Rescue League NFP,Dalzell,61320-9717,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,40,147,132,1,14,40,0,0,0,0,0,0,147,132,1,14
+1134,Kankakee,2014,13825,Village of Manteno Animal Control,Manteno,60950-1245,Animal Control Facility,0,0,0,0,0,0,21,3,15,3,0,0,2,2,0,0,0,0,0,0,0,0,0,23,5,15,3
+1135,Will,2014,13826,"Angels on Wheels Animal Rescue, NFP",Naperville,60564,Animal Shelter,41,110,25,84,0,6,163,151,0,3,9,9,127,109,0,2,16,0,0,0,0,0,0,290,260,0,5
+1136,Macoupin,2014,13833,Feathered Nest,Brighton,62012-3009,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,60,60,0,0,15,60,60,0,0
+1137,Jackson,2014,13839,Midwest Animal Rescue Service,Murphysboro,62966-5337,Animal Shelter,5,107,2,2,0,12,143,113,0,0,43,5,7,5,0,0,7,3,1,1,0,0,3,151,119,0,0
+1138,Will,2014,13841,Wire Fox Terrier Rescue Midwest,Mokena,60448,Animal Shelter,0,0,0,0,0,2,33,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,35,0,0
+1139,Edgar,2014,13885,Safe A Mutt Shelter & Rescue,Chrisman,61924-8031,Animal Shelter,0,0,0,0,0,5,158,151,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,158,151,4,3
+1140,Will,2014,13892,"Great Lakes Mastiff Rescue, Inc.",Chicago,60647-2202,Animal Shelter,4,0,0,0,0,2,0,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+1141,Effingham,2014,13912,E.A.R.S.,Effingham,62401-6211,Animal Shelter,0,0,0,0,0,12,161,144,12,0,17,4,79,75,0,1,7,0,0,0,0,0,0,240,219,12,1
+1142,Peoria,2014,13920,Peoria County Animal Welfare Shelter,Peoria,61603-2851,Animal Control Facility,0,0,0,0,0,0,2028,816,551,649,0,0,2163,606,45,1469,0,0,150,49,1,70,0,4341,1471,597,2188
+1143,Macoupin,2014,13922,River King Newfoundland Club Rescue,Brighton,62012-1550,Animal Shelter,0,0,0,0,0,0,6,3,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,6,3,1,0
+1144,Hancock,2014,13923,West Hancock Canine Rescue,Hamilton,62341-0288,Animal Shelter,0,0,0,0,0,0,43,37,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,43,37,0,0
+1145,Madison,2014,13934,Come Bye Border Collie Rescue,Highland,62249-0332,Animal Shelter,0,0,0,0,0,15,87,62,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,87,62,0,0
+1146,Tazewell,2014,13939,Australian Shepherd Rescue Midwest,East Peoria,61611-1285,Animal Shelter,83,11,0,0,0,38,62,83,3,1,15,0,0,0,0,0,0,0,0,0,0,0,0,62,83,3,1
+1147,Shelby,2014,13942,Village of Herrick,Herrick,62431-0158,Animal Control Facility,0,0,0,0,0,0,5,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,3,1
+1148,Vermillion,2014,13949,Citizens for Animal Rescue and Adoption,Tilton,61833,Animal Shelter,32,26,57,32,0,19,59,58,4,0,16,531,87,89,2,0,527,0,0,0,0,0,0,146,147,6,0
+1149,Kendall,2014,13987,Jellystone Bark's Rescue Rangers,Oswego,60543-7541,Animal Shelter,370,416,0,0,0,13,798,786,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,798,786,0,2
+1150,Crawford,2014,14047,Crawford County Spay & Neuter Foundation,Robinson,62454-3736,Animal Shelter,0,0,0,0,0,0,0,0,0,0,0,3,117,89,0,18,13,0,0,0,0,0,0,117,89,0,18
+1151,Calhoun,2014,14049,Andrea's Adoptive Puppies,Hardin,62047-0005,Animal Shelter,0,0,0,0,0,0,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,15,0,0
+1152,Montgomery,2014,14054,"Paws Care, Inc.",Hillsboro,62049-0025,Animal Shelter,0,0,0,0,0,9,63,62,0,0,10,1,24,15,0,0,10,0,0,0,0,0,0,87,77,0,0
+1153,Winnebago,2014,14064,"Good Shepherd Animal Sanctuary, Inc.",South Beloit,61080-9521,Animal Shelter,8,15,0,0,0,0,23,23,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,23,23,0,0
+1154,Will,2014,14074,Kings Promise All Breed Rescue,Peotone,60468,Animal Shelter,3,4,0,0,0,1,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,0,0
+1155,Adams,2014,14089,Quincy K-9 Connection,Quincy,62305,Animal Shelter,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
