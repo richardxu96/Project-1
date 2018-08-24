@@ -1,4 +1,4 @@
-Team Members:  Jim Cloud, Heather Mueller, Richard Xu
+Team Members:  Jim Cloud, Richard Xu
 
 ## Project Title:  Animal Welfare Outcomes
 
